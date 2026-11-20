@@ -1,0 +1,94 @@
+.btn-small-navi[data-v-454eddef] {
+  border: none;
+  margin-top: 1.2lh;
+  margin-right: 0.8em;
+  transition: color 0.2s ease-in-out;
+  position: relative;
+}
+.btn-small-navi .imgs[data-v-454eddef] {
+  aspect-ratio: 1;
+  width: 2lh;
+  position: absolute;
+  bottom: 0.2lh;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.btn-small-navi .imgs img[data-v-454eddef] {
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.2s ease-in-out;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.btn-small-navi .imgs img.normal[data-v-454eddef] {
+  opacity: 1;
+}
+.btn-small-navi .imgs img.highlighted[data-v-454eddef] {
+  opacity: 0;
+}
+.btn-small-navi .imgs .shine[data-v-454eddef] {
+  pointer-events: none;
+  background-image: url(./btn_shine-FbMXJMPU.webp);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.btn-small-navi:hover[data-v-454eddef] {
+  color: #fff;
+}
+.btn-small-navi:hover .imgs img.normal[data-v-454eddef] {
+  opacity: 0;
+}
+.btn-small-navi:hover .imgs img.highlighted[data-v-454eddef] {
+  opacity: 1;
+}
+.container[data-v-70f33ca1] {
+  font-size: 1.2em;
+}
+.container[data-v-70f33ca1] > * {
+  object-fit: cover;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.container .menu[data-v-70f33ca1] {
+  align-items: left;
+  justify-content: center;
+  gap: 16px;
+  height: 55%;
+  font-size: 1.6em;
+  position: absolute;
+  bottom: 64px;
+  left: 5%;
+}
+.container .loading[data-v-70f33ca1] {
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  height: 55%;
+  font-size: 3em;
+}
+.container .bottom-navbar[data-v-70f33ca1] {
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0 2ic 1lh;
+}
+.container .bottom-navbar .center[data-v-70f33ca1] {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+.container .bottom-navbar .right > span[data-v-70f33ca1] {
+  padding-right: 0.1ic;
+}
+.container .bottom-navbar .navi-sm-btn[data-v-70f33ca1] {
+  min-width: 60px;
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "A-开篇宫殿",
+    "source": "00_001_001.mp4",
+    "source_start_seconds": 1,
+    "source_end_seconds": 3,
+    "excerpt": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\精选四段MP4\\A-开篇宫殿.mp4",
+    "duration": "2.000000",
+    "note": "剪辑重编码副本，原片保持原字节"
+  },
+  {
+    "name": "B-序章街巷",
+    "source": "00_075_034.mp4",
+    "source_start_seconds": 57,
+    "source_end_seconds": 59.2,
+    "excerpt": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\精选四段MP4\\B-序章街巷.mp4",
+    "duration": "2.200000",
+    "note": "剪辑重编码副本，原片保持原字节"
+  },
+  {
+    "name": "C-终章山河",
+    "source": "07_050_066067068.mp4",
+    "source_start_seconds": 350,
+    "source_end_seconds": 358.8,
+    "excerpt": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\精选四段MP4\\C-终章山河.mp4",
+    "duration": "8.800000",
+    "note": "剪辑重编码副本，原片保持原字节"
+  },
+  {
+    "name": "D-结尾人物",
+    "source": "07_068_052.mp4",
+    "source_start_seconds": 8,
+    "source_end_seconds": 16,
+    "excerpt": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\精选四段MP4\\D-结尾人物.mp4",
+    "duration": "8.000000",
+    "note": "剪辑重编码副本，原片保持原字节"
+  }
+]

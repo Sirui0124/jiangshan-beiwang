@@ -1,0 +1,18 @@
+.btn-navi[data-v-717e8c2b] {
+  color: #8b8173;
+  vertical-align: middle;
+  text-align: left;
+  appearance: none;
+  aspect-ratio: 330/95;
+  background-image: url(./main_btn_background-Bh1NXDqt.webp);
+  background-repeat: no-repeat;
+  border: none;
+  height: 48px;
+  padding-left: 16px;
+  font-size: 24px;
+  transition: color 0.45s;
+  display: inline-block;
+}
+.btn-navi[data-v-717e8c2b]:hover {
+  color: #fff;
+}

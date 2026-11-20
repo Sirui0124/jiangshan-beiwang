@@ -1,0 +1,6859 @@
+{
+  "date": "2026-11-12",
+  "installed_buildid": "21189939",
+  "pending_target_buildid": "26235942",
+  "scope": "Static local resource evidence; diagram edges do not establish runtime reachability or hidden condition thresholds. No game launched.",
+  "chapters": [
+    {
+      "chapter": 0,
+      "title": "大风起",
+      "subtitle_files": 77,
+      "nonempty_subtitles": 60,
+      "localized_nodes": 20,
+      "diagram_edges": 107,
+      "subtitle_pack_sha256": "b12b88f695eb6d3f39934ce1b50fc0ecbe62e36a547a53aeca4f9ebd2be7ac3a"
+    },
+    {
+      "chapter": 1,
+      "title": "雨打萍",
+      "subtitle_files": 85,
+      "nonempty_subtitles": 64,
+      "localized_nodes": 31,
+      "diagram_edges": 104,
+      "subtitle_pack_sha256": "904f796675883134776741a2444a83e1f1b846233d5d4f8595bee3adaeb16dd8"
+    },
+    {
+      "chapter": 2,
+      "title": "蛟入海",
+      "subtitle_files": 80,
+      "nonempty_subtitles": 54,
+      "localized_nodes": 23,
+      "diagram_edges": 108,
+      "subtitle_pack_sha256": "8d31d6e1f4ed696736d9ec22a4b86c6f446ca7321f098358b42e9d89084ac8e4"
+    },
+    {
+      "chapter": 3,
+      "title": "试锋刀",
+      "subtitle_files": 88,
+      "nonempty_subtitles": 66,
+      "localized_nodes": 29,
+      "diagram_edges": 110,
+      "subtitle_pack_sha256": "0044adce8db85d067b42a6d38b05f76599c04ce6eb4beb19ae870c5933197551"
+    },
+    {
+      "chapter": 4,
+      "title": "破山缺",
+      "subtitle_files": 36,
+      "nonempty_subtitles": 18,
+      "localized_nodes": 28,
+      "diagram_edges": 36,
+      "subtitle_pack_sha256": "5cb63abd05758d62e95a69188bcf042221e85ec29cd63500f99c3294c0cd8fa4"
+    },
+    {
+      "chapter": 5,
+      "title": "问天命",
+      "subtitle_files": 94,
+      "nonempty_subtitles": 69,
+      "localized_nodes": 40,
+      "diagram_edges": 110,
+      "subtitle_pack_sha256": "e95c5bd7d7963658e91e99dbbe197ebe15153fce4d5309ec001bf8635dd91d9c"
+    },
+    {
+      "chapter": 6,
+      "title": "太平志",
+      "subtitle_files": 84,
+      "nonempty_subtitles": 65,
+      "localized_nodes": 32,
+      "diagram_edges": 108,
+      "subtitle_pack_sha256": "5dae3424cb2475d1eb466b37def68d59fe266cc3185616f9e63e74d010caaa24"
+    },
+    {
+      "chapter": 7,
+      "title": "九州同",
+      "subtitle_files": 71,
+      "nonempty_subtitles": 55,
+      "localized_nodes": 29,
+      "diagram_edges": 85,
+      "subtitle_pack_sha256": "ae252a672cdec2c8ceaa1b8a88475446369e10fdd4dfcdf91e0202d9843cc7be"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "a00_a001_a001",
+      "title": "宣国晋王",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a002_a001loop",
+      "title": "昂贵的玉",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a006_a002loop",
+      "title": "两个办法",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a009_abe001",
+      "title": "天威难测",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a010_a003loop",
+      "title": "皇帝的近侍",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a014_a004loop",
+      "title": "皇帝的召见",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a018_a005loop",
+      "title": "与虞宫的关系",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a023_a006loop",
+      "title": "是否在场",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a030_a007loop",
+      "title": "放过虞宫的原因",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a037_a008loop",
+      "title": "皇帝的近侍",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a041_a009loop",
+      "title": "深夜进宫",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a044_a010loop",
+      "title": "求情的方法",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a047_a011loop",
+      "title": "处理逆臣",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a054_a012loop",
+      "title": "皇帝的心思",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a058_a013loop",
+      "title": "皇帝的棋局",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a062_a014loop",
+      "title": "犯错的大哥",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a068_a015loop",
+      "title": "替罪的羔羊",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a072_a016loop",
+      "title": "求救的棋子",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a078_a017loop",
+      "title": "宁王的警告",
+      "chapter": 0
+    },
+    {
+      "id": "a00_a081_a037038039040041",
+      "title": "大路独行",
+      "chapter": 0
+    },
+    {
+      "id": "a01_a001_a001",
+      "title": "朝堂议事",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a002_a001loop",
+      "title": "宁王的联姻",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a006_a002loop",
+      "title": "皇后的点心",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a011_a003loop",
+      "title": "陈婉儿的心思",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a014_a004loop",
+      "title": "陈氏长女",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a019_a005loop",
+      "title": "私吞的物资",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a023_a006loop",
+      "title": "突至的军队",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a027_a007loop",
+      "title": "将错就错",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a028_a007a021_abe001",
+      "title": "飞来横祸",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a031_a028",
+      "title": "大乱宫廷",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a032_a032033034035036_ahe001",
+      "title": "气运之子",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a034_a008loop",
+      "title": "落入牢狱",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a039_a009loop",
+      "title": "司空正的栽赃",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a043_a010loop",
+      "title": "脱罪的机会",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a048_a011loop",
+      "title": "最后的通牒",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a052_a012loop",
+      "title": "纷乱的时局",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a053_a012a",
+      "title": "得道成仙",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a054_a012b053054",
+      "title": "我姓司空",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a055_a046055",
+      "title": "晋王王妃",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a056_a047048_abe003",
+      "title": "龙子稀薄",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a059_a013loop",
+      "title": "破局的通路",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a062_a014loop",
+      "title": "儿有一言",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a067_a015loop",
+      "title": "为何调兵",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a070_a015c_abe006",
+      "title": "朕也贪？",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a072_a016loop",
+      "title": "调兵之人",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a075_a064_abe007",
+      "title": "揣摩圣意",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a077_aqte2loop",
+      "title": "别故人",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a079_a057_abe004",
+      "title": "蝴蝶效应",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a080_a029_abe002",
+      "title": "时也命也",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a083_a069079",
+      "title": "江北江南",
+      "chapter": 1
+    },
+    {
+      "id": "a01_a084_a017loop",
+      "title": "定局",
+      "chapter": 1
+    },
+    {
+      "id": "a02_a001_a001002003004",
+      "title": "风不止",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a002_a001loop",
+      "title": "难得家宴",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a006_a002loop",
+      "title": "多少斤两",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a009_a007008",
+      "title": "玉韘何在",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a012_a003loop",
+      "title": "赴宴的门道",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a016_a004loop",
+      "title": "寒碜的礼物",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a020_a005loop",
+      "title": "两手空空",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a024_a006loop",
+      "title": "贵重之物",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a027_a017",
+      "title": "书生意气",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a031_a007loop",
+      "title": "祖月的挑战",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a034_aqte1loop",
+      "title": "刀兵争锋",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a044_a030qte4",
+      "title": null,
+      "chapter": 2
+    },
+    {
+      "id": "a02_a047_aqte5",
+      "title": null,
+      "chapter": 2
+    },
+    {
+      "id": "a02_a052_a038_abe001",
+      "title": "刀枪无眼",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a053_a008loop",
+      "title": "身边的人才",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a057_a009loop",
+      "title": "北伐之论",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a061_a010loop",
+      "title": "北伐的症结",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a066_a011loop",
+      "title": "失利之责",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a070_a043",
+      "title": "祖坤的意见",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a071_a044045046047_abe002",
+      "title": "孤勇者",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a073_a012loop",
+      "title": "醒酒汤",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a077_a013loop",
+      "title": "问君归期",
+      "chapter": 2
+    },
+    {
+      "id": "a02_a080_a051",
+      "title": "蛟龙入海",
+      "chapter": 2
+    },
+    {
+      "id": "a03_a001_a001",
+      "title": "北征",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a002_aqte1loop",
+      "title": null,
+      "chapter": 3
+    },
+    {
+      "id": "a03_a004_a001loop",
+      "title": "林间的青年",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a008_a002loop",
+      "title": "旧民的好意",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a012_a003loop",
+      "title": "弋阳的情况",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a018_a004loop",
+      "title": "宣国旧臣",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a021_a005loop",
+      "title": "进城的请求",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a024_aqte2",
+      "title": "射杀叛臣",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a028_a006loop",
+      "title": "传国宝玺",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a032_a007loop",
+      "title": "北上南归",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a034_a007a017018_abe001",
+      "title": "亡国玉玺",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a042_a008loop",
+      "title": "攻城的流民",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a045_a009loop",
+      "title": "危机的城墙",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a046_a009a034_abe002",
+      "title": "是条汉子",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a049_a010loop",
+      "title": "邬伖的主力",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a052_a011loop",
+      "title": "夜袭的安排",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a057_a045046_abe005",
+      "title": "用人不当",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a059_a012loop",
+      "title": "突至的援手",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a060_a012a054_abe006",
+      "title": "奸细作乱",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a063_a013loop",
+      "title": "安抚义士",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a064_a013a_abe007",
+      "title": "大意殒命",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a066_a014loop",
+      "title": "暴露的行踪",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a070_a015loop",
+      "title": "义军的嫌疑",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a074_a016loop",
+      "title": "义军的接收",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a078_a017loop",
+      "title": "城上的曲子",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a083_a018loop",
+      "title": "强大的敌人",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a087_a070",
+      "title": "望北",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a088_a044_abe004",
+      "title": "宣舞帝",
+      "chapter": 3
+    },
+    {
+      "id": "a03_a090_aqte3loop",
+      "title": null,
+      "chapter": 3
+    },
+    {
+      "id": "a04_a001_a001002",
+      "title": "受困弋阳",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a002_a001loop",
+      "title": "援军的虚实",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a003_a001a003_abe001",
+      "title": "回马枪",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a007_a002loop",
+      "title": "左支右绌",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a008_a002a010_abe002",
+      "title": "逍遥王",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a009_a002b012013",
+      "title": "驰援城南",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a010_a002c011_abe003",
+      "title": "常跑冠军",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a011_a002d_abe004",
+      "title": "城南失火",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a012_a035_a1_abe013",
+      "title": "武艺不精",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a013_a035_a2",
+      "title": "搏杀",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a015_a014015016_abe005",
+      "title": "死道友不死贫道",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a017_a003loop",
+      "title": "败局",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a018_a003a020021022_abe006",
+      "title": "罪在儿臣",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a022_a005",
+      "title": "突入敌营",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a023_a005a029030031_abe007",
+      "title": "技低一筹",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a027_aqte1",
+      "title": null,
+      "chapter": 4
+    },
+    {
+      "id": "a04_a028_a36_abe008",
+      "title": "身手欠佳",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a030_aqte2",
+      "title": null,
+      "chapter": 4
+    },
+    {
+      "id": "a04_a031_a38_abe009",
+      "title": "花拳绣腿",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a033_aqte3",
+      "title": null,
+      "chapter": 4
+    },
+    {
+      "id": "a04_a034_a40_abe010",
+      "title": "一寸长一寸强",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a036_a006loop",
+      "title": "何许人也",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a037_a006a42_abe012",
+      "title": "功亏一篑",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a038_a006b043044045046047048",
+      "title": "王府喜事",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a039_aqte5loop",
+      "title": null,
+      "chapter": 4
+    },
+    {
+      "id": "a04_a041_aqte3",
+      "title": null,
+      "chapter": 4
+    },
+    {
+      "id": "a04_a042_a040_a1be011",
+      "title": "抱错大腿",
+      "chapter": 4
+    },
+    {
+      "id": "a04_a043_a039_a1",
+      "title": "断刃",
+      "chapter": 4
+    },
+    {
+      "id": "a05_a001_a001002003004",
+      "title": "将军去",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a002_a001loop",
+      "title": "为何而争",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a007_a002loop",
+      "title": "皇城急信",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a011_a003loop",
+      "title": "速速归京",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a012_a003a010_abe001",
+      "title": "兄友弟恭",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a014_aqte5loop",
+      "title": null,
+      "chapter": 5
+    },
+    {
+      "id": "a05_a015_a004loop",
+      "title": "诏书的意思",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a016_a004a012_abe002",
+      "title": "黄粱美梦",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a019_a022loop",
+      "title": "城下劝降",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a020_a005loop",
+      "title": "兵部的调令",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a022_a005b016_abe003",
+      "title": "打草惊蛇",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a024_a006loop",
+      "title": "以下犯上",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a025_a006b_abe004",
+      "title": "犹豫就会败北",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a029_a007loop",
+      "title": "天命在我",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a033_a008loop",
+      "title": "大战将起",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a036_a009loop",
+      "title": "安神的香",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a041_a010loop",
+      "title": "紧迫的时间",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a042_a010a_abe005",
+      "title": "不与为谋",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a044_a011loop",
+      "title": "再见石狼",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a047_a012loop",
+      "title": "一笔生意",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a048_a012a_abe006",
+      "title": "不差钱",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a050_a013loop",
+      "title": "讨价还价",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a051_a013a_abe007",
+      "title": "谈崩了",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a054_aqte2",
+      "title": null,
+      "chapter": 5
+    },
+    {
+      "id": "a05_a055_a037_abe008",
+      "title": "大功一箭",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a057_a014loop",
+      "title": "破城",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a064_a015loop",
+      "title": "通敌罪证",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a070_a016loop",
+      "title": "意外来使",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a071_a016a050051052053054",
+      "title": "历史轮转",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a072_a016b055",
+      "title": "假圣旨",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a075_a056_abe009",
+      "title": "分而化之",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a077_a017loop",
+      "title": "进退",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a081_a018loop",
+      "title": "两难",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a082_a018a_abe010",
+      "title": "被包饺子",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a085_a019loop",
+      "title": "胜者败者",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a088_a023loop",
+      "title": "手足",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a090_a012loop",
+      "title": "处置",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a094_a021loop",
+      "title": "软刀",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a095_a021b_abe011",
+      "title": "宣泯帝",
+      "chapter": 5
+    },
+    {
+      "id": "a05_a097_a071",
+      "title": "天命",
+      "chapter": 5
+    },
+    {
+      "id": "a06_a001_a001002003004005",
+      "title": "观沧海",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a002_a001loop",
+      "title": "战术战略",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a007_a002loop",
+      "title": "惊马",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a012_a003loop",
+      "title": "刘静嫔",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a016_a004loop",
+      "title": "陈夫人",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a020_a005loop",
+      "title": "朝廷用度",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a024_a006loop",
+      "title": "翻牌",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a031_a007loop",
+      "title": "荒唐大梦",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a032_a007a_abe001",
+      "title": "宣幽帝",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a033_a007b_abe002",
+      "title": "宣纵帝",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a034_a049_a1be005",
+      "title": "帝星不明",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a035_a050051052",
+      "title": "朱大将军",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a039_a008loop",
+      "title": "访永宁侯",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a042_a009loop",
+      "title": "劝言",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a046_a010loop",
+      "title": "祭拜若兰",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a050_a011loop",
+      "title": "请赐老师",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a054_a012loop",
+      "title": "跋扈将军",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a059_a013loop",
+      "title": "坊间谣言",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a063_a014loop",
+      "title": "用人",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a067_a015loop",
+      "title": "和亲",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a074_a016loop",
+      "title": "失败的变法",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a075_a016a",
+      "title": "隔阂",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a076_a016b",
+      "title": "敷衍",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a078_a017loop",
+      "title": "受阻的变法",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a079_a017a",
+      "title": "罢手",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a080_a017b048",
+      "title": "一变到底",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a081_a049",
+      "title": "猜疑",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a082_a053054",
+      "title": "惶惶",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a083_a055_abe003",
+      "title": "宣废帝",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a085_a018loop",
+      "title": "骑虎",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a086_a018a_abe004",
+      "title": "宣殇帝",
+      "chapter": 6
+    },
+    {
+      "id": "a06_a087_a018b057058059060",
+      "title": "取舍",
+      "chapter": 6
+    },
+    {
+      "id": "a07_a001_a001002003",
+      "title": "铁蹄南踏",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a003_a001loop",
+      "title": "勉励应对",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a006_a005006007_abe001",
+      "title": "宣怀帝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a007_a008009010_a010_a1_abe002",
+      "title": "宣哀帝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a009_a002loop",
+      "title": "尚有一战",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a012_a012013014_abe003",
+      "title": "宣康帝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a016_a030031",
+      "title": "宣明帝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a017_aqte1loop",
+      "title": "挥师北伐",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a020_a003loop",
+      "title": "王对王",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a021_a003a039_abe004",
+      "title": "攻守又易形了",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a023_a008loop",
+      "title": "后方之乱",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a024_a008a",
+      "title": "鸾凤鸣",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a025_a004loop",
+      "title": "君君臣臣",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a029_a005loop",
+      "title": "一瓢弱水",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a034_a008bbe005",
+      "title": "宣庄帝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a037_aqte2loop",
+      "title": null,
+      "chapter": 7
+    },
+    {
+      "id": "a07_a038_a006loop",
+      "title": "传位诏",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a043_a007loop",
+      "title": "父与子",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a049_a009loop",
+      "title": "谁当大任",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a050_a066067068",
+      "title": "九州同",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a053_a071072073074",
+      "title": "宣景帝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a054_a075075_a1075_a2075_a3075_a4075_a5075_a6",
+      "title": "宣成帝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a055_a076077",
+      "title": "宣文帝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a056_a010loop",
+      "title": "比翼鸟",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a056_a078079080081",
+      "title": "宣光武帝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a057_a082083084085",
+      "title": "宣昭帝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a061_a011loop",
+      "title": "连理枝",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a065_a012loop",
+      "title": "双飞燕",
+      "chapter": 7
+    },
+    {
+      "id": "a07_a070_aqte3loop",
+      "title": null,
+      "chapter": 7
+    }
+  ],
+  "endings": [
+    {
+      "id": "a00_a009_abe001",
+      "title": "天威难测"
+    },
+    {
+      "id": "a01_a028_a007a021_abe001",
+      "title": "飞来横祸"
+    },
+    {
+      "id": "a01_a032_a032033034035036_ahe001",
+      "title": "气运之子"
+    },
+    {
+      "id": "a01_a053_a012a",
+      "title": "得道成仙"
+    },
+    {
+      "id": "a01_a054_a012b053054",
+      "title": "我姓司空"
+    },
+    {
+      "id": "a01_a056_a047048_abe003",
+      "title": "龙子稀薄"
+    },
+    {
+      "id": "a01_a070_a015c_abe006",
+      "title": "朕也贪？"
+    },
+    {
+      "id": "a01_a075_a064_abe007",
+      "title": "揣摩圣意"
+    },
+    {
+      "id": "a01_a079_a057_abe004",
+      "title": "蝴蝶效应"
+    },
+    {
+      "id": "a01_a080_a029_abe002",
+      "title": "时也命也"
+    },
+    {
+      "id": "a02_a052_a038_abe001",
+      "title": "刀枪无眼"
+    },
+    {
+      "id": "a02_a071_a044045046047_abe002",
+      "title": "孤勇者"
+    },
+    {
+      "id": "a03_a034_a007a017018_abe001",
+      "title": "亡国玉玺"
+    },
+    {
+      "id": "a03_a046_a009a034_abe002",
+      "title": "是条汉子"
+    },
+    {
+      "id": "a03_a057_a045046_abe005",
+      "title": "用人不当"
+    },
+    {
+      "id": "a03_a060_a012a054_abe006",
+      "title": "奸细作乱"
+    },
+    {
+      "id": "a03_a064_a013a_abe007",
+      "title": "大意殒命"
+    },
+    {
+      "id": "a03_a088_a044_abe004",
+      "title": "宣舞帝"
+    },
+    {
+      "id": "a04_a003_a001a003_abe001",
+      "title": "回马枪"
+    },
+    {
+      "id": "a04_a008_a002a010_abe002",
+      "title": "逍遥王"
+    },
+    {
+      "id": "a04_a010_a002c011_abe003",
+      "title": "常跑冠军"
+    },
+    {
+      "id": "a04_a011_a002d_abe004",
+      "title": "城南失火"
+    },
+    {
+      "id": "a04_a012_a035_a1_abe013",
+      "title": "武艺不精"
+    },
+    {
+      "id": "a04_a015_a014015016_abe005",
+      "title": "死道友不死贫道"
+    },
+    {
+      "id": "a04_a018_a003a020021022_abe006",
+      "title": "罪在儿臣"
+    },
+    {
+      "id": "a04_a023_a005a029030031_abe007",
+      "title": "技低一筹"
+    },
+    {
+      "id": "a04_a028_a036_abe008",
+      "title": "身手欠佳"
+    },
+    {
+      "id": "a04_a031_a038_abe009",
+      "title": "花拳绣腿"
+    },
+    {
+      "id": "a04_a034_a040_abe010",
+      "title": "一寸长一寸强"
+    },
+    {
+      "id": "a04_a037_a006a042_abe012",
+      "title": "功亏一篑"
+    },
+    {
+      "id": "a04_a042_a040_a1be011",
+      "title": "抱错大腿"
+    },
+    {
+      "id": "a05_a012_a003a010_abe001",
+      "title": "兄友弟恭"
+    },
+    {
+      "id": "a05_a016_a004a012_abe002",
+      "title": "黄粱美梦"
+    },
+    {
+      "id": "a05_a022_a005b016_abe003",
+      "title": "打草惊蛇"
+    },
+    {
+      "id": "a05_a025_a006b_abe004",
+      "title": "犹豫就会败北"
+    },
+    {
+      "id": "a05_a042_a010a_abe005",
+      "title": "不与为谋"
+    },
+    {
+      "id": "a05_a048_a012a_abe006",
+      "title": "不差钱"
+    },
+    {
+      "id": "a05_a051_a013a_abe007",
+      "title": "谈崩了"
+    },
+    {
+      "id": "a05_a055_a037_abe008",
+      "title": "大功一箭"
+    },
+    {
+      "id": "a05_a071_a016a050051052053054",
+      "title": "历史轮转"
+    },
+    {
+      "id": "a05_a075_a056_abe009",
+      "title": "分而化之"
+    },
+    {
+      "id": "a05_a082_a018a_abe010",
+      "title": "被包饺子"
+    },
+    {
+      "id": "a05_a095_a021b_abe011",
+      "title": "宣炀帝"
+    },
+    {
+      "id": "a06_a032_a007a_abe001",
+      "title": "宣幽帝"
+    },
+    {
+      "id": "a06_a033_a007b_abe002",
+      "title": "宣纵帝"
+    },
+    {
+      "id": "a06_a034_a049_a1be005",
+      "title": "帝星不明"
+    },
+    {
+      "id": "a06_a083_a055_abe003",
+      "title": "宣废帝"
+    },
+    {
+      "id": "a06_a086_a018a_abe004",
+      "title": "宣殇帝"
+    },
+    {
+      "id": "a07_a006_a005006007_abe001",
+      "title": "宣怀帝"
+    },
+    {
+      "id": "a07_a007_a008009010_a010_a1_abe002",
+      "title": "宣哀帝"
+    },
+    {
+      "id": "a07_a012_a012013014_abe003",
+      "title": "宣康帝"
+    },
+    {
+      "id": "a07_a016_a030031",
+      "title": "宣明帝"
+    },
+    {
+      "id": "a07_a021_a003a039_abe004",
+      "title": "攻守又易形了"
+    },
+    {
+      "id": "a07_a034_a008bbe005",
+      "title": "宣庄帝"
+    },
+    {
+      "id": "a07_a053_a071072073074",
+      "title": "宣景帝"
+    },
+    {
+      "id": "a07_a054_a075075_a1075_a2075_a3075_a4075_a5075_a6",
+      "title": "宣成帝"
+    },
+    {
+      "id": "a07_a055_a076077",
+      "title": "宣文帝"
+    },
+    {
+      "id": "a07_a056_a078079080081",
+      "title": "宣光武帝"
+    },
+    {
+      "id": "a07_a057_a082083084085",
+      "title": "宣昭帝"
+    }
+  ],
+  "diagram_edges": [
+    {
+      "chapter": 0,
+      "from": "00_004_001B",
+      "to": "00_005_002003004005",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_010_003LOOP",
+      "to": "00_012_003B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_008_002B021",
+      "to": "00_037_008LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_037_008LOOP",
+      "to": "00_039_008B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_037_008LOOP",
+      "to": "00_038_008A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_010_003LOOP",
+      "to": "00_011_003A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_007_002A006007008009010",
+      "to": "00_010_003LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_011_003A",
+      "to": "00_013_011",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_012_003B",
+      "to": "00_013_011",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_038_008A",
+      "to": "00_040_022",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_039_008B",
+      "to": "00_040_022",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_013_011",
+      "to": "00_014_004LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_040_022",
+      "to": "00_041_009LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_006_002LOOP",
+      "to": "00_008_002B021",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_006_002LOOP",
+      "to": "00_007_002A006007008009010",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_005_002003004005",
+      "to": "00_006_002LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_002_001LOOP",
+      "to": "00_003_001A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_003_001A",
+      "to": "00_005_002003004005",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_001_001",
+      "to": "00_002_001LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_002_001LOOP",
+      "to": "00_004_001B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_019_005A",
+      "to": "00_022_013",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_020_005B",
+      "to": "00_022_013",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_021_005C",
+      "to": "00_022_013",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_022_013",
+      "to": "00_023_006LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_047_011LOOP",
+      "to": "00_048_011A025",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_047_011LOOP",
+      "to": "00_050_011C025",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_047_011LOOP",
+      "to": "00_049_011B025",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_023_006LOOP",
+      "to": "00_025_006B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_030_007LOOP",
+      "to": "00_033_007C018",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_041_009LOOP",
+      "to": "00_043_009B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_041_009LOOP",
+      "to": "00_042_009A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_024_006A",
+      "to": "00_027_017",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_024_006A",
+      "to": "00_026_014",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_023_006LOOP",
+      "to": "00_024_006A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_062_014LOOP",
+      "to": "00_063_014A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_066_031",
+      "to": "00_067_032",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_063_014A",
+      "to": "00_066_031",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_061_029",
+      "to": "00_062_014LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_049_011B025",
+      "to": "00_053_027",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_050_011C025",
+      "to": "00_053_027",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_050_011C025",
+      "to": "00_052_026",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_048_011A025",
+      "to": "00_053_027",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_048_011A025",
+      "to": "00_052_026",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_049_011B025",
+      "to": "00_052_026",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_054_012LOOP",
+      "to": "00_056_012B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_053_027",
+      "to": "00_054_012LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_054_012LOOP",
+      "to": "00_055_012A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_043_009B",
+      "to": "00_044_010LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_042_009A",
+      "to": "00_044_010LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_044_010LOOP",
+      "to": "00_046_010B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_046_010B",
+      "to": "00_047_011LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_045_010A",
+      "to": "00_047_011LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_044_010LOOP",
+      "to": "00_045_010A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_055_012A",
+      "to": "00_057_028",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_056_012B",
+      "to": "00_057_028",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_058_013LOOP",
+      "to": "00_059_013A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_057_028",
+      "to": "00_058_013LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_052_026",
+      "to": "00_057_028",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_059_013A",
+      "to": "00_061_029",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_058_013LOOP",
+      "to": "00_060_013B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_060_013B",
+      "to": "00_061_029",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_062_014LOOP",
+      "to": "00_064_014B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_064_014B",
+      "to": "00_066_031",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_036_020",
+      "to": "00_057_028",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_029_015",
+      "to": "00_036_020",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_025_006B",
+      "to": "00_029_015",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_025_006B",
+      "to": "00_028_016",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_065_030",
+      "to": "00_067_032",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_064_014B",
+      "to": "00_065_030",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_063_014A",
+      "to": "00_065_030",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_071_033",
+      "to": "00_072_016LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_072_016LOOP",
+      "to": "00_073_016A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_069_015A",
+      "to": "00_071_033",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_068_015LOOP",
+      "to": "00_069_015A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_067_032",
+      "to": "00_068_015LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_072_016LOOP",
+      "to": "00_074_016B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_068_015LOOP",
+      "to": "00_070_015B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_073_016A",
+      "to": "00_076_035",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_070_015B",
+      "to": "00_076_035",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_074_016B",
+      "to": "00_076_035",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_070_015B",
+      "to": "00_075_034",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_074_016B",
+      "to": "00_075_034",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_073_016A",
+      "to": "00_075_034",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_075_034",
+      "to": "00_077_036",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_076_035",
+      "to": "00_077_036",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_077_036",
+      "to": "00_078_017LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_078_017LOOP",
+      "to": "00_079_017A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_078_017LOOP",
+      "to": "00_080_017B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_080_017B",
+      "to": "00_081_037038039040041",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_079_017A",
+      "to": "00_081_037038039040041",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_018_005LOOP",
+      "to": "00_019_005A",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_015_004A012",
+      "to": "00_018_005LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_016_004B012",
+      "to": "00_018_005LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_018_005LOOP",
+      "to": "00_020_005B",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_018_005LOOP",
+      "to": "00_021_005C",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_014_004LOOP",
+      "to": "00_016_004B012",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_014_004LOOP",
+      "to": "00_015_004A012",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_030_007LOOP",
+      "to": "00_031_007A018",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_030_007LOOP",
+      "to": "00_032_007B018",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_027_017",
+      "to": "00_030_007LOOP",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_033_007C018",
+      "to": "00_028_016",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_033_007C018",
+      "to": "00_036_020",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_032_007B018",
+      "to": "00_028_016",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_032_007B018",
+      "to": "00_036_020",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_031_007A018",
+      "to": "00_036_020",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_028_016",
+      "to": "00_009_BE001",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 0,
+      "from": "00_031_007A018",
+      "to": "00_028_016",
+      "source": ".vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_002_001LOOP",
+      "to": "01_003_001A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_006_002LOOP",
+      "to": "01_007_002A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_005_002003004",
+      "to": "01_006_002LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_003_001A",
+      "to": "01_005_002003004",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_006_002LOOP",
+      "to": "01_009_002C",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_006_002LOOP",
+      "to": "01_008_002B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_010_005006",
+      "to": "01_011_003LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_009_002C",
+      "to": "01_010_005006",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_008_002B",
+      "to": "01_010_005006",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_007_002A",
+      "to": "01_010_005006",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_011_003LOOP",
+      "to": "01_012_003A007",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_011_003LOOP",
+      "to": "01_013_003B007",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_012_003A007",
+      "to": "01_014_004LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_013_003B007",
+      "to": "01_014_004LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_014_004LOOP",
+      "to": "01_016_004B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_014_004LOOP",
+      "to": "01_017_004C",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_017_004C",
+      "to": "01_018_008009010011012",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_016_004B",
+      "to": "01_018_008009010011012",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_014_004LOOP",
+      "to": "01_015_004A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_015_004A",
+      "to": "01_018_008009010011012",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_018_008009010011012",
+      "to": "01_019_005LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_020_005A",
+      "to": "01_022_013014015016017018",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_019_005LOOP",
+      "to": "01_020_005A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_019_005LOOP",
+      "to": "01_021_005B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_021_005B",
+      "to": "01_026_020",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_026_020",
+      "to": "01_027_007LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_027_007LOOP",
+      "to": "01_028_007A021_BE001",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_027_007LOOP",
+      "to": "01_029_007B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_029_007B",
+      "to": "01_030_027",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_030_027",
+      "to": "01_031_028",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_031_028",
+      "to": "01_032_032033034035036_HE001",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_031_028",
+      "to": "01_080_029_BE002",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_022_013014015016017018",
+      "to": "01_023_006LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_024_006A019",
+      "to": "01_033_037038",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_023_006LOOP",
+      "to": "01_024_006A019",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_037_008C",
+      "to": "01_038_039",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_034_008LOOP",
+      "to": "01_037_008C",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_034_008LOOP",
+      "to": "01_035_008A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_035_008A",
+      "to": "01_038_039",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_033_037038",
+      "to": "01_034_008LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_036_008B",
+      "to": "01_038_039",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_034_008LOOP",
+      "to": "01_036_008B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_038_039",
+      "to": "01_039_009LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_039_009LOOP",
+      "to": "01_041_009B040",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_041_009B040",
+      "to": "01_042_041042043",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_043_010LOOP",
+      "to": "01_045_010B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_042_041042043",
+      "to": "01_043_010LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_040_009A040",
+      "to": "01_042_041042043",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_039_009LOOP",
+      "to": "01_040_009A040",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_043_010LOOP",
+      "to": "01_044_010A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_044_010A",
+      "to": "01_047_044",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_045_010B",
+      "to": "01_047_044",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_046_010C",
+      "to": "01_047_044",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_043_010LOOP",
+      "to": "01_046_010C",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_048_011LOOP",
+      "to": "01_050_011B045",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_052_012LOOP",
+      "to": "01_053_012A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_051_049050052",
+      "to": "01_052_012LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_049_011A",
+      "to": "01_051_049050052",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_052_012LOOP",
+      "to": "01_054_012B053054",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_023_006LOOP",
+      "to": "01_025_006B019",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_025_006B019",
+      "to": "01_033_037038",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_050_011B045",
+      "to": "01_056_047048_BE003",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_050_011B045",
+      "to": "01_055_046055",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_055_046055",
+      "to": "01_057_056",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_058_058",
+      "to": "01_059_013LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_055_046055",
+      "to": "01_058_058",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_060_013A060",
+      "to": "01_062_014LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_059_013LOOP",
+      "to": "01_060_013A060",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_057_056",
+      "to": "01_079_057_BE004",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_061_013B",
+      "to": "01_079_057_BE004",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_059_013LOOP",
+      "to": "01_061_013B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_063_014A",
+      "to": "01_066_061062",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_062_014LOOP",
+      "to": "01_063_014A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_064_014B",
+      "to": "01_066_061062",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_062_014LOOP",
+      "to": "01_064_014B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_065_014C",
+      "to": "01_066_061062",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_062_014LOOP",
+      "to": "01_065_014C",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_066_061062",
+      "to": "01_067_015LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_068_015A",
+      "to": "01_071_063",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_067_015LOOP",
+      "to": "01_068_015A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_067_015LOOP",
+      "to": "01_069_015B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_069_015B",
+      "to": "01_071_063",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_072_016LOOP",
+      "to": "01_074_016B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_071_063",
+      "to": "01_072_016LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_067_015LOOP",
+      "to": "01_070_015C_BE006",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_072_016LOOP",
+      "to": "01_073_016A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_073_016A",
+      "to": "01_075_064_BE007",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_074_016B",
+      "to": "01_075_064_BE007",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_073_016A",
+      "to": "01_076_065",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_074_016B",
+      "to": "01_076_065",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_078_066",
+      "to": "01_082_068",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_077_QTE2LOOP",
+      "to": "01_078_066",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_085_066",
+      "to": "01_077_QTE2LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_084_017LOOP",
+      "to": "01_085_066",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_076_065",
+      "to": "01_084_017LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_081_067",
+      "to": "01_083_069079",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_082_068",
+      "to": "01_083_069079",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_083_069079",
+      "to": "02_001_001002003004",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_078_066",
+      "to": "01_081_067",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_047_044",
+      "to": "01_048_011LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_048_011LOOP",
+      "to": "01_049_011A",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_001_001",
+      "to": "01_002_001LOOP",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_004_001B",
+      "to": "01_005_002003004",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 1,
+      "from": "01_002_001LOOP",
+      "to": "01_004_001B",
+      "source": ".vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_002_001LOOP",
+      "to": "02_003_001A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_001_001002003004",
+      "to": "02_002_001LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_002_001LOOP",
+      "to": "02_004_001B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_006_002LOOP",
+      "to": "02_008_002B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_008_002B",
+      "to": "02_009_007008",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_006_002LOOP",
+      "to": "02_007_002A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_007_002A",
+      "to": "02_009_007008",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_005_005006",
+      "to": "02_006_002LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_003_001A",
+      "to": "02_005_005006",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_004_001B",
+      "to": "02_005_005006",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_009_007008",
+      "to": "02_010_009",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_009_007008",
+      "to": "02_011_010015016",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_012_003LOOP",
+      "to": "02_014_003B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_010_009",
+      "to": "02_012_003LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_013_003A",
+      "to": "02_015_011012",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_012_003LOOP",
+      "to": "02_013_003A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_014_003B",
+      "to": "02_019_013014",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_015_011012",
+      "to": "02_016_004LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_019_013014",
+      "to": "02_020_005LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_020_005LOOP",
+      "to": "02_022_005B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_023_005C",
+      "to": "02_027_017",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_020_005LOOP",
+      "to": "02_021_005A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_022_005B",
+      "to": "02_027_017",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_020_005LOOP",
+      "to": "02_023_005C",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_016_004LOOP",
+      "to": "02_017_004A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_016_004LOOP",
+      "to": "02_018_004B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_017_004A",
+      "to": "02_027_017",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_018_004B",
+      "to": "02_027_017",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_021_005A",
+      "to": "02_027_017",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_011_010015016",
+      "to": "02_024_006LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_024_006LOOP",
+      "to": "02_026_006B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_030_020",
+      "to": "02_031_007LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_028_018",
+      "to": "02_030_020",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_027_017",
+      "to": "02_028_018",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_029_019",
+      "to": "02_030_020",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_027_017",
+      "to": "02_029_019",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_034_QTE1LOOP",
+      "to": "02_035_022",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_032_007A021",
+      "to": "02_034_QTE1LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_031_007LOOP",
+      "to": "02_032_007A021",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_035_022",
+      "to": "02_036_QTE2",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_036_QTE2",
+      "to": "02_038_025",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_037_023",
+      "to": "02_041_027QTE3",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_038_025",
+      "to": "02_041_027QTE3",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_039_024",
+      "to": "02_041_027QTE3",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_036_QTE2",
+      "to": "02_039_024",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_036_QTE2",
+      "to": "02_037_023",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_041_027QTE3",
+      "to": "02_042_028",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_042_028",
+      "to": "02_044_030QTE4",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_043_029",
+      "to": "02_044_030QTE4",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_041_027QTE3",
+      "to": "02_043_029",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_046_032033",
+      "to": "02_047_QTE5",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_044_030QTE4",
+      "to": "02_046_032033",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_047_QTE5",
+      "to": "02_049_035",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_047_QTE5",
+      "to": "02_048_034",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_049_035",
+      "to": "02_050_036",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_048_034",
+      "to": "02_050_036",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_049_035",
+      "to": "02_051_037",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_048_034",
+      "to": "02_051_037",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_049_035",
+      "to": "02_052_038_BE001",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_048_034",
+      "to": "02_052_038_BE001",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_031_007LOOP",
+      "to": "02_033_007B039",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_056_040",
+      "to": "02_057_009LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_025_006A",
+      "to": "02_027_017",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_026_006B",
+      "to": "02_027_017",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_024_006LOOP",
+      "to": "02_025_006A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_058_009A",
+      "to": "02_060_041",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_057_009LOOP",
+      "to": "02_058_009A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_059_009B",
+      "to": "02_060_041",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_057_009LOOP",
+      "to": "02_059_009B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_060_041",
+      "to": "02_061_010LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_061_010LOOP",
+      "to": "02_062_010A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_062_010A",
+      "to": "02_065_042",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_063_010B",
+      "to": "02_065_042",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_061_010LOOP",
+      "to": "02_063_010B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_064_010C",
+      "to": "02_065_042",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_061_010LOOP",
+      "to": "02_064_010C",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_060_041",
+      "to": "02_061_010LOOP_2",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_066_011LOOP",
+      "to": "02_068_011B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_066_011LOOP",
+      "to": "02_069_011C",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_066_011LOOP",
+      "to": "02_067_011A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_070_043",
+      "to": "02_071_044045046047_BE002",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_067_011A",
+      "to": "02_070_043",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_068_011B",
+      "to": "02_070_043",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_069_011C",
+      "to": "02_070_043",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_065_042",
+      "to": "02_066_011LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_070_043",
+      "to": "02_072_048049",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_073_012LOOP",
+      "to": "02_074_012A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_072_048049",
+      "to": "02_073_012LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_073_012LOOP",
+      "to": "02_075_012B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_076_050",
+      "to": "02_077_013LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_074_012A",
+      "to": "02_076_050",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_075_012B",
+      "to": "02_076_050",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_078_013A",
+      "to": "02_080_051",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_079_013B",
+      "to": "02_080_051",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_080_051",
+      "to": "03_001_001",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_077_013LOOP",
+      "to": "02_078_013A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_077_013LOOP",
+      "to": "02_079_013B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_045_031",
+      "to": "02_050_036",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_045_031",
+      "to": "02_051_037",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_045_031",
+      "to": "02_052_038_BE001",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_044_030QTE4",
+      "to": "02_045_031",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_050_036",
+      "to": "02_056_040",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_033_007B039",
+      "to": "02_053_008LOOP",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_053_008LOOP",
+      "to": "02_055_008B",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_055_008B",
+      "to": "02_056_040",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_054_008A",
+      "to": "02_056_040",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_053_008LOOP",
+      "to": "02_054_008A",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 2,
+      "from": "02_051_037",
+      "to": "02_056_040",
+      "source": ".vite/renderer/main_window/assets/2-me1vNRp0.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_005_001A",
+      "to": "03_007_003004",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_004_001LOOP",
+      "to": "03_005_001A",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_003_002",
+      "to": "03_004_001LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_002_QTE1LOOP",
+      "to": "03_003_002",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_001_001",
+      "to": "03_002_QTE1LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_006_001B",
+      "to": "03_007_003004",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_004_001LOOP",
+      "to": "03_006_001B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_007_003004",
+      "to": "03_008_002LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_009_002A",
+      "to": "03_011_005006007008",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_008_002LOOP",
+      "to": "03_009_002A",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_010_002B",
+      "to": "03_011_005006007008",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_008_002LOOP",
+      "to": "03_010_002B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_011_005006007008",
+      "to": "03_012_003LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_012_003LOOP",
+      "to": "03_015_003C",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_012_003LOOP",
+      "to": "03_013_003A",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_015_003C",
+      "to": "03_017_009010",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_013_003A",
+      "to": "03_017_009010",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_014_003B",
+      "to": "03_017_009010",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_012_003LOOP",
+      "to": "03_014_003B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_012_003LOOP",
+      "to": "03_016_003D",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_017_009010",
+      "to": "03_018_004LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_016_003D",
+      "to": "03_017_009010",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_018_004LOOP",
+      "to": "03_019_004A",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_020_004B",
+      "to": "03_021_005LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_019_004A",
+      "to": "03_021_005LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_018_004LOOP",
+      "to": "03_020_004B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_021_005LOOP",
+      "to": "03_022_005A",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_022_005A",
+      "to": "03_027_014015",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_027_014015",
+      "to": "03_028_006LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_033_005A_1",
+      "to": "03_027_014015",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_021_005LOOP",
+      "to": "03_033_005A_1",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_021_005LOOP",
+      "to": "03_023_005B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_023_005B",
+      "to": "03_024_QTE2",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_089_005B_1",
+      "to": "03_024_QTE2",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_021_005LOOP",
+      "to": "03_089_005B_1",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_028_006LOOP",
+      "to": "03_029_006A016",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_032_007LOOP",
+      "to": "03_035_007B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_029_006A016",
+      "to": "03_032_007LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_028_006LOOP",
+      "to": "03_031_006C025",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_028_006LOOP",
+      "to": "03_030_006B024",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_035_007B",
+      "to": "03_036_019020021022023",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_032_007LOOP",
+      "to": "03_034_007A017018_BE001",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_036_019020021022023",
+      "to": "03_041_028029030031032",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_031_006C025",
+      "to": "03_041_028029030031032",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_030_006B024",
+      "to": "03_041_028029030031032",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_024_QTE2",
+      "to": "03_025_012",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_025_012",
+      "to": "03_039_026",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_024_QTE2",
+      "to": "03_026_013",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_026_013",
+      "to": "03_040_027",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_040_027",
+      "to": "03_041_028029030031032",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_039_026",
+      "to": "03_041_028029030031032",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_041_028029030031032",
+      "to": "03_042_008LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_045_009LOOP",
+      "to": "03_047_009B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_042_008LOOP",
+      "to": "03_044_008B033",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_044_008B033",
+      "to": "03_045_009LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_045_009LOOP",
+      "to": "03_046_009A034_BE002",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_043_008A",
+      "to": "03_048_035036037",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_047_009B",
+      "to": "03_048_035036037",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_042_008LOOP",
+      "to": "03_043_008A",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_090_009C",
+      "to": "03_048_035036037",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_045_009LOOP",
+      "to": "03_090_009C",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_048_035036037",
+      "to": "03_049_010LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_049_010LOOP",
+      "to": "03_051_010B038",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_049_010LOOP",
+      "to": "03_050_010A038",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_050_010A038",
+      "to": "03_052_011LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_051_010B038",
+      "to": "03_052_011LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_053_011A039",
+      "to": "03_058_047048049050051052053",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_052_011LOOP",
+      "to": "03_053_011A039",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_052_011LOOP",
+      "to": "03_054_011B042",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_053_011A039",
+      "to": "03_055_040",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_054_011B042",
+      "to": "03_056_043",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_056_043",
+      "to": "03_088_044_BE004",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_055_040",
+      "to": "03_088_044_BE004",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_054_011B042",
+      "to": "03_057_045046_BE005",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_058_047048049050051052053",
+      "to": "03_059_012LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_062_012B055056",
+      "to": "03_063_013LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_059_012LOOP",
+      "to": "03_062_012B055056",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_059_012LOOP",
+      "to": "03_060_012A054_BE006",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_065_013B057057_1",
+      "to": "03_066_014LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_063_013LOOP",
+      "to": "03_065_013B057057_1",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_063_013LOOP",
+      "to": "03_064_013A_BE007",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_067_014A",
+      "to": "03_069_058059060061062",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_066_014LOOP",
+      "to": "03_067_014A",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_068_014B",
+      "to": "03_069_058059060061062",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_066_014LOOP",
+      "to": "03_068_014B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_070_015LOOP",
+      "to": "03_071_015A",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_069_058059060061062",
+      "to": "03_070_015LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_071_015A",
+      "to": "03_073_063",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_072_015B",
+      "to": "03_073_063",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_070_015LOOP",
+      "to": "03_072_015B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_073_063",
+      "to": "03_074_016LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_074_016LOOP",
+      "to": "03_075_016A064065",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_076_016B066",
+      "to": "03_077_067068",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_074_016LOOP",
+      "to": "03_076_016B066",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_079_017A",
+      "to": "03_082_069",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_078_017LOOP",
+      "to": "03_079_017A",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_077_067068",
+      "to": "03_078_017LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_075_016A064065",
+      "to": "03_077_067068",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_080_017B",
+      "to": "03_082_069",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_078_017LOOP",
+      "to": "03_080_017B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_084_018A",
+      "to": "03_087_070",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_083_018LOOP",
+      "to": "03_084_018A",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_090_QTE3LOOP",
+      "to": "03_091_069_1",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_085_018B",
+      "to": "03_087_070",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_083_018LOOP",
+      "to": "03_085_018B",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_091_069_1",
+      "to": "03_083_018LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_082_069",
+      "to": "03_090_QTE3LOOP",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_086_018C",
+      "to": "03_087_070",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_087_070",
+      "to": "04_001_001002",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 3,
+      "from": "03_083_018LOOP",
+      "to": "03_086_018C",
+      "source": ".vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_001_001002",
+      "to": "04_002_001LOOP",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_002_001LOOP",
+      "to": "04_003_001A003_BE001",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_005_001B004005006007008009",
+      "to": "04_007_002LOOP",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_002_001LOOP",
+      "to": "04_005_001B004005006007008009",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_007_002LOOP",
+      "to": "04_009_002B012013",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_007_002LOOP",
+      "to": "04_008_002A010_BE002",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_007_002LOOP",
+      "to": "04_010_002C011_BE003",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_007_002LOOP",
+      "to": "04_011_002D_BE004",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_009_002B012013",
+      "to": "04_015_014015016_BE005",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_017_003LOOP",
+      "to": "04_018_003A020021022_BE006",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_016_017018019",
+      "to": "04_017_003LOOP",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_009_002B012013",
+      "to": "04_016_017018019",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_020_003B",
+      "to": "04_039_QTE5LOOP",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_040_023024025026027028",
+      "to": "04_022_005",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_039_QTE5LOOP",
+      "to": "04_040_023024025026027028",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_017_003LOOP",
+      "to": "04_020_003B",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_022_005",
+      "to": "04_023_005A029030031_BE007",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_013_035_2",
+      "to": "04_027_QTE1",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_025_005B032033034035",
+      "to": "04_013_035_2",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_025_005B032033034035",
+      "to": "04_012_035_1_BE013",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_022_005",
+      "to": "04_025_005B032033034035",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_036_006LOOP",
+      "to": "04_038_006B043044045046047048",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_038_006B043044045046047048",
+      "to": "05_001_001002003004",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_036_006LOOP",
+      "to": "04_037_006A042_BE012",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_027_QTE1",
+      "to": "04_029_037",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_030_QTE2",
+      "to": "04_031_038_BE009",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_029_037",
+      "to": "04_030_QTE2",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_030_QTE2",
+      "to": "04_032_039",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_027_QTE1",
+      "to": "04_028_036_BE008",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_032_039",
+      "to": "04_041_QTE3",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_041_QTE3",
+      "to": "04_042_040_1BE011",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_041_QTE3",
+      "to": "04_043_039_1",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_043_039_1",
+      "to": "04_033_QTE3",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_033_QTE3",
+      "to": "04_034_040_BE010",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_033_QTE3",
+      "to": "04_035_041",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 4,
+      "from": "04_035_041",
+      "to": "04_036_006LOOP",
+      "source": ".vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_001_001002003004",
+      "to": "05_002_001LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_006_005006007008",
+      "to": "05_007_002LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_003_001A",
+      "to": "05_006_005006007008",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_002_001LOOP",
+      "to": "05_003_001A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_004_001B",
+      "to": "05_006_005006007008",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_002_001LOOP",
+      "to": "05_004_001B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_005_001C",
+      "to": "05_006_005006007008",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_002_001LOOP",
+      "to": "05_005_001C",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_010_009",
+      "to": "05_011_003LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_008_002A",
+      "to": "05_010_009",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_007_002LOOP",
+      "to": "05_008_002A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_009_002B",
+      "to": "05_010_009",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_007_002LOOP",
+      "to": "05_009_002B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_011_003LOOP",
+      "to": "05_013_003B011",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_015_004LOOP",
+      "to": "05_017_004B013014",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_013_003B011",
+      "to": "05_015_004LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_011_003LOOP",
+      "to": "05_012_003A010_BE001",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_015_004LOOP",
+      "to": "05_016_004A012_BE002",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_020_005LOOP",
+      "to": "05_022_005B016_BE003",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_020_005LOOP",
+      "to": "05_021_005A015017018019",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_017_004B013014",
+      "to": "05_020_005LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_026_006A",
+      "to": "05_014_QTE5LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_014_QTE5LOOP",
+      "to": "05_018_020021022",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_018_020021022",
+      "to": "05_029_007LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_024_006LOOP",
+      "to": "05_026_006A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_024_006LOOP",
+      "to": "05_025_006B_BE004",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_021_005A015017018019",
+      "to": "05_024_006LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_029_007LOOP",
+      "to": "05_031_007B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_030_007A",
+      "to": "05_032_023024025",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_029_007LOOP",
+      "to": "05_030_007A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_040_027028029030",
+      "to": "05_041_010LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_039_009C",
+      "to": "05_040_027028029030",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_036_009LOOP",
+      "to": "05_039_009C",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_035_008B026",
+      "to": "05_036_009LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_033_008LOOP",
+      "to": "05_035_008B026",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_032_023024025",
+      "to": "05_033_008LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_031_007B",
+      "to": "05_032_023024025",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_034_008A",
+      "to": "05_040_027028029030",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_033_008LOOP",
+      "to": "05_034_008A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_038_009B",
+      "to": "05_040_027028029030",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_036_009LOOP",
+      "to": "05_038_009B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_037_009A",
+      "to": "05_040_027028029030",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_036_009LOOP",
+      "to": "05_037_009A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_044_011LOOP",
+      "to": "05_046_011B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_043_010B031",
+      "to": "05_044_011LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_041_010LOOP",
+      "to": "05_043_010B031",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_041_010LOOP",
+      "to": "05_042_010A_BE005",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_045_011A",
+      "to": "05_023_032",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_044_011LOOP",
+      "to": "05_045_011A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_046_011B",
+      "to": "05_023_032",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_047_012LOOP",
+      "to": "05_048_012A_BE006",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_023_032",
+      "to": "05_047_012LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_050_013LOOP",
+      "to": "05_052_013B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_049_012B033",
+      "to": "05_050_013LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_047_012LOOP",
+      "to": "05_049_012B033",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_050_013LOOP",
+      "to": "05_051_013A_BE007",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_053_034035",
+      "to": "05_019_022LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_052_013B",
+      "to": "05_053_034035",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_067_036",
+      "to": "05_054_QTE2",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_027_022A",
+      "to": "05_067_036",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_019_022LOOP",
+      "to": "05_027_022A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_019_022LOOP",
+      "to": "05_028_022B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_028_022B",
+      "to": "05_067_036",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_056_038039",
+      "to": "05_057_014LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_054_QTE2",
+      "to": "05_056_038039",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_054_QTE2",
+      "to": "05_055_037_BE008",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_057_014LOOP",
+      "to": "05_058_014A040",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_057_014LOOP",
+      "to": "05_059_014B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_061_042",
+      "to": "05_063_044",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_059_014B",
+      "to": "05_061_042",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_058_014A040",
+      "to": "05_061_042",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_062_043",
+      "to": "05_063_044",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_058_014A040",
+      "to": "05_062_043",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_059_014B",
+      "to": "05_062_043",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_064_015LOOP",
+      "to": "05_066_015B045",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_066_015B045",
+      "to": "05_069_046047048049",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_070_016LOOP",
+      "to": "05_072_016B055",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_069_046047048049",
+      "to": "05_070_016LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_063_044",
+      "to": "05_064_015LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_064_015LOOP",
+      "to": "05_065_015A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_065_015A",
+      "to": "05_069_046047048049",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_070_016LOOP",
+      "to": "05_071_016A050051052053054",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_072_016B055",
+      "to": "05_075_056_BE009",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_076_057058059060061",
+      "to": "05_077_017LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_072_016B055",
+      "to": "05_076_057058059060061",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_083_018B",
+      "to": "05_084_063064065066067068",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_081_018LOOP",
+      "to": "05_083_018B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_078_017A062",
+      "to": "05_081_018LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_077_017LOOP",
+      "to": "05_078_017A062",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_079_017B",
+      "to": "05_084_063064065066067068",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_077_017LOOP",
+      "to": "05_079_017B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_081_018LOOP",
+      "to": "05_082_018A_BE010",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_092_020B",
+      "to": "05_093_070",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_090_012LOOP",
+      "to": "05_092_020B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_087_019B069",
+      "to": "05_090_012LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_084_063064065066067068",
+      "to": "05_085_019LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_088_023LOOP",
+      "to": "05_074_023AQTE4",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_088_023LOOP",
+      "to": "05_089_023B",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_086_019A",
+      "to": "05_088_023LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_085_019LOOP",
+      "to": "05_087_019B069",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_085_019LOOP",
+      "to": "05_086_019A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_091_020A",
+      "to": "05_093_070",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_090_012LOOP",
+      "to": "05_091_020A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_089_023B",
+      "to": "05_093_070",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_074_023AQTE4",
+      "to": "05_093_070",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_096_021A",
+      "to": "05_097_071",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_097_071",
+      "to": "06_001_001002003004005",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_094_021LOOP",
+      "to": "05_096_021A",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_093_070",
+      "to": "05_094_021LOOP",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 5,
+      "from": "05_094_021LOOP",
+      "to": "05_095_021B_BE011",
+      "source": ".vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_003_001A",
+      "to": "06_006_006007",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_002_001LOOP",
+      "to": "06_003_001A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_001_001002003004005",
+      "to": "06_002_001LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_006_006007",
+      "to": "06_007_002LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_005_001C",
+      "to": "06_006_006007",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_002_001LOOP",
+      "to": "06_005_001C",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_004_001B",
+      "to": "06_006_006007",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_002_001LOOP",
+      "to": "06_004_001B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_009_002B",
+      "to": "06_011_008",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_007_002LOOP",
+      "to": "06_009_002B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_008_002A",
+      "to": "06_011_008",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_007_002LOOP",
+      "to": "06_008_002A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_010_002C",
+      "to": "06_011_008",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_007_002LOOP",
+      "to": "06_010_002C",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_011_008",
+      "to": "06_012_003LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_015_009",
+      "to": "06_016_004LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_013_003A",
+      "to": "06_015_009",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_012_003LOOP",
+      "to": "06_013_003A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_014_003B",
+      "to": "06_015_009",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_012_003LOOP",
+      "to": "06_014_003B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_018_004B",
+      "to": "06_019_010",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_016_004LOOP",
+      "to": "06_018_004B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_017_004A",
+      "to": "06_019_010",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_016_004LOOP",
+      "to": "06_017_004A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_021_005A011",
+      "to": "06_024_006LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_020_005LOOP",
+      "to": "06_021_005A011",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_019_010",
+      "to": "06_020_005LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_022_005B020",
+      "to": "06_036_021",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_020_005LOOP",
+      "to": "06_022_005B020",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_030_018019",
+      "to": "06_031_007LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_028_006D",
+      "to": "06_023_015016",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_024_006LOOP",
+      "to": "06_028_006D",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_024_006LOOP",
+      "to": "06_027_006C014QTE2",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_024_006LOOP",
+      "to": "06_025_006A012",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_024_006LOOP",
+      "to": "06_026_006B013",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_031_007LOOP",
+      "to": "06_033_007B_BE002",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_031_007LOOP",
+      "to": "06_032_007A_BE001",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_036_021",
+      "to": "06_039_008LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_045_023024",
+      "to": "06_046_010LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_044_009B",
+      "to": "06_045_023024",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_046_010LOOP",
+      "to": "06_047_010A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_047_010A",
+      "to": "06_049_025",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_049_025",
+      "to": "06_050_011LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_048_010B",
+      "to": "06_049_025",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_046_010LOOP",
+      "to": "06_048_010B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_050_011LOOP",
+      "to": "06_052_011B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_050_011LOOP",
+      "to": "06_051_011A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_052_011B",
+      "to": "06_053_026027028",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_051_011A",
+      "to": "06_053_026027028",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_053_026027028",
+      "to": "06_054_012LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_054_012LOOP",
+      "to": "06_055_012A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_055_012A",
+      "to": "06_058_029",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_056_012B",
+      "to": "06_058_029",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_057_012C",
+      "to": "06_058_029",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_054_012LOOP",
+      "to": "06_057_012C",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_058_029",
+      "to": "06_059_013LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_059_013LOOP",
+      "to": "06_060_013A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_062_030",
+      "to": "06_063_014LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_061_013B",
+      "to": "06_062_030",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_059_013LOOP",
+      "to": "06_061_013B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_060_013A",
+      "to": "06_062_030",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_066_031032033034035",
+      "to": "06_067_015LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_064_014A",
+      "to": "06_066_031032033034035",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_065_014B",
+      "to": "06_066_031032033034035",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_063_014LOOP",
+      "to": "06_065_014B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_063_014LOOP",
+      "to": "06_064_014A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_026_006B013",
+      "to": "06_037_QTE1LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_038_013",
+      "to": "06_030_018019",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_037_QTE1LOOP",
+      "to": "06_038_013",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_025_006A012",
+      "to": "06_030_018019",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_067_015LOOP",
+      "to": "06_070_015C041042",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_070_015C041042",
+      "to": "06_077_044045046047",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_067_015LOOP",
+      "to": "06_069_015B040042",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_067_015LOOP",
+      "to": "06_068_015A036037038039042",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_073_043",
+      "to": "06_074_016LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_068_015A036037038039042",
+      "to": "06_073_043",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_069_015B040042",
+      "to": "06_073_043",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_070_015C041042",
+      "to": "06_073_043",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_069_015B040042",
+      "to": "06_077_044045046047",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_068_015A036037038039042",
+      "to": "06_077_044045046047",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_078_017LOOP",
+      "to": "06_080_017B048",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_077_044045046047",
+      "to": "06_078_017LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_074_016LOOP",
+      "to": "06_076_016B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_076_016B",
+      "to": "07_001_001002003",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_074_016LOOP",
+      "to": "06_075_016A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_075_016A",
+      "to": "07_001_001002003",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_080_017B048",
+      "to": "06_081_049",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_084_056",
+      "to": "06_085_018LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_082_053054",
+      "to": "06_084_056",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_080_017B048",
+      "to": "06_082_053054",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_082_053054",
+      "to": "06_083_055_BE003",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_043_009A",
+      "to": "06_045_023024",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_041_008B",
+      "to": "06_042_009LOOP",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_039_008LOOP",
+      "to": "06_041_008B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_040_008A",
+      "to": "06_045_023024",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_039_008LOOP",
+      "to": "06_040_008A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_042_009LOOP",
+      "to": "06_044_009B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_027_006C014QTE2",
+      "to": "06_030_018019",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_023_015016",
+      "to": "06_030_018019",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_054_012LOOP",
+      "to": "06_056_012B",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_081_049",
+      "to": "06_035_050051052",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_035_050051052",
+      "to": "07_001_001002003",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_081_049",
+      "to": "06_034_049_1BE005",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_085_018LOOP",
+      "to": "06_087_018B057058059060",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_087_018B057058059060",
+      "to": "07_001_001002003",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_085_018LOOP",
+      "to": "06_086_018A_BE004",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_078_017LOOP",
+      "to": "06_079_017A",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 6,
+      "from": "06_079_017A",
+      "to": "07_001_001002003",
+      "source": ".vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_020_003LOOP",
+      "to": "07_022_003B",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_022_003B",
+      "to": "07_037_QTE2LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_037_QTE2LOOP",
+      "to": "07_048_040041042043044",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_048_040041042043044",
+      "to": "07_049_009LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_024_008A",
+      "to": "07_019_033034035036037038",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_023_008LOOP",
+      "to": "07_024_008A",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_015_020024",
+      "to": "07_023_008LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_014_018",
+      "to": "07_015_020024",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_017_QTE1LOOP",
+      "to": "07_018_015016",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_018_015016",
+      "to": "07_014_018",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_011_002B",
+      "to": "07_017_QTE1LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_008_011",
+      "to": "07_009_002LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_001_001002003",
+      "to": "07_008_011",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_001_001002003",
+      "to": "07_002_004",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_003_001LOOP",
+      "to": "07_005_001B",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_002_004",
+      "to": "07_003_001LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_004_001A",
+      "to": "07_006_005006007_BE001",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_003_001LOOP",
+      "to": "07_004_001A",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_005_001B",
+      "to": "07_007_008009010_010_1_BE002",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_009_002LOOP",
+      "to": "07_010_002A",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_009_002LOOP",
+      "to": "07_011_002B",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_010_002A",
+      "to": "07_012_012013014_BE003",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_018_015016",
+      "to": "07_013_017",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_013_017",
+      "to": "07_015_020024",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_023_008LOOP",
+      "to": "07_034_008BBE005",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_024_008A",
+      "to": "07_016_030031",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_020_003LOOP",
+      "to": "07_021_003A039_BE004",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_019_033034035036037038",
+      "to": "07_020_003LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_051_009A",
+      "to": "07_054_046",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_049_009LOOP",
+      "to": "07_051_009A",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_054_046",
+      "to": "07_025_004LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_026_004A",
+      "to": "07_028_047048049",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_025_004LOOP",
+      "to": "07_026_004A",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_052_009B",
+      "to": "07_054_046",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_049_009LOOP",
+      "to": "07_052_009B",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_028_047048049",
+      "to": "07_029_005LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_027_004B",
+      "to": "07_028_047048049",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_025_004LOOP",
+      "to": "07_027_004B",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_030_005A",
+      "to": "07_056_010LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_029_005LOOP",
+      "to": "07_030_005A",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_029_005LOOP",
+      "to": "07_032_005C",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_032_005C",
+      "to": "07_065_012LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_029_005LOOP",
+      "to": "07_031_005B",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_061_011LOOP",
+      "to": "07_062_011A",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_031_005B",
+      "to": "07_061_011LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_063_011B",
+      "to": "07_064_051",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_061_011LOOP",
+      "to": "07_063_011B",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_062_011A",
+      "to": "07_064_051",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_065_012LOOP",
+      "to": "07_066_012A",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_056_010LOOP",
+      "to": "07_059_010B",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_066_012A",
+      "to": "07_068_052",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_056_010LOOP",
+      "to": "07_058_010A",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_058_010A",
+      "to": "07_060_050",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_059_010B",
+      "to": "07_060_050",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_067_012B",
+      "to": "07_068_052",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_065_012LOOP",
+      "to": "07_067_012B",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_064_051",
+      "to": "07_035_054056",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_035_054056",
+      "to": "07_038_006LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_068_052",
+      "to": "07_035_054056",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_060_050",
+      "to": "07_035_054056",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_036_055056",
+      "to": "07_038_006LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_064_051",
+      "to": "07_036_055056",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_060_050",
+      "to": "07_036_055056",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_068_052",
+      "to": "07_036_055056",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_038_006LOOP",
+      "to": "07_040_006B062",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_039_006A057",
+      "to": "07_041_058",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_038_006LOOP",
+      "to": "07_039_006A057",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_039_006A057",
+      "to": "07_042_061",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_043_007LOOP",
+      "to": "07_044_007A059",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_043_007LOOP",
+      "to": "07_045_007B060",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_040_006B062",
+      "to": "07_046_063",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_040_006B062",
+      "to": "07_047_064065",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_050_066067068",
+      "to": "07_070_QTE3LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_047_064065",
+      "to": "07_050_066067068",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_046_063",
+      "to": "07_050_066067068",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_044_007A059",
+      "to": "07_050_066067068",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_070_QTE3LOOP",
+      "to": "07_052_069",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_052_069",
+      "to": "07_055_076077",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_052_069",
+      "to": "07_054_075075_1075_2075_3075_4075_5075_6",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_052_069",
+      "to": "07_053_071072073074",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_052_069",
+      "to": "07_056_078079080081",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_052_069",
+      "to": "07_057_082083084085",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_042_061",
+      "to": "07_050_066067068",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_045_007B060",
+      "to": "07_050_066067068",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    },
+    {
+      "chapter": 7,
+      "from": "07_041_058",
+      "to": "07_043_007LOOP",
+      "source": ".vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+      "conditions": "not encoded in SVG"
+    }
+  ],
+  "note": "Node/endings labels contain some inconsistencies; preserve original IDs, do not invent runtime aliases."
+}

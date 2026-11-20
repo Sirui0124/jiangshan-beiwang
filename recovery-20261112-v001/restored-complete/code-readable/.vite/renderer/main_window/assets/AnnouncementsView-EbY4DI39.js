@@ -1,0 +1,234 @@
+((function () {
+  try {
+    var e =
+      typeof window < `u`
+        ? window
+        : typeof global < `u`
+          ? global
+          : typeof globalThis < `u`
+            ? globalThis
+            : typeof self < `u`
+              ? self
+              : {};
+    e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+  } catch {}
+})(),
+  (function () {
+    try {
+      var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {};
+      e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+    } catch {}
+  })());
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `fdb89253-65a3-4a44-9690-f210aad900ae`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-fdb89253-65a3-4a44-9690-f210aad900ae`));
+  })();
+} catch {}
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `6a3daee9-5431-4452-b583-1d95ece7b4d8`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-6a3daee9-5431-4452-b583-1d95ece7b4d8`));
+  })();
+} catch {}
+import { Hr as e } from "./vendor-CsyOLyP3.js";
+import {
+  C as t,
+  E as n,
+  G as r,
+  M as i,
+  N as a,
+  O as o,
+  T as s,
+  U as c,
+  W as l,
+  c as u,
+  ct as d,
+  gt as f,
+  ht as p,
+  k as m,
+  s as h,
+  vt as g,
+} from "./vue-B7Je9h0e.js";
+import { t as _ } from "./_plugin-vue_export-helper-DVftEge0.js";
+import { g as v, t as y } from "./navigation-D0fhxgIL.js";
+import { n as b, t as x } from "./announcements-CUHuWzqR.js";
+import { t as S } from "./BtnWithImg-C29tj1UA.js";
+import { n as C, t as w } from "./关闭高亮-BoZrBZEA.js";
+var T = { class: `announcement-list vertical` },
+  E = { class: `nav horizontal` },
+  D = { class: `announcement horizontal` },
+  O = { class: `list left` },
+  k = [`onClick`],
+  A = { key: 0, class: `details right` },
+  j = [`src`],
+  M = { key: 1, class: `details right` },
+  N = { class: `metadata` },
+  P = { class: `heading` },
+  F = { class: `time` },
+  I = [`innerHTML`],
+  L = _(
+    a({
+      __name: `AnnouncementList`,
+      emits: [`close`],
+      setup(a, { emit: _ }) {
+        let y = _,
+          { t: L } = h(),
+          R = v(),
+          z = b(),
+          { announcements: B } = e(z),
+          V = d(null),
+          H = s(() => B.value.find((e) => e.id === V.value) || null),
+          U = u(async () => (H.value ? await x(H.value) : ``)),
+          W = async (e) => {
+            V.value = e;
+          };
+        c(async () => {
+          (B.value.length === 0 && (await z.reloadAnnouncements()),
+            B.value.length > 0 && W(B.value[0].id));
+        });
+        let G = async (e) => {
+          let t = e.target;
+          if (!t || !(t instanceof HTMLElement)) return;
+          let n = t;
+          if (n.tagName !== `A`) return;
+          let r = n;
+          (R.hal.uiOpenExternal(r.href), e.preventDefault());
+        };
+        return (e, a) => (
+          l(),
+          m(`div`, T, [
+            n(`div`, E, [
+              n(`h1`, null, g(p(L)(`ui.announcements`)), 1),
+              (a[1] ||= n(`div`, { class: `separator` }, null, -1)),
+              i(
+                S,
+                {
+                  "normal-src": p(C),
+                  "highlighted-src": p(w),
+                  onClick: (a[0] ||= (e) => y(`close`)),
+                },
+                null,
+                8,
+                [`normal-src`, `highlighted-src`],
+              ),
+            ]),
+            n(`div`, D, [
+              n(`div`, O, [
+                (l(!0),
+                m(
+                  t,
+                  null,
+                  r(
+                    p(B),
+                    (e) => (
+                      l(),
+                      m(
+                        `div`,
+                        {
+                          key: e.id,
+                          class: f([
+                            `announcement-item`,
+                            { highlighted: V.value === e.id },
+                          ]),
+                          onClick: (t) => W(e.id),
+                        },
+                        [n(`h3`, null, g(e.title), 1)],
+                        10,
+                        k,
+                      )
+                    ),
+                  ),
+                  128,
+                )),
+              ]),
+              H.value?.type === `iframe`
+                ? (l(),
+                  m(`div`, A, [
+                    n(
+                      `iframe`,
+                      { src: p(U), frameborder: `0`, sandbox: `` },
+                      null,
+                      8,
+                      j,
+                    ),
+                  ]))
+                : o(``, !0),
+              H.value && H.value?.type !== `iframe`
+                ? (l(),
+                  m(`div`, M, [
+                    n(`div`, N, [
+                      n(`h2`, P, g(H.value.title), 1),
+                      n(
+                        `small`,
+                        F,
+                        g(new Date(H.value.createdAt).toLocaleString()),
+                        1,
+                      ),
+                    ]),
+                    n(
+                      `p`,
+                      { class: `content`, onClick: G, innerHTML: p(U) },
+                      null,
+                      8,
+                      I,
+                    ),
+                  ]))
+                : o(``, !0),
+            ]),
+          ])
+        );
+      },
+    }),
+    [[`__scopeId`, `data-v-a0d54f9a`]],
+  ),
+  R = { class: `announcements-view game ui-font` },
+  z = _(
+    a({
+      __name: `AnnouncementsView`,
+      setup(e) {
+        return (e, t) => (
+          l(),
+          m(`div`, R, [i(L, { onClose: p(y) }, null, 8, [`onClose`])])
+        );
+      },
+    }),
+    [[`__scopeId`, `data-v-46273443`]],
+  );
+export { z as default };
+//# sourceMappingURL=AnnouncementsView-EbY4DI39.js.map

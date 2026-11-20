@@ -1,0 +1,4328 @@
+[
+  {
+    "path": "code-original/.vite/build/main.js",
+    "source": "app.asar!/.vite/build/main.js",
+    "bytes": 209979,
+    "sha256": "9267c23f057a70b6ec824f2fa69eaf97fb466960d91ff3c7b3d462bc7d906bb6"
+  },
+  {
+    "path": "code-original/.vite/build/preload.js",
+    "source": "app.asar!/.vite/build/preload.js",
+    "bytes": 1424,
+    "sha256": "6a9252666f693bcd4730629def2a863342a5a44ebbed7c3e87190f66c5ca8f4f"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/_plugin-vue_export-helper-DVftEge0.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/_plugin-vue_export-helper-DVftEge0.js",
+    "bytes": 1184,
+    "sha256": "eb20b9f345be7062164e13fe96e324693db55f833a30e2c1a7514210f2e1a0f7"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/0-BZ3A8zb8.svg",
+    "bytes": 75750,
+    "sha256": "3dfd1b0382ed8c928b0289f3949cc06e55088d901d604475183b3b1f8b25f5c8"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/1-C2RGVoPy.svg",
+    "bytes": 63496,
+    "sha256": "680d9dd359f21d0691b0eae656f82eaca16b512cfd5a2d71150f7ea456c34a7a"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/2-me1vNRp0.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/2-me1vNRp0.svg",
+    "bytes": 67577,
+    "sha256": "6b8618bf3d1ef3f0097575a7ddf824f9330e054afab29bbee2abdb43bcdcf97b"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/3-Cj2tqi2W.svg",
+    "bytes": 62693,
+    "sha256": "f5bc9c15c1ec14bd2d9166f7a33319f74696578378940c84c04aecaf0af1adbb"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/4-y0lvZXWn.svg",
+    "bytes": 23706,
+    "sha256": "d788e4e3284bac315972ddd9cca74d275e9ab126e0b88c09d5a4b92d68d05046"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/5-DCCQnmhR.svg",
+    "bytes": 58172,
+    "sha256": "edf657876a14e52c196aa4bd52ebda391d94fe656ca00fe6708a5ebb9c14fbff"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/6-DTbIrXqH.svg",
+    "bytes": 61556,
+    "sha256": "768c739c0f5962fcf0b26bacd99869b06268d3095115150957c427896759796a"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/7-5_j-nu5T.svg",
+    "bytes": 45415,
+    "sha256": "b20006039d54500566cab3e6a5c5439513a628d99818b354f546e9149eb3c0ec"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/achievements-q4KXDuPO.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/achievements-q4KXDuPO.js",
+    "bytes": 2178,
+    "sha256": "442c41a1a1bc21ec31f309358b2b2319e5792ff89d710260d10d634d6e40a7b7"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/AchievementsView-AwGs5zfd.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/AchievementsView-AwGs5zfd.css",
+    "bytes": 78,
+    "sha256": "80ca6232c8bc17c27aea42de8797a916564b20d3076944652587fdb1d9e3f211"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/AchievementsView-DDXAt_aF.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/AchievementsView-DDXAt_aF.js",
+    "bytes": 2130,
+    "sha256": "ccb401f4825f2bf867fd2123bcef3f11aa417769341c5e38b680160e5a753b9d"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/announcements-CUHuWzqR.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/announcements-CUHuWzqR.js",
+    "bytes": 1824,
+    "sha256": "c693b91d466484b1290b4cbf0f9164dfd6a9f16925459d8f4aa9d110690870fe"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/AnnouncementsView-BJJk-0dY.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/AnnouncementsView-BJJk-0dY.css",
+    "bytes": 4826,
+    "sha256": "149d74cfe3543a2b2f0d47c2be104cd2c07ca4ef313d7c1ed500ce92a2434eae"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/AnnouncementsView-EbY4DI39.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/AnnouncementsView-EbY4DI39.js",
+    "bytes": 3444,
+    "sha256": "124bb110d2a7c5edd67aa1d59883a460b0762d6ad74d4582c2efbd3e634ad1cf"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/be界面音效-C2J-Skue.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/be界面音效-C2J-Skue.js",
+    "bytes": 1243,
+    "sha256": "9bebf3ac232fd631374938c0a24f4f308c3c8e4a76eb687c595b35f914e5a8a2"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/BtnNavi-4Bk8aExR.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/BtnNavi-4Bk8aExR.css",
+    "bytes": 346,
+    "sha256": "f50da4340be0354d267cc586b9f403eb2bf4ff150c89982f8486523883b03fb6"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/BtnNavi-CyVOedxu.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/BtnNavi-CyVOedxu.js",
+    "bytes": 2153,
+    "sha256": "bf55b8c89e91347a2a7c0d984555108148a60c9b22601721dbbd39ac7885a4fe"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/BtnWithImg-BJlsUaS9.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/BtnWithImg-BJlsUaS9.css",
+    "bytes": 1032,
+    "sha256": "5dd059da6067abf494a752030479185dc20a58363e3e2060af999287c6fc7ebe"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/BtnWithImg-C29tj1UA.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/BtnWithImg-C29tj1UA.js",
+    "bytes": 2152,
+    "sha256": "900c262056a4819b982098e4140190eb144cde1bff70c330378ee1144cea1700"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/chapter_endings-BM1InKwm.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/chapter_endings-BM1InKwm.js",
+    "bytes": 1414,
+    "sha256": "84de8bc4f7863aba60374526359c9bb8559e9a975fc3ab9ddf4e64a81220c24a"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/ChapterView-Bvov20_-.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/ChapterView-Bvov20_-.css",
+    "bytes": 5049,
+    "sha256": "8191d392e8e3df53bfd6456cf3ae25a7afbeb3c1b791629bfa3f2123e424cecf"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/ChapterView-C1EaLDhk.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/ChapterView-C1EaLDhk.js",
+    "bytes": 12131,
+    "sha256": "b9e923ae494cd7bcce6a68ab83ae7f2bb4ff22120bb978eb72b8ad6da4833a7a"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/characters-OTaZOmsV.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/characters-OTaZOmsV.js",
+    "bytes": 4287,
+    "sha256": "b9df1cd239b2f8fe1564db3ced40cf88ce5c7d105e75511cd5af0a84a7412e95"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/CharacterView-3Sy2WR3t.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/CharacterView-3Sy2WR3t.css",
+    "bytes": 2020,
+    "sha256": "d54736d0b1ce8f2966ba8855a6952f34dad1d65f44f4d6fb346e4519b2095149"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/CharacterView-D6fQrSIC.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/CharacterView-D6fQrSIC.js",
+    "bytes": 4516,
+    "sha256": "1eb2d8ba818f53fcb5d35b9884e4bb3acd906e55485afef5545f60284c865d7d"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/CreditsView-D5-5y4BN.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/CreditsView-D5-5y4BN.css",
+    "bytes": 685,
+    "sha256": "a07e6c98d8f96a566c5d2bdd98bb3014769765654757e872ddb1645f999962df"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/CreditsView-DLjebp1g.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/CreditsView-DLjebp1g.js",
+    "bytes": 8189,
+    "sha256": "17aea3a6d99607f73298582e6af7e6f4cbc4a132b14a1c157da05637fa09dd7f"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/dialog-BMysXRYZ.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/dialog-BMysXRYZ.js",
+    "bytes": 1732,
+    "sha256": "96512e8dcfb32a51f52375ec693a492d87144fa8ff875c9d6483204f8d5ecff0"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/en-B667Hz_9.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/en-B667Hz_9.js",
+    "bytes": 1917,
+    "sha256": "96c01e83e75bb00dd73b7b43e2e9ce694a51e123f06150ab331227bfe58cdaad"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/en-DVZlxFtR.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/en-DVZlxFtR.js",
+    "bytes": 72809,
+    "sha256": "2cde8bbc090ab5d287399db49645fbde1d5fe9b1c7a11c26adf519f83d2738a4"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/endings-89BoC0Bj.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/endings-89BoC0Bj.js",
+    "bytes": 3105,
+    "sha256": "107055fa0e0c3f5af07a55edc894bb711a814530c91a3655712f525bd4104019"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/esc-A6BI7W62.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/esc-A6BI7W62.js",
+    "bytes": 1221,
+    "sha256": "6654bf85e6cba9f752e80df9047ed5cec17542cca3e43bbc1868cae5882d68b4"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/game-BTLGP1Kl.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/game-BTLGP1Kl.js",
+    "bytes": 11412,
+    "sha256": "2a6ba034ff98ecb147acfaa60e6b91afdb419215eacf339f495efaa9a427779a"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/index-BCH7gmb7.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/index-BCH7gmb7.css",
+    "bytes": 13427,
+    "sha256": "c78462e02e6d876448eaf852b6b13603e97d4bf64f930533bc76865be4b51834"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/index-DqaUc-Mf.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/index-DqaUc-Mf.js",
+    "bytes": 7243,
+    "sha256": "fd2f6cc44e02bc7b9024906951ccde8f6211c28d57ea20178de9a79fa884f41b"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/ja-BBV4BAhf.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/ja-BBV4BAhf.js",
+    "bytes": 1917,
+    "sha256": "25d021cbb3cca0b8e509662b1b51347ebdb4148595724f1377e65c60e824450b"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/ja-Cqp0sR9O.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/ja-Cqp0sR9O.js",
+    "bytes": 65631,
+    "sha256": "3219a3db0e5b67db03d0b25e129bb4d32423f13c00945c40fc8c580bf35849f8"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/ko-B-7TqOes.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/ko-B-7TqOes.js",
+    "bytes": 67746,
+    "sha256": "aeeab1025108864f849ed71e711b0685535142a2b2de10b03f68b9b92a992fc1"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/ko-CQaklz2s.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/ko-CQaklz2s.js",
+    "bytes": 1917,
+    "sha256": "4cbe2f1bde48b7b26c28bd7d431def2dc1d162578aa91520698412f68c9d7430"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/leisure_mode_playlist-DywO5UEO.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/leisure_mode_playlist-DywO5UEO.js",
+    "bytes": 3260,
+    "sha256": "82062935e7f67e0922aa7a4b78fed85e8484f1a631413d9448bb6f3e19767be3"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/LeisureModePlayerView-CLgll3re.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/LeisureModePlayerView-CLgll3re.css",
+    "bytes": 4821,
+    "sha256": "066311f0acbaace0aeb475fbda18fb9c4176b894cbe06f01d29a087d12be6650"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/LeisureModePlayerView-DX8q7g4F.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/LeisureModePlayerView-DX8q7g4F.js",
+    "bytes": 2726,
+    "sha256": "bb974eabd8730f2109aa9e33d632aa29117567e6d309b2de96a4acb0a7f9fc5a"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/LicenseView-BC-_446n.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/LicenseView-BC-_446n.css",
+    "bytes": 537,
+    "sha256": "6c88099327884cb152e55f3ecab2f42dd89665dbff49cd8ecab227bcced532bc"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/LicenseView-Biyfq0IW.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/LicenseView-Biyfq0IW.js",
+    "bytes": 7950,
+    "sha256": "9e752ca48d30e659e8d5c0097b386dd971cf2e8dc72912f19d09f575269f3e34"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/LoadingAnimation-CDiD_LAm.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/LoadingAnimation-CDiD_LAm.js",
+    "bytes": 1605,
+    "sha256": "868e064a4c1a11de71609f1af32d4caa5d31a1df65efdf7e91a01758b92955a3"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/LoadingAnimation-dZANp_9I.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/LoadingAnimation-dZANp_9I.css",
+    "bytes": 76,
+    "sha256": "f3710137a008ffa05ec3a0be2f4c909e7cb625bf3de02acf1b39117f513c162f"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/LoadingView-BefVSSge.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/LoadingView-BefVSSge.js",
+    "bytes": 1492,
+    "sha256": "9fb89b3f6aa2363f05e9ae7c09f59a6133c34f277c6a68fdf4058c0c2061f298"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/LoadingView-Bf97xjnq.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/LoadingView-Bf97xjnq.js",
+    "bytes": 1206,
+    "sha256": "0bba2fb5faecb4670013a277f57de59d92cf7290e1160b9fea5d7c463babb99e"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/LoadingView-DkTx8jU1.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/LoadingView-DkTx8jU1.css",
+    "bytes": 123,
+    "sha256": "9c037f121c841dafb38374e0748700da8bd29dbdfa3443c02a5705c8db03c7f9"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/lock-KXuPJAyk.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/lock-KXuPJAyk.js",
+    "bytes": 1433,
+    "sha256": "aee335c1b48d7d188e73d8bf2d7deafe2beafa49a47aff5654f37e656bcd94ed"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/MainMenuView-45x4hbHi.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/MainMenuView-45x4hbHi.css",
+    "bytes": 1703,
+    "sha256": "413725b5ccc6434c104945a392ec3a0b5d72a331e3c30107dd7fc36bc7bd91d7"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/MainMenuView-BRabFu1Q.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/MainMenuView-BRabFu1Q.js",
+    "bytes": 5021,
+    "sha256": "acad5b77cc3c41e4634d1912f91b2a8564f4bc465af15d383ec60f7d80bb2b7d"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/media-CGyxac_o.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/media-CGyxac_o.js",
+    "bytes": 9392,
+    "sha256": "f2d0137dd9fd092cd0ffe2cf9ce01004fc71e840a0d17df3a0a11d5feed58859"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/navigation-D0fhxgIL.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/navigation-D0fhxgIL.js",
+    "bytes": 8284,
+    "sha256": "e11944f89cdf72ab2736d0454064b718127ec6031fb023777cfaea6f79f6ba54"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/PageNavBar-CQM5miev.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/PageNavBar-CQM5miev.js",
+    "bytes": 7530,
+    "sha256": "9c01cff5f5a7537b5049f7a10eb07268251acbc06231c9cb9f6897660032f22c"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/PageNavBar-CYpsmmTe.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/PageNavBar-CYpsmmTe.css",
+    "bytes": 901,
+    "sha256": "d5ee92f22d3288c49904a918780403e642e9564998478321fdcd26dadf42462b"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/PlayerView-0K737eBt.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/PlayerView-0K737eBt.js",
+    "bytes": 3559,
+    "sha256": "025e89693ac6c1c1678efe70ec68836de707ade154aef546a9e384c3f408f40e"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/PlayerView-Df_PpEAP.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/PlayerView-Df_PpEAP.css",
+    "bytes": 727,
+    "sha256": "74b08fa1b35f9353b8998b335738655e154c5adcd59fb1a5a2f0de5696cf70b3"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/PortfolioView-BRj61Gla.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/PortfolioView-BRj61Gla.css",
+    "bytes": 16745,
+    "sha256": "7d813304b933d75c9208747c249db18712a7e1a92d055462d5c0a592a70f53e8"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/PortfolioView-C8GjVWK-.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/PortfolioView-C8GjVWK-.js",
+    "bytes": 8462,
+    "sha256": "8c3b1f9e7fd06a618f64b618dafe0847b967d49f3a16c1358e2236bb0d1d7f23"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/preload-BwqIQoQP.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/preload-BwqIQoQP.js",
+    "bytes": 1309,
+    "sha256": "13ed4594e7f53cf647e141c02de7aa515507d2d2af55d7bc83327489ff0be949"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/rolldown-runtime-puNP7PS7.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/rolldown-runtime-puNP7PS7.js",
+    "bytes": 1785,
+    "sha256": "6082abea7af12b0e93fd76f4f328a4fc990bacadba49b5e9b9733592a6542aa2"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/router-BE9Fjxsm.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/router-BE9Fjxsm.js",
+    "bytes": 7188,
+    "sha256": "b3c9c84639c96f6a81a76413b36d71a2e72928517c53a38480936164b72c39c7"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/router-BQNMVyvQ.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/router-BQNMVyvQ.js",
+    "bytes": 1162,
+    "sha256": "7dc3db961f880bb42041c969db09e2b41c410d205f9e0cee5d13aa1acd6ac244"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/ru-BbV_cZd1.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/ru-BbV_cZd1.js",
+    "bytes": 1907,
+    "sha256": "cc76ae2c43f5a5ff89cfac67e1223d13218edc9f216459c61460ed97005db0e5"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/ru-CUgJJo8E.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/ru-CUgJJo8E.js",
+    "bytes": 1282,
+    "sha256": "140ffb2017a4c46b483ae5817f469bb0ca6aef4e24da44b8c023335cbad8c79f"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/SettingsView-C-hhC2eS.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/SettingsView-C-hhC2eS.js",
+    "bytes": 3931,
+    "sha256": "f39bddf866cfb42f0fcf758bb1113b5e096d35f7f1499da242f6513d61a5c837"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/SettingsView-DGxrRzX2.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/SettingsView-DGxrRzX2.css",
+    "bytes": 22914,
+    "sha256": "eeee9f33308f12b2616fdd1b506aad59f919bf4be325fd8812eb3ff60d1fcc40"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/StoryletPlayer-ClJzgEbD.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/StoryletPlayer-ClJzgEbD.css",
+    "bytes": 30213,
+    "sha256": "3c6e7424bc3d941cd57b9959b79be05554da3b9338bd258a867f7407edd23899"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/StoryletPlayer-PwJrfDfZ.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/StoryletPlayer-PwJrfDfZ.js",
+    "bytes": 54526,
+    "sha256": "37d10dfe1c0dc8eba60cace7a7c1080b674428be16f213f14f04fe2580b05058"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/StorylineView-B7Fzlss6.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/StorylineView-B7Fzlss6.js",
+    "bytes": 37347,
+    "sha256": "fa392004604a48f29127bdca1f0039d8752f4454a9ac4f1a832079e1cde0a96a"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/StorylineView-DgjWXAEw.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/StorylineView-DgjWXAEw.css",
+    "bytes": 8596,
+    "sha256": "33f289b4d79f6d1e99820364ce64b1e0766a8cddfb7cf941a6e0aee5aa1ee64d"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/ui-DN9zXgzf.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/ui-DN9zXgzf.js",
+    "bytes": 2158,
+    "sha256": "c693923fe192f31eba5e50aaa0e4aa97e1492eb4226a92d5469c1d9e0b85bc76"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/vendor-CsyOLyP3.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/vendor-CsyOLyP3.js",
+    "bytes": 2214467,
+    "sha256": "5fcf9b72bcfa2491bc0f6ef10a2bfb4f9e4641880888749454b57a8011097933"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/vendor-uDFgPAft.css",
+    "source": "app.asar!/.vite/renderer/main_window/assets/vendor-uDFgPAft.css",
+    "bytes": 43872,
+    "sha256": "7c817716f28c178c6c3506b789ecbb5a45aa3c10d8611b0e89158f2ca1164a07"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/videos_with_value_changes-19KMUzpO.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/videos_with_value_changes-19KMUzpO.js",
+    "bytes": 2006,
+    "sha256": "f73766e1aa013a658afd22ca7431421e14177aee312ca9aa3667ed3b329a8f63"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/videos-CYDeOwst.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/videos-CYDeOwst.js",
+    "bytes": 26978,
+    "sha256": "ece0c6d9f00816e273c95fc550d8f5fa12823380e7cfad8ef132b5407e7eebe2"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/vue-B7Je9h0e.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/vue-B7Je9h0e.js",
+    "bytes": 193322,
+    "sha256": "dd8e18bcf4637dc12f7ee95489f0c68d73070321ea438a31f091b48d78629101"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/zh-cmn-Hans-DCjjwtGP.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/zh-cmn-Hans-DCjjwtGP.js",
+    "bytes": 91179,
+    "sha256": "cdbe5d3196744ce243eaea00ded7b096a5d0a57d543ee67b3703386a311e3376"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/zh-CN-DQIDQQWA.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/zh-CN-DQIDQQWA.js",
+    "bytes": 1879,
+    "sha256": "24705b7def99564c653b42a29b30bf9086698b46b1dd714bf432acdcf259568d"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/七-DflJaBwE.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/七-DflJaBwE.svg",
+    "bytes": 16937,
+    "sha256": "7f21bb956e929ba17b51abe8f5f1a1e0c8c5f92522dca57b8045c8095cc1785e"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/三-7SYiHWYr.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/三-7SYiHWYr.svg",
+    "bytes": 16645,
+    "sha256": "33c3a5caebfc2d53f38be31ec2d0f9d1a47f8ceea15c9022c809ca805bfabe96"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/二-xegyaOn7.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/二-xegyaOn7.svg",
+    "bytes": 15327,
+    "sha256": "0e2bc09c9beb8fdbc136d3b68ce20ac63113e0d99e91ecd6e12a7e847828ef3a"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/五-BHOpum8S.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/五-BHOpum8S.svg",
+    "bytes": 17765,
+    "sha256": "4bd3a87631fdb81cbd47ec003181fa3cc6d4ad89f516c2412431cefeef70df23"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/六-DceUZwCK.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/六-DceUZwCK.svg",
+    "bytes": 17015,
+    "sha256": "ede9395abef342a19a7da4e25bfa06d865e5e9e62bc08cf81fb4e80428bf1c12"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/关闭高亮-BoZrBZEA.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/关闭高亮-BoZrBZEA.js",
+    "bytes": 3183,
+    "sha256": "7501cf275480017e92f90ce3c5296b7ac6fbd79f17e9ddcddb47c6868f10e740"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/四-DIFurY9u.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/四-DIFurY9u.svg",
+    "bytes": 21075,
+    "sha256": "26e94af7221900208a77ff4cb9c945861fde004f594717129809cf383932a990"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/好感度音效-CRUjmis2.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/好感度音效-CRUjmis2.js",
+    "bytes": 1245,
+    "sha256": "8f8d13db5704ed932997c4b536e95ecb8201b58dcc5207138a22faf85838249f"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/点-D4Z2mVCy.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/点-D4Z2mVCy.svg",
+    "bytes": 151664,
+    "sha256": "9d01e7cd5744bc88f02718f855ea3fd7fbcc8ca479f00f82658608efffbb8750"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/角标-BXwCAxQM.svg",
+    "source": "app.asar!/.vite/renderer/main_window/assets/角标-BXwCAxQM.svg",
+    "bytes": 75303,
+    "sha256": "5146965fbfc09b7f3544fa83a9798c25580914eba856beb7469fe098e9ef91ad"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/选项飞入声音-B6bdbP-4.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/选项飞入声音-B6bdbP-4.js",
+    "bytes": 1251,
+    "sha256": "7c223284e0450755f12610f41e9f42aebd3b1475b1a249705d8c3dd06c3f3515"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/选项飞出声音-DO1JxwTl.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/选项飞出声音-DO1JxwTl.js",
+    "bytes": 1251,
+    "sha256": "ee3886b53405d8cf3e73353806c8a75a84625d7c90fe58126c0433e892542c06"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/音效1-Dd9k5GsH.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/音效1-Dd9k5GsH.js",
+    "bytes": 1229,
+    "sha256": "165c733b4ff658fa6130687289d3906e27681e43e3df7df89aa1ef9956b1e4bc"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/音效11-DNvwl2fl.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/音效11-DNvwl2fl.js",
+    "bytes": 1231,
+    "sha256": "34901cedfedc96e2c9e3dbd9d749ec79c9cda71d1b34495ee7c584987256b2f9"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/音效12-CEOC0LWT.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/音效12-CEOC0LWT.js",
+    "bytes": 1231,
+    "sha256": "f1192869c29c0bed48b9a15d19b1a4a093efa106888933223eef029204461acb"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/音效2-DnJC9Lcf.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/音效2-DnJC9Lcf.js",
+    "bytes": 1229,
+    "sha256": "88af3c2cb452d034384eefc27f27a21041905863b3d4b5262e3a6bcceee00e64"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/音效3-DSEtZLTq.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/音效3-DSEtZLTq.js",
+    "bytes": 1229,
+    "sha256": "0b3c42e768986ba193f536ffedd2b0b174375b15f3168745b5b8f3cbefb35f3e"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/音效4-HeKtQCb4.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/音效4-HeKtQCb4.js",
+    "bytes": 1229,
+    "sha256": "d6783fe513be4d5828bb2a1e3122fc45ba9673787d1caed50d20ce49f242aa54"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/音效7-DEsmZjfa.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/音效7-DEsmZjfa.js",
+    "bytes": 1229,
+    "sha256": "bf84fe22ee2c2c3bcee1a725f26ab12d2a94a552d5dfe9c51fe8633996eaa47d"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/assets/音效9-DTg5Es-x.js",
+    "source": "app.asar!/.vite/renderer/main_window/assets/音效9-DTg5Es-x.js",
+    "bytes": 1229,
+    "sha256": "56401fc1ef6517269978891ac802da1bee3b04371102bd38c4be026e08ef0648"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/index.html",
+    "source": "app.asar!/.vite/renderer/main_window/index.html",
+    "bytes": 1754,
+    "sha256": "a90c287879a39780588ac2f21a618747e354c3872aad43e61f393fcc6506cb85"
+  },
+  {
+    "path": "code-original/.vite/renderer/main_window/needles-worker.js",
+    "source": "app.asar!/.vite/renderer/main_window/needles-worker.js",
+    "bytes": 8589,
+    "sha256": "cde9b67bf177e2e072e941ec298afe9ad6831d08ab382a765f2cce9fc74f9f92"
+  },
+  {
+    "path": "code-original/package.json",
+    "source": "app.asar!/package.json",
+    "bytes": 4133,
+    "sha256": "c321cffeedb6163933df264406aa37b5575c9d9b36319b889cd9b6c61bd9a9a3"
+  },
+  {
+    "path": "subtitles/0/00_001_001.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_001_001.vtt",
+    "bytes": 1815,
+    "sha256": "a48d03b83c2738fd7cc9f1e83e2243385f3d842db814da5b11e8e08597a109ea"
+  },
+  {
+    "path": "subtitles/0/00_002_001LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_002_001LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_003_001A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_003_001A.vtt",
+    "bytes": 83,
+    "sha256": "fdfbce4c3f46ef9464ca0d5ba389cb986c725682a1862c75219c939f5cc24343"
+  },
+  {
+    "path": "subtitles/0/00_004_001B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_004_001B.vtt",
+    "bytes": 127,
+    "sha256": "7548fba9dfae1503a1295352ae0ebbf117928ba46598dee2c90e5afbabf21c9e"
+  },
+  {
+    "path": "subtitles/0/00_005_002003004005.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_005_002003004005.vtt",
+    "bytes": 2766,
+    "sha256": "159398387bb3c5f6b1efed0468e6325efce502d16c53cbe09a40d9df50ef289c"
+  },
+  {
+    "path": "subtitles/0/00_006_002LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_006_002LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_007_002A006007008009010.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_007_002A006007008009010.vtt",
+    "bytes": 1705,
+    "sha256": "0a8dcbfd5725c42584db0e0a5936be48e7c9439edecf70f3c6cf081a18439759"
+  },
+  {
+    "path": "subtitles/0/00_008_002B021.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_008_002B021.vtt",
+    "bytes": 1005,
+    "sha256": "902e97b40474f0e749cbffd11e5a1290c8d7d172884dec5432feb471df34078c"
+  },
+  {
+    "path": "subtitles/0/00_009_BE001.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_009_BE001.vtt",
+    "bytes": 444,
+    "sha256": "3efe2337392663dfabaa5eea0b82cdd27dc8a24ae124796bca79151a83f31dcf"
+  },
+  {
+    "path": "subtitles/0/00_010_003LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_010_003LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_011_003A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_011_003A.vtt",
+    "bytes": 632,
+    "sha256": "da09d5a87304e20b6835078803656fcb2cfc61c0c0a26f03a52645594c01314e"
+  },
+  {
+    "path": "subtitles/0/00_012_003B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_012_003B.vtt",
+    "bytes": 274,
+    "sha256": "d82f8f09dcb57ad96e4942d14ab6b85c64b9f5f94885ad90a416c86c58ed2f6e"
+  },
+  {
+    "path": "subtitles/0/00_013_011.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_013_011.vtt",
+    "bytes": 264,
+    "sha256": "b827e806048baee9fc01765075f958c62e81e4d83e1fb6278a893338f4e8e19b"
+  },
+  {
+    "path": "subtitles/0/00_014_004LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_014_004LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_015_004A012.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_015_004A012.vtt",
+    "bytes": 320,
+    "sha256": "90f4381d8bb571ed9b04f7d72a35f77e7d30d981dbf94621f29b6e5a1b4f7fa6"
+  },
+  {
+    "path": "subtitles/0/00_016_004B012.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_016_004B012.vtt",
+    "bytes": 342,
+    "sha256": "01479eb442ba28e42aad3f049c2d430c50fb2113b4494c18f60f4f075c903ffc"
+  },
+  {
+    "path": "subtitles/0/00_018_005LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_018_005LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_019_005A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_019_005A.vtt",
+    "bytes": 212,
+    "sha256": "c6b920d69fdac0dae4381c2fa766d97af15856449a29f33b109b1d55823b0dd3"
+  },
+  {
+    "path": "subtitles/0/00_020_005B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_020_005B.vtt",
+    "bytes": 896,
+    "sha256": "cb1967f06be2acaf1fcd7fcb4623c1babb389e061f592ed558585dfbbf178e04"
+  },
+  {
+    "path": "subtitles/0/00_021_005C.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_021_005C.vtt",
+    "bytes": 482,
+    "sha256": "23cbe61e3acf1518b689a82c43bc04329e78755c2d13943fb67b7660e91c5100"
+  },
+  {
+    "path": "subtitles/0/00_022_013.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_022_013.vtt",
+    "bytes": 215,
+    "sha256": "6177f4237162157cdee17cff4f597f3d4b496fc439b4e638af965f826482196e"
+  },
+  {
+    "path": "subtitles/0/00_023_006LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_023_006LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_024_006A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_024_006A.vtt",
+    "bytes": 77,
+    "sha256": "df5e70e0d0193a651c8b86c7fc030be4555107cbbf54c17d4d27fcb33436427f"
+  },
+  {
+    "path": "subtitles/0/00_025_006B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_025_006B.vtt",
+    "bytes": 221,
+    "sha256": "5ad05813249fe32b962d36e234d2867f5c2730c1f0daff1329d0b4e6a4a1e1f9"
+  },
+  {
+    "path": "subtitles/0/00_026_014.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_026_014.vtt",
+    "bytes": 125,
+    "sha256": "a39339fe290933744c0f70ce4b8cdf33d7d7342d16f9f33e859b6353bcc0251f"
+  },
+  {
+    "path": "subtitles/0/00_027_017.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_027_017.vtt",
+    "bytes": 148,
+    "sha256": "c819bc6625751ef2aa8b743afd1d8fd1f3e20156cb5d23f76d28477c3e6d7225"
+  },
+  {
+    "path": "subtitles/0/00_028_016.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_028_016.vtt",
+    "bytes": 271,
+    "sha256": "aef3984172ba9f1302a0a623241feabf364efb886aff04ea751c816179f7f105"
+  },
+  {
+    "path": "subtitles/0/00_029_015.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_029_015.vtt",
+    "bytes": 77,
+    "sha256": "15a94f7aa84509e5aa6730f6f03e9347382007fb2cff2b5f00c98ac74945464c"
+  },
+  {
+    "path": "subtitles/0/00_030_007LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_030_007LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_031_007A018.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_031_007A018.vtt",
+    "bytes": 439,
+    "sha256": "19e7a399fa2a636be9866af631a5f5b49347f2380437e31714aaf74afbc5b370"
+  },
+  {
+    "path": "subtitles/0/00_032_007B018.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_032_007B018.vtt",
+    "bytes": 813,
+    "sha256": "84e52df25d2d06b7e6ec6392de1d31a67803241a7ed5ec68dc0fd979794c0a9b"
+  },
+  {
+    "path": "subtitles/0/00_033_007C018.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_033_007C018.vtt",
+    "bytes": 1672,
+    "sha256": "77f274655545d02b201459b11c75c694d796fb340125e1b920fef2d16a593399"
+  },
+  {
+    "path": "subtitles/0/00_036_020.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_036_020.vtt",
+    "bytes": 1135,
+    "sha256": "130e083028e304c2c392a3040b72ff34ae55898cdd2e3f0215c2d7afeb4434cb"
+  },
+  {
+    "path": "subtitles/0/00_037_008LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_037_008LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_038_008A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_038_008A.vtt",
+    "bytes": 650,
+    "sha256": "ce63753df1f74eb1b1401f819babbc619c1f9b2b1a29c8098ddeb4ae2f589c57"
+  },
+  {
+    "path": "subtitles/0/00_039_008B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_039_008B.vtt",
+    "bytes": 216,
+    "sha256": "4364b7ac77f0ff6affa7b6c7e42ee0d3695bc5fdfa1ee4bfba9115d306f6b6bd"
+  },
+  {
+    "path": "subtitles/0/00_040_022.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_040_022.vtt",
+    "bytes": 349,
+    "sha256": "19e2800f66db4cef0353f2e08bcafcef7eb48722f1765702f164bb241a7141a8"
+  },
+  {
+    "path": "subtitles/0/00_041_009LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_041_009LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_042_009A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_042_009A.vtt",
+    "bytes": 268,
+    "sha256": "fc057f85057e54fb12b5de65539e7b6ed8169fe0f01aea1b26146e511d69f3a2"
+  },
+  {
+    "path": "subtitles/0/00_043_009B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_043_009B.vtt",
+    "bytes": 297,
+    "sha256": "c7c0318494f3376a10d3c94b19d1d22d6e356b20545e6a28b07080b1048d5881"
+  },
+  {
+    "path": "subtitles/0/00_044_010LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_044_010LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_045_010A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_045_010A.vtt",
+    "bytes": 1309,
+    "sha256": "b83224dc1fb573c1882b4a53d39c5bbc0d2889102075ea7ad8d15c4fd0f8898b"
+  },
+  {
+    "path": "subtitles/0/00_046_010B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_046_010B.vtt",
+    "bytes": 784,
+    "sha256": "042a4a2d3fdf0de8f70500083c5178b4b52780f378c7a0783a3d7417ff7c7c13"
+  },
+  {
+    "path": "subtitles/0/00_047_011LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_047_011LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_048_011A025.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_048_011A025.vtt",
+    "bytes": 643,
+    "sha256": "6de468da55296b9e44f1362d2192f8307a456670c79684bc6684c413a03ccd96"
+  },
+  {
+    "path": "subtitles/0/00_049_011B025.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_049_011B025.vtt",
+    "bytes": 1171,
+    "sha256": "ded327edee754ed15bf328d354c1a0e3b8ec4c8182e8f7a4e537dca80e85e5b5"
+  },
+  {
+    "path": "subtitles/0/00_050_011C025.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_050_011C025.vtt",
+    "bytes": 1411,
+    "sha256": "e2fdb26857d3395f4615993dd9dc670ceb2049b424fa660deb33b7ee7d2f10c4"
+  },
+  {
+    "path": "subtitles/0/00_052_026.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_052_026.vtt",
+    "bytes": 643,
+    "sha256": "0a9f959b72527e9fa389afca96bb9214a2bce94bb58dba1663dfb86a4e24f881"
+  },
+  {
+    "path": "subtitles/0/00_053_027.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_053_027.vtt",
+    "bytes": 162,
+    "sha256": "ba9f556817b641fd2bafd2477c2a53c572b82885bcd94fdf353e090cb9705cb9"
+  },
+  {
+    "path": "subtitles/0/00_054_012LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_054_012LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_055_012A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_055_012A.vtt",
+    "bytes": 474,
+    "sha256": "52ae4ea8ee29293d7e698248056e1e84114ba31fc22bb100390942b4e12bba00"
+  },
+  {
+    "path": "subtitles/0/00_056_012B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_056_012B.vtt",
+    "bytes": 1230,
+    "sha256": "e5f8bc84b8dc051c8e58530623411a7b320e21d7f9b864228284d3f24cc209f8"
+  },
+  {
+    "path": "subtitles/0/00_057_028.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_057_028.vtt",
+    "bytes": 1640,
+    "sha256": "5b5959e03845d9ee171c2367f7d77be89f1dd7c93f7970bf48fa761d9bedc514"
+  },
+  {
+    "path": "subtitles/0/00_058_013LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_058_013LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_059_013A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_059_013A.vtt",
+    "bytes": 535,
+    "sha256": "b641bb07f8eeccae5267bed2468e0b3c956da8a83f9e84d640cfe6450523a7c7"
+  },
+  {
+    "path": "subtitles/0/00_060_013B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_060_013B.vtt",
+    "bytes": 764,
+    "sha256": "21fa5a5b430e197d578c122862fdba90740ecbf0b652b951ac687f09ee35f58b"
+  },
+  {
+    "path": "subtitles/0/00_061_029.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_061_029.vtt",
+    "bytes": 1172,
+    "sha256": "42e9adb255e85415fd1219eb2e81ba0fbc6412810d425dbfa8f3f0f634cdd3d9"
+  },
+  {
+    "path": "subtitles/0/00_062_014LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_062_014LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_063_014A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_063_014A.vtt",
+    "bytes": 545,
+    "sha256": "26b3eef2fb3f897a3e0fb42b31526a690c6f0abdb443ec35b572173392216c10"
+  },
+  {
+    "path": "subtitles/0/00_064_014B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_064_014B.vtt",
+    "bytes": 531,
+    "sha256": "e3e1ae112db4b9ec6bf0cbc564150fe8b68bd3f9f4f9f4bd1d840cd5be64f184"
+  },
+  {
+    "path": "subtitles/0/00_065_030.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_065_030.vtt",
+    "bytes": 397,
+    "sha256": "f5d698faf85b689ac07c960d62373f596e849ce0440ae3a4d32ee9c7d23ca5f3"
+  },
+  {
+    "path": "subtitles/0/00_066_031.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_066_031.vtt",
+    "bytes": 255,
+    "sha256": "a8a10eecffdcbfabd23722721ba00c11764ff7dfb0e89fe8de1106e5196eab97"
+  },
+  {
+    "path": "subtitles/0/00_067_032.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_067_032.vtt",
+    "bytes": 1538,
+    "sha256": "647ab24cf9c382c1f7b52f9b1119bb7a1c9f057f5fea207b275330bbcab2c623"
+  },
+  {
+    "path": "subtitles/0/00_068_015LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_068_015LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_069_015A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_069_015A.vtt",
+    "bytes": 441,
+    "sha256": "abab5a404f61d2cbfb87bbff0f10cf18c544163ba9b35f1ab8ce94d0ec07002c"
+  },
+  {
+    "path": "subtitles/0/00_070_015B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_070_015B.vtt",
+    "bytes": 770,
+    "sha256": "530a5f4955ea8c2f0eae52aab3fe3a80fa7867525249393494eed11c8a139fcd"
+  },
+  {
+    "path": "subtitles/0/00_071_033.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_071_033.vtt",
+    "bytes": 83,
+    "sha256": "0fa5e2767138d707ec721db83da8f5430a1cac2a4fbe377f538454495952a17c"
+  },
+  {
+    "path": "subtitles/0/00_072_016LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_072_016LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_073_016A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_073_016A.vtt",
+    "bytes": 503,
+    "sha256": "d58483dc8bf2e9c616c9ec459d561a65993b9dedcbd078703915fa11491e9afe"
+  },
+  {
+    "path": "subtitles/0/00_074_016B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_074_016B.vtt",
+    "bytes": 271,
+    "sha256": "3f02c6bd3ffcf38c1f64b4b1699fccaa640c4f5e2701105f7f3c333efb209991"
+  },
+  {
+    "path": "subtitles/0/00_075_034.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_075_034.vtt",
+    "bytes": 1166,
+    "sha256": "67311de66e68e695c74b834d008ac1bab395988acb09631513e8481532e46900"
+  },
+  {
+    "path": "subtitles/0/00_076_035.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_076_035.vtt",
+    "bytes": 1052,
+    "sha256": "fab3069d026fec3e2450a4b7f876fed9d6545be041a272e56f84ef49a5d426b1"
+  },
+  {
+    "path": "subtitles/0/00_077_036.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_077_036.vtt",
+    "bytes": 989,
+    "sha256": "ef0bac960f0774fb53b1b9945247871872a6f523446c761dda77fd07032bf29d"
+  },
+  {
+    "path": "subtitles/0/00_078_017LOOP.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_078_017LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/0/00_079_017A.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_079_017A.vtt",
+    "bytes": 125,
+    "sha256": "d24d552d633f60f5a106657e629667c7aa29c83266b65c2dd82c6a9d04782598"
+  },
+  {
+    "path": "subtitles/0/00_080_017B.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_080_017B.vtt",
+    "bytes": 72,
+    "sha256": "bb830c6a404318cc501a2a418002707db53266d7238400f23bf381e4dde09a0b"
+  },
+  {
+    "path": "subtitles/0/00_081_037038039040041.vtt",
+    "source": "chapter0_zh_cmn_Hans.pack!/subtitles/00_081_037038039040041.vtt",
+    "bytes": 2246,
+    "sha256": "6dfcbf7ce12def931a88793d07ea5ef9c55964b62d27e9c2bf70d3976c2f7839"
+  },
+  {
+    "path": "subtitles/1/01_001_001.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_001_001.vtt",
+    "bytes": 2364,
+    "sha256": "f0128c487307b9f610b393580cee882843b2ca6ca8941397670e1d109e8a135a"
+  },
+  {
+    "path": "subtitles/1/01_002_001LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_002_001LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_003_001A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_003_001A.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_004_001B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_004_001B.vtt",
+    "bytes": 189,
+    "sha256": "552ea7762dc339806bafaf9177c450cd78b3811753cd1b1b28e85fb95c7b6f8b"
+  },
+  {
+    "path": "subtitles/1/01_005_002003004.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_005_002003004.vtt",
+    "bytes": 3266,
+    "sha256": "3805c7713a0b7594c95d0f7f44a49451597bfc60320620fba9fc6e68243d0616"
+  },
+  {
+    "path": "subtitles/1/01_006_002LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_006_002LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_007_002A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_007_002A.vtt",
+    "bytes": 453,
+    "sha256": "3d1b0e86290bebc8953e9a13d2d817d1988a825835d99cc6a87368fd54d5af85"
+  },
+  {
+    "path": "subtitles/1/01_008_002B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_008_002B.vtt",
+    "bytes": 443,
+    "sha256": "f10adb4242f42a9c11d70d375fcb61390871f48cb79d32e9dcc6b87df29ff1fe"
+  },
+  {
+    "path": "subtitles/1/01_009_002C.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_009_002C.vtt",
+    "bytes": 519,
+    "sha256": "b1eed8e90eb5b171d9ac03ec79fd16250b39d66ddfd855aca90deae9521923c8"
+  },
+  {
+    "path": "subtitles/1/01_010_005006.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_010_005006.vtt",
+    "bytes": 959,
+    "sha256": "e72b0157695ce3f751b2b681167fd743a2f6ded6c08548e0680d50b83e0dc152"
+  },
+  {
+    "path": "subtitles/1/01_011_003LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_011_003LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_012_003A007.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_012_003A007.vtt",
+    "bytes": 549,
+    "sha256": "9260da43cce6b689833457c0fa7f9e7cd930771200aa461780953e09aff983f0"
+  },
+  {
+    "path": "subtitles/1/01_013_003B007.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_013_003B007.vtt",
+    "bytes": 318,
+    "sha256": "bbd156dee2015b2d8b975501ee5f4bbfae71f08d8f588bb9e97b974b168633f8"
+  },
+  {
+    "path": "subtitles/1/01_014_004LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_014_004LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_015_004A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_015_004A.vtt",
+    "bytes": 1051,
+    "sha256": "c6b5c639a4bc8e97f5188d85c42666e6e1ce5d0bd6c0c09d01ec617aa858bf88"
+  },
+  {
+    "path": "subtitles/1/01_016_004B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_016_004B.vtt",
+    "bytes": 722,
+    "sha256": "6377346fa068ae85287ef34845e02e1edd446692b1991ee7f49ee91ad4190f80"
+  },
+  {
+    "path": "subtitles/1/01_017_004C.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_017_004C.vtt",
+    "bytes": 620,
+    "sha256": "bc576552819685b19c1ba20c646538b408c22a435e5c42e7cfa91f305a1cae30"
+  },
+  {
+    "path": "subtitles/1/01_018_008009010011012.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_018_008009010011012.vtt",
+    "bytes": 1717,
+    "sha256": "a293886a8e9d13e0c58bef8c8918b41480b22ec3fa78bdca176a2e2f45648b2a"
+  },
+  {
+    "path": "subtitles/1/01_019_005LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_019_005LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_020_005A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_020_005A.vtt",
+    "bytes": 194,
+    "sha256": "e68d9dea852fa0988d0f081af66ffec5695a8f62bb0767fac082efbd14909be5"
+  },
+  {
+    "path": "subtitles/1/01_021_005B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_021_005B.vtt",
+    "bytes": 308,
+    "sha256": "659d7faf20a6112bc867a68638e67efc3ec97b637726c696c2a93e0c99940be0"
+  },
+  {
+    "path": "subtitles/1/01_022_013014015016017018.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_022_013014015016017018.vtt",
+    "bytes": 2152,
+    "sha256": "6054de9a547dfa8d52568d811e29bb7d7cc33bb3ee45a981a0647723307cb984"
+  },
+  {
+    "path": "subtitles/1/01_023_006LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_023_006LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_024_006A019.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_024_006A019.vtt",
+    "bytes": 522,
+    "sha256": "00ee399930a140967b144b38794360d88f874bf9bbc08df6af8d468a5301dc0d"
+  },
+  {
+    "path": "subtitles/1/01_025_006B019.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_025_006B019.vtt",
+    "bytes": 341,
+    "sha256": "179486b76bef5d70f418a278f0c2bbb2c6580946907a935690e6456c200d03c1"
+  },
+  {
+    "path": "subtitles/1/01_026_020.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_026_020.vtt",
+    "bytes": 1941,
+    "sha256": "5a63769ebe64cbea961f61ba20f143cd6d8581050e08501620fb083456b5b357"
+  },
+  {
+    "path": "subtitles/1/01_027_007LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_027_007LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_028_007A021_BE001.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_028_007A021_BE001.vtt",
+    "bytes": 1004,
+    "sha256": "7ed7e3c5272d3615dad823f4cd74455ca2d226046745d29590753233ab21ba99"
+  },
+  {
+    "path": "subtitles/1/01_029_007B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_029_007B.vtt",
+    "bytes": 760,
+    "sha256": "634c51ff191ac4ac5a9636ca41d63a79bf39975af7f54e69b658746d95897419"
+  },
+  {
+    "path": "subtitles/1/01_030_027.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_030_027.vtt",
+    "bytes": 402,
+    "sha256": "291e90259efb08981d31fc8d77e0cb33c3e9a61d53d77b1933aac2c0c89dc3a6"
+  },
+  {
+    "path": "subtitles/1/01_031_028.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_031_028.vtt",
+    "bytes": 272,
+    "sha256": "4aaa9440e3cea7436eb9e150ae2e3c915d23af0ac5c816dee98c2c69e511b930"
+  },
+  {
+    "path": "subtitles/1/01_032_032033034035036_HE001.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_032_032033034035036_HE001.vtt",
+    "bytes": 2498,
+    "sha256": "afdd8377cf3976693f4db02fee8c403ddb204a1ea4ccedf7d3b191f6de523b50"
+  },
+  {
+    "path": "subtitles/1/01_033_037038.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_033_037038.vtt",
+    "bytes": 880,
+    "sha256": "b532817e3dc8e8b7c7d5d77d99c6d3bdecf79d6d6681743f5aeb05f7152f0c61"
+  },
+  {
+    "path": "subtitles/1/01_034_008LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_034_008LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_035_008A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_035_008A.vtt",
+    "bytes": 297,
+    "sha256": "2d4451037d47379b6e8204de6e1ef0bcce46dc45bfad4799098bd82d78c6ffe4"
+  },
+  {
+    "path": "subtitles/1/01_036_008B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_036_008B.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_037_008C.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_037_008C.vtt",
+    "bytes": 274,
+    "sha256": "493ce258ddadb3c8dbe57bdadab5054ae556e8dbedc7637ee0b84b0699c07d6a"
+  },
+  {
+    "path": "subtitles/1/01_038_039.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_038_039.vtt",
+    "bytes": 1218,
+    "sha256": "4974dab46fc8e354d74ddc97e0fbee856a88abaa22a97496012dc05b3b9d1580"
+  },
+  {
+    "path": "subtitles/1/01_039_009LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_039_009LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_040_009A040.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_040_009A040.vtt",
+    "bytes": 470,
+    "sha256": "5c47c67dd0b792ddfa9f8320ff9cdae9060bacb4824eabb619ba76bad9fe211a"
+  },
+  {
+    "path": "subtitles/1/01_041_009B040.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_041_009B040.vtt",
+    "bytes": 801,
+    "sha256": "5a2efaa1f60f788157e05992c9314ca54fd66adf42a69b638ec65e7771d4e1c0"
+  },
+  {
+    "path": "subtitles/1/01_042_041042043.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_042_041042043.vtt",
+    "bytes": 2349,
+    "sha256": "44f27b14f0ee4da622e87fbb7279c843ce9f92269770fe7c1c5973981e183244"
+  },
+  {
+    "path": "subtitles/1/01_043_010LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_043_010LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_044_010A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_044_010A.vtt",
+    "bytes": 566,
+    "sha256": "12450d0a4017982c111ac670748aabacdb2b4024cfaa556e4f75d2f3cc56e0ac"
+  },
+  {
+    "path": "subtitles/1/01_045_010B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_045_010B.vtt",
+    "bytes": 335,
+    "sha256": "b88eb67aa3ee4946b3f1fd7df681d34af2713b539645054daf2b83493f5fe6f8"
+  },
+  {
+    "path": "subtitles/1/01_046_010C.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_046_010C.vtt",
+    "bytes": 247,
+    "sha256": "ea07ba73c3c5ec0ac4baf4a9d4ecd36f91f30cbc24804e791622f1ba0da2fd80"
+  },
+  {
+    "path": "subtitles/1/01_047_044.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_047_044.vtt",
+    "bytes": 1826,
+    "sha256": "fe943db0ca14d1c5092f60efa0dfa15a0e69798943578239ae7671331d39aa03"
+  },
+  {
+    "path": "subtitles/1/01_048_011LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_048_011LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_049_011A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_049_011A.vtt",
+    "bytes": 266,
+    "sha256": "6db199fb874999d8a510590048de2dc812b549fe6c52f9ccae6cb739a1d95f5e"
+  },
+  {
+    "path": "subtitles/1/01_050_011B045.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_050_011B045.vtt",
+    "bytes": 118,
+    "sha256": "793c0fbef33b6855362914886c2deebf3d4243f173f11e7abaf6e16d0b480851"
+  },
+  {
+    "path": "subtitles/1/01_051_049050052.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_051_049050052.vtt",
+    "bytes": 1272,
+    "sha256": "1a1015302e900728f3c1b30b16e48dd69455dab4598bca3d758ce1ec6d077438"
+  },
+  {
+    "path": "subtitles/1/01_052_012LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_052_012LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_053_012A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_053_012A.vtt",
+    "bytes": 315,
+    "sha256": "e23ef00a306983e5e201ec7fd7b46a0bc37de8833d0afda1453ceb37f8c1fbfb"
+  },
+  {
+    "path": "subtitles/1/01_054_012B053054.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_054_012B053054.vtt",
+    "bytes": 494,
+    "sha256": "852bca6612381ae53511c3392242ce72fe778f63b0fe8a0b57547b3ed050438b"
+  },
+  {
+    "path": "subtitles/1/01_055_046055.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_055_046055.vtt",
+    "bytes": 2026,
+    "sha256": "1a15f68db521f92da812518133dc88e72a3791310e9548e7d880957ea1154199"
+  },
+  {
+    "path": "subtitles/1/01_056_047048_BE003.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_056_047048_BE003.vtt",
+    "bytes": 672,
+    "sha256": "04dd1e2354875a0094b438fccbb3ff021b89a7be878fa6fafe22f7c3d30186f3"
+  },
+  {
+    "path": "subtitles/1/01_057_056.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_057_056.vtt",
+    "bytes": 380,
+    "sha256": "6e0abd00cdd402e6668976346f157901212f9d690f3716af1303af4a392a3474"
+  },
+  {
+    "path": "subtitles/1/01_058_058.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_058_058.vtt",
+    "bytes": 975,
+    "sha256": "0787bb23035d4f3fa9875ec954f788c5400d8d4c3debe3e0e51ee5ea0f695de0"
+  },
+  {
+    "path": "subtitles/1/01_059_013LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_059_013LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_060_013A060.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_060_013A060.vtt",
+    "bytes": 2707,
+    "sha256": "366b0a9f42f64bc4b6f837e5fdd856a4f48c06a6d27ae3c8b39ff5352d8aa0c4"
+  },
+  {
+    "path": "subtitles/1/01_061_013B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_061_013B.vtt",
+    "bytes": 295,
+    "sha256": "240572e4c372f28965ef31b7affb67eaea6c02e6f58919ad3fb70cc60ce1397b"
+  },
+  {
+    "path": "subtitles/1/01_062_014LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_062_014LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_063_014A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_063_014A.vtt",
+    "bytes": 452,
+    "sha256": "4d779db914ca88e214d56c21705dffe5834e04298a6f49fcf3ca410cabbf2e05"
+  },
+  {
+    "path": "subtitles/1/01_064_014B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_064_014B.vtt",
+    "bytes": 470,
+    "sha256": "942da886e0bbfa052e0ffe7bd3f2a790f90a6a0798d8acb5d90f6d68440a06f7"
+  },
+  {
+    "path": "subtitles/1/01_065_014C.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_065_014C.vtt",
+    "bytes": 342,
+    "sha256": "42dc2a8fcfad4f06d95095d1738b99c7c25caf23f74f2d10ccc48e76d37fa9b9"
+  },
+  {
+    "path": "subtitles/1/01_066_061062.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_066_061062.vtt",
+    "bytes": 1472,
+    "sha256": "b306afca11cba43da50d28dd5875254045e20c72f6bcd5ec98f0e7c9e8707024"
+  },
+  {
+    "path": "subtitles/1/01_067_015LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_067_015LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_068_015A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_068_015A.vtt",
+    "bytes": 1425,
+    "sha256": "29e34dda52e97aa36fd96aa1d569c197ba24e21e57a455cca6605d04cbd0bcc3"
+  },
+  {
+    "path": "subtitles/1/01_069_015B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_069_015B.vtt",
+    "bytes": 523,
+    "sha256": "75f26dff4f077b3a9b2bcf78e65be5258b3095de8242700e0d71356796053136"
+  },
+  {
+    "path": "subtitles/1/01_070_015C_BE006.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_070_015C_BE006.vtt",
+    "bytes": 612,
+    "sha256": "43f9ab5c88dc5578d459026f7f711aa3507cf6ae7e1475daf1ea0d9e69d8fc35"
+  },
+  {
+    "path": "subtitles/1/01_071_063.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_071_063.vtt",
+    "bytes": 391,
+    "sha256": "b7f5e342795673eea34ccea1dd879305a47209c2b2582512c15f4901c508576c"
+  },
+  {
+    "path": "subtitles/1/01_072_016LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_072_016LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_073_016A.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_073_016A.vtt",
+    "bytes": 394,
+    "sha256": "fdea5aa265d327a5c7e29c68da367473cdf29b30a271b7ae2bc36a50032a091d"
+  },
+  {
+    "path": "subtitles/1/01_074_016B.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_074_016B.vtt",
+    "bytes": 561,
+    "sha256": "3969249670e85658e5d3a3240326ed48872fc1ba77106acdf816c57ae0eae4ec"
+  },
+  {
+    "path": "subtitles/1/01_075_064_BE007.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_075_064_BE007.vtt",
+    "bytes": 476,
+    "sha256": "ab4cd11586372d756f7d69de402855f751105bf35571dbbda5b6004366f81639"
+  },
+  {
+    "path": "subtitles/1/01_076_065.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_076_065.vtt",
+    "bytes": 1490,
+    "sha256": "0e0ca8133351bea7c6a737d5e74fbd9ba0ee05e86582b1de9a90ce4ad1bf3760"
+  },
+  {
+    "path": "subtitles/1/01_077_QTE2LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_077_QTE2LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_078_066.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_078_066.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_079_057_BE004.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_079_057_BE004.vtt",
+    "bytes": 349,
+    "sha256": "c0a9e5c42867b59ca5da331a82f3423c86533b44a44a83a7d3628ba4647ff0ed"
+  },
+  {
+    "path": "subtitles/1/01_080_029_BE002.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_080_029_BE002.vtt",
+    "bytes": 520,
+    "sha256": "b440f37173fa84080e2d1c06be37c6b58530114e984f839ca153028e1d58ec9f"
+  },
+  {
+    "path": "subtitles/1/01_081_067.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_081_067.vtt",
+    "bytes": 77,
+    "sha256": "90ed758cbd6bd6a7612a635e1091d88c44b973d02210871558dfebe7758a9574"
+  },
+  {
+    "path": "subtitles/1/01_082_068.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_082_068.vtt",
+    "bytes": 147,
+    "sha256": "e9f13fcf9bf3c85896c3e32cbfb905dcea11c1cbc0ef553231ab1bd9c8a88b32"
+  },
+  {
+    "path": "subtitles/1/01_083_069079.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_083_069079.vtt",
+    "bytes": 2037,
+    "sha256": "7680ac04b7d6223216eee224b49bf062e6d5723030945b625268f8e33036ecbb"
+  },
+  {
+    "path": "subtitles/1/01_084_017LOOP.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_084_017LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/1/01_085_066.vtt",
+    "source": "chapter1_zh_cmn_Hans.pack!/subtitles/01_085_066.vtt",
+    "bytes": 2553,
+    "sha256": "e9837e22a73782d0c13948c4cf790d759179ad55852069255b73997bb59e5c67"
+  },
+  {
+    "path": "subtitles/2/02_001_001002003004.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_001_001002003004.vtt",
+    "bytes": 2555,
+    "sha256": "ad48a7a6bc030399779acc1bfba2aa04b942e553098e9b59807a7677f5253172"
+  },
+  {
+    "path": "subtitles/2/02_002_001LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_002_001LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_003_001A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_003_001A.vtt",
+    "bytes": 637,
+    "sha256": "124c3de02d628945f4468689cab782ca0326a2723457bc9410c346b7e6a06422"
+  },
+  {
+    "path": "subtitles/2/02_004_001B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_004_001B.vtt",
+    "bytes": 541,
+    "sha256": "fb9ae4dcf4369153717a9959dd5ff5bac7394dd34c4d11462833449e2d5cd5c6"
+  },
+  {
+    "path": "subtitles/2/02_005_005006.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_005_005006.vtt",
+    "bytes": 1327,
+    "sha256": "2f9e080c5bd4ddee125af0e36e3198a75ef8fc9821e307a9176162d98bb5b765"
+  },
+  {
+    "path": "subtitles/2/02_006_002LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_006_002LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_007_002A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_007_002A.vtt",
+    "bytes": 89,
+    "sha256": "60b7480d3c45f122548c46b32cd6b39d6ac56df97ca0931ce507fe419d1e56dc"
+  },
+  {
+    "path": "subtitles/2/02_008_002B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_008_002B.vtt",
+    "bytes": 48,
+    "sha256": "87089a3d7fa077152604b94852f7d4123be5359a856ba9f7e779f207d7292af0"
+  },
+  {
+    "path": "subtitles/2/02_009_007008.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_009_007008.vtt",
+    "bytes": 924,
+    "sha256": "1fb4bac530404292aafdfdec20a8f5bc6b8efdd9363eb2d2308a1cb1b99ffda9"
+  },
+  {
+    "path": "subtitles/2/02_010_009.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_010_009.vtt",
+    "bytes": 784,
+    "sha256": "21b16d13af15fab4ce037e26231f1b4e1f15a8a91efdd02ec76b7c845616a1f1"
+  },
+  {
+    "path": "subtitles/2/02_011_010015016.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_011_010015016.vtt",
+    "bytes": 2096,
+    "sha256": "53e97ab7b4c2c5cbafef61a5587cb7708cf35c8465ec81568dd8d22cb496a11c"
+  },
+  {
+    "path": "subtitles/2/02_012_003LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_012_003LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_013_003A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_013_003A.vtt",
+    "bytes": 1045,
+    "sha256": "650b919b7c0b42592934574a5495596b8661573646fbe28600ab8cf11b94e9fc"
+  },
+  {
+    "path": "subtitles/2/02_014_003B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_014_003B.vtt",
+    "bytes": 385,
+    "sha256": "2300330e097718fbb77314968d3736ee98d96d445020e96862103874f73041c3"
+  },
+  {
+    "path": "subtitles/2/02_015_011012.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_015_011012.vtt",
+    "bytes": 1639,
+    "sha256": "36a95959d0ba8cbb6c8e8d733e3ae46459926dde211d9681cc412ab06033b17a"
+  },
+  {
+    "path": "subtitles/2/02_016_004LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_016_004LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_017_004A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_017_004A.vtt",
+    "bytes": 1638,
+    "sha256": "8e6e257586b8bf96ab38e672b3153dbbf65a60a4536e111dd4fcbc348ede8759"
+  },
+  {
+    "path": "subtitles/2/02_018_004B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_018_004B.vtt",
+    "bytes": 1444,
+    "sha256": "a102c980dbb73d39be75927f3f236d5475d5a23dc4b0fcd57d3ef4126063c26e"
+  },
+  {
+    "path": "subtitles/2/02_019_013014.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_019_013014.vtt",
+    "bytes": 1455,
+    "sha256": "f8f07da32f0f94008ae57e37eec7cc16ae2bfb0eb1d5c2f5b251711ba2c3aa39"
+  },
+  {
+    "path": "subtitles/2/02_020_005LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_020_005LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_021_005A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_021_005A.vtt",
+    "bytes": 1328,
+    "sha256": "6a8f2c65f61319a1b909f8ae26712e74337ecea653f9b9e2e19f2e57ed97e091"
+  },
+  {
+    "path": "subtitles/2/02_022_005B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_022_005B.vtt",
+    "bytes": 799,
+    "sha256": "a8e27ae68f78cb594bb4b6f530c835bcf3f81142cf48d7914ad190f5874d13f0"
+  },
+  {
+    "path": "subtitles/2/02_023_005C.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_023_005C.vtt",
+    "bytes": 976,
+    "sha256": "6353590bf5253ea282f3b89c33283e329d9eeba08d0b670ddfa785989b80837b"
+  },
+  {
+    "path": "subtitles/2/02_024_006LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_024_006LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_025_006A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_025_006A.vtt",
+    "bytes": 1637,
+    "sha256": "4661dc192b3119f82a180c807d696c39a860c626c4023725e022c33c67adab50"
+  },
+  {
+    "path": "subtitles/2/02_026_006B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_026_006B.vtt",
+    "bytes": 698,
+    "sha256": "f46e0a5f0236a5854b7af79dec082f76eb9d4e4202fc67ff218ac6a62f76aa25"
+  },
+  {
+    "path": "subtitles/2/02_027_017.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_027_017.vtt",
+    "bytes": 505,
+    "sha256": "346a6cbfd605a1bbcb5e0cdc0f24af9567fc03ed067008a72ce3a44ed9ce8e77"
+  },
+  {
+    "path": "subtitles/2/02_028_018.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_028_018.vtt",
+    "bytes": 1298,
+    "sha256": "79c5c7c9f01e4d635c74bb6b34c71bc0be1fec15a614c3e581ab2555f0060179"
+  },
+  {
+    "path": "subtitles/2/02_029_019.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_029_019.vtt",
+    "bytes": 1392,
+    "sha256": "0e59c666b3687b420a31dafb055d379c9dda4f4bcfe18e72a38276867d09351e"
+  },
+  {
+    "path": "subtitles/2/02_030_020.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_030_020.vtt",
+    "bytes": 1418,
+    "sha256": "93be7998ab9213846f384caf5382adfd8d7a9a5e531071677a7a64f9eddb91df"
+  },
+  {
+    "path": "subtitles/2/02_031_007LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_031_007LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_032_007A021.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_032_007A021.vtt",
+    "bytes": 537,
+    "sha256": "51a750014576a5ed536b274b319bfbd38e2fc5f18409982aaac7274bb2ca20f7"
+  },
+  {
+    "path": "subtitles/2/02_032_007A021cc.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_032_007A021cc.vtt",
+    "bytes": 537,
+    "sha256": "51a750014576a5ed536b274b319bfbd38e2fc5f18409982aaac7274bb2ca20f7"
+  },
+  {
+    "path": "subtitles/2/02_033_007B039.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_033_007B039.vtt",
+    "bytes": 932,
+    "sha256": "cc0fff18978219fed07ef3d20d93be38597fe537c1f76b6e14be1af07518e72d"
+  },
+  {
+    "path": "subtitles/2/02_034_QTE1LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_034_QTE1LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_035_022.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_035_022.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_036_QTE2.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_036_QTE2.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_037_023.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_037_023.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_038_025.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_038_025.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_039_024.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_039_024.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_041_027QTE3.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_041_027QTE3.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_042_028.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_042_028.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_043_029.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_043_029.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_044_030QTE4.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_044_030QTE4.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_045_031.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_045_031.vtt",
+    "bytes": 83,
+    "sha256": "97f56819c96733d0195a748f044e5fa39fb49b92285b1a3c434fcf413c8a3beb"
+  },
+  {
+    "path": "subtitles/2/02_046_032033.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_046_032033.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_047_QTE5.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_047_QTE5.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_048_034.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_048_034.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_049_035.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_049_035.vtt",
+    "bytes": 45,
+    "sha256": "db8f92349238088564eca3902fea3fec649ba0729b0a2ac27033e1c398304a45"
+  },
+  {
+    "path": "subtitles/2/02_050_036.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_050_036.vtt",
+    "bytes": 375,
+    "sha256": "150aa102cb208dcc8f113d2d9a613af67dfc93354bae588643e31696b0cd4c8b"
+  },
+  {
+    "path": "subtitles/2/02_051_037.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_051_037.vtt",
+    "bytes": 850,
+    "sha256": "9cca5dc9a0c71107e8aa3b0d3c9b06776f5a387a39c3a7704196ba8c48e2a9df"
+  },
+  {
+    "path": "subtitles/2/02_052_038_BE001.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_052_038_BE001.vtt",
+    "bytes": 365,
+    "sha256": "625a6c753026c60023e6725c3442d923c012bdf31c715ef3e00207b59e3f0e06"
+  },
+  {
+    "path": "subtitles/2/02_053_008LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_053_008LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_054_008A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_054_008A.vtt",
+    "bytes": 147,
+    "sha256": "90f0dbe9f19375893c6718a4d7f0f9704481fff1c099e4e343cdbb3450dc42fb"
+  },
+  {
+    "path": "subtitles/2/02_055_008B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_055_008B.vtt",
+    "bytes": 42,
+    "sha256": "feb0cf4cd33aa3d791693a511398860a1f1fb225ce0e53891b22e6e7d5187ff2"
+  },
+  {
+    "path": "subtitles/2/02_056_040.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_056_040.vtt",
+    "bytes": 2002,
+    "sha256": "6cf6edb1ce19a60d8f6338c0a6e97f0eb6c5fd9510435aa5eb766230b1c79c61"
+  },
+  {
+    "path": "subtitles/2/02_057_009LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_057_009LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_058_009A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_058_009A.vtt",
+    "bytes": 1501,
+    "sha256": "46e35b3d4ca2ac5edaeaca8e33587c90312d85009e9fa45a67b4342e03428936"
+  },
+  {
+    "path": "subtitles/2/02_059_009B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_059_009B.vtt",
+    "bytes": 853,
+    "sha256": "77b4daa0e648ff791bf3574546b5f95867a253c0700d904112ab626f88bd70d8"
+  },
+  {
+    "path": "subtitles/2/02_060_041.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_060_041.vtt",
+    "bytes": 379,
+    "sha256": "bcf3bf7531283a95c7a319730e373780fc0180a87cf3c88b24d7fafd71badbf3"
+  },
+  {
+    "path": "subtitles/2/02_061_010LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_061_010LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_062_010A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_062_010A.vtt",
+    "bytes": 685,
+    "sha256": "e0071b2bf28caf35986d3c1a33aee0a2c29826e9616a61c897077a079cf52e13"
+  },
+  {
+    "path": "subtitles/2/02_063_010B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_063_010B.vtt",
+    "bytes": 783,
+    "sha256": "0cb048190aea7486fc54e9a976caebeefe39abac646df14d6c8118a85078ac14"
+  },
+  {
+    "path": "subtitles/2/02_064_010C.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_064_010C.vtt",
+    "bytes": 473,
+    "sha256": "a3f6a08df3a0584c12d70aace1576ee6aa1179f40f8ae5dcdb99cde1b089e85d"
+  },
+  {
+    "path": "subtitles/2/02_065_042.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_065_042.vtt",
+    "bytes": 291,
+    "sha256": "e9c4abae8aa4e2874657ad2964ba997f9586d7fa8bcb12bc4fc6ebec9c2d72d0"
+  },
+  {
+    "path": "subtitles/2/02_066_011LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_066_011LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_067_011A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_067_011A.vtt",
+    "bytes": 1079,
+    "sha256": "e5349cfd64e062b435bc539c9230c27fe1e2003aa07e37d56bf317ff602a8d11"
+  },
+  {
+    "path": "subtitles/2/02_068_011B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_068_011B.vtt",
+    "bytes": 306,
+    "sha256": "a8850c21986cdc9537713f9bbce267b420473164cb213f06cbc94c02ac8a5faa"
+  },
+  {
+    "path": "subtitles/2/02_069_011C.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_069_011C.vtt",
+    "bytes": 244,
+    "sha256": "cb0627b3ed78d98bafd5c7a678d91fa795ef2de0fb32d5856540958a2dd80eb2"
+  },
+  {
+    "path": "subtitles/2/02_070_043.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_070_043.vtt",
+    "bytes": 215,
+    "sha256": "a5f81c293051d50d3a100e737ad3b6dda42e4c470a9aec587298e8c26ac801ea"
+  },
+  {
+    "path": "subtitles/2/02_071_044045046047_BE002.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_071_044045046047_BE002.vtt",
+    "bytes": 1463,
+    "sha256": "b9d6df65275584b2cd27c30a783561a5200f9589cce5f48797e742ae9dc8ad70"
+  },
+  {
+    "path": "subtitles/2/02_072_048049.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_072_048049.vtt",
+    "bytes": 1942,
+    "sha256": "6f733c99b0d324334976f924b04ab242d76919c64cbb27cd9934ad3f30c1c01b"
+  },
+  {
+    "path": "subtitles/2/02_073_012LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_073_012LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_074_012A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_074_012A.vtt",
+    "bytes": 1189,
+    "sha256": "277d7d6da602953630a407cc07ea4bbcd4e4e213bfaef4bc4ae8a58686b6e545"
+  },
+  {
+    "path": "subtitles/2/02_075_012B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_075_012B.vtt",
+    "bytes": 980,
+    "sha256": "f72737b095ad3c0c085e3935b5d65d19fab5b9e84409c3e8a4c43ead1a8b39c3"
+  },
+  {
+    "path": "subtitles/2/02_076_050.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_076_050.vtt",
+    "bytes": 101,
+    "sha256": "e711ba4a508fad842b1ba72d47a163995f398d7073195e20cd17a933d466f2b2"
+  },
+  {
+    "path": "subtitles/2/02_077_013LOOP.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_077_013LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/2/02_078_013A.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_078_013A.vtt",
+    "bytes": 268,
+    "sha256": "1e442b5ddf513648b14140f7ad41a706dbd4f2801dbf84f6ff98d5715ab0e539"
+  },
+  {
+    "path": "subtitles/2/02_079_013B.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_079_013B.vtt",
+    "bytes": 162,
+    "sha256": "711b515e98720fb881214786ab1e8c86c2f0bd18d71b4eae1c1efee663ced36d"
+  },
+  {
+    "path": "subtitles/2/02_080_051.vtt",
+    "source": "chapter2_zh_cmn_Hans.pack!/subtitles/02_080_051.vtt",
+    "bytes": 1061,
+    "sha256": "3173323b9d5e23c81944fd3a3d6bbf6d563bda6108e322f5c88c67d1cd35e7d7"
+  },
+  {
+    "path": "subtitles/3/03_001_001.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_001_001.vtt",
+    "bytes": 1429,
+    "sha256": "61b209fba27065dbd1deba7188c8f8cbd5b37c2615c8b2ef990d66b83e566d06"
+  },
+  {
+    "path": "subtitles/3/03_002_QTE1LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_002_QTE1LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_003_002.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_003_002.vtt",
+    "bytes": 879,
+    "sha256": "fccf8fdf7724c601adcaf3579780c28d38029bd1da0590e30fd913e5155c8872"
+  },
+  {
+    "path": "subtitles/3/03_004_001LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_004_001LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_005_001A.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_005_001A.vtt",
+    "bytes": 118,
+    "sha256": "619a9fa26070a29cad04a51bb6c603f61ffa8ebbeb1f1ac6aa53ee037b5b8087"
+  },
+  {
+    "path": "subtitles/3/03_006_001B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_006_001B.vtt",
+    "bytes": 165,
+    "sha256": "670c28a261f103426ad7112a4bedae026e95d31e75f25e84d1c2929d2e37af42"
+  },
+  {
+    "path": "subtitles/3/03_007_003004.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_007_003004.vtt",
+    "bytes": 1490,
+    "sha256": "3ed524667f04e90c69e347ace935e2659e3b78ba74edef0b8484681e77829a9c"
+  },
+  {
+    "path": "subtitles/3/03_008_002LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_008_002LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_009_002A.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_009_002A.vtt",
+    "bytes": 288,
+    "sha256": "40de4acdcc113bbcf7859d312f48b03372b41814c1d963a4896b07f99f01ea7b"
+  },
+  {
+    "path": "subtitles/3/03_010_002B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_010_002B.vtt",
+    "bytes": 426,
+    "sha256": "e50717cc08838c175c8b1422719af2a23247555594c75dc7f7b927039fd508dd"
+  },
+  {
+    "path": "subtitles/3/03_011_005006007008.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_011_005006007008.vtt",
+    "bytes": 2804,
+    "sha256": "9d427b9c8c6cee4c1028fa13345d0f45578b05b94e7aa305b27b682c6f78bce7"
+  },
+  {
+    "path": "subtitles/3/03_012_003LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_012_003LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_013_003A.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_013_003A.vtt",
+    "bytes": 878,
+    "sha256": "5bdd35f8977795a5bb6bb032605d51d134bcbd307510fee7f42abc2678028927"
+  },
+  {
+    "path": "subtitles/3/03_014_003B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_014_003B.vtt",
+    "bytes": 446,
+    "sha256": "82b529ba33258eda244384b052fd9eb01de595a3e95bc605e5da3aa4ba66b67c"
+  },
+  {
+    "path": "subtitles/3/03_015_003C.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_015_003C.vtt",
+    "bytes": 850,
+    "sha256": "19c59416ea0a04227a55bb3c4df494139a23dc8aa489783bee48fd49cb77329f"
+  },
+  {
+    "path": "subtitles/3/03_016_003D.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_016_003D.vtt",
+    "bytes": 1150,
+    "sha256": "b57ec3be44b1cbe4c5be795e192c19e4f6c3a679a71bb40ccc2cd8fd9a9825ec"
+  },
+  {
+    "path": "subtitles/3/03_017_009010.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_017_009010.vtt",
+    "bytes": 308,
+    "sha256": "c729552d85136829d6e891bd61a76c87eba558448da2ea0f9c4886fdb99fbcf8"
+  },
+  {
+    "path": "subtitles/3/03_018_004LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_018_004LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_019_004A.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_019_004A.vtt",
+    "bytes": 801,
+    "sha256": "d30aa5dceffdce0325da1453a0555d986bd117565d1f0165c914e31235b8e267"
+  },
+  {
+    "path": "subtitles/3/03_020_004B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_020_004B.vtt",
+    "bytes": 573,
+    "sha256": "ef5088b00ba33437104e8a968d97f3245b0233abc3f67f5187ede66b2ed5eb0b"
+  },
+  {
+    "path": "subtitles/3/03_021_005LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_021_005LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_022_005A.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_022_005A.vtt",
+    "bytes": 112,
+    "sha256": "75640beb2cffc5469e49dac8b080c037c53f4575be3cdef76aeffdd5e25c3c62"
+  },
+  {
+    "path": "subtitles/3/03_023_005B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_023_005B.vtt",
+    "bytes": 267,
+    "sha256": "aeacee8fd066ad20032779f7078ec62930db22da162d0eb8687b7bd465d2346c"
+  },
+  {
+    "path": "subtitles/3/03_024_QTE2.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_024_QTE2.vtt",
+    "bytes": 42,
+    "sha256": "016eea20a957612d5e440aaa0756526a03a0ec2201b56e42a3e83f3901e5834b"
+  },
+  {
+    "path": "subtitles/3/03_025_012.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_025_012.vtt",
+    "bytes": 115,
+    "sha256": "ce9283a32eacee39993859e7d8fea5088f891754d5a41eaa047794b9a16979e6"
+  },
+  {
+    "path": "subtitles/3/03_026_013.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_026_013.vtt",
+    "bytes": 297,
+    "sha256": "d2bc0cce473c6039eb11250e32016fc98851aa9dd9b666f2cb37425c30b65d1a"
+  },
+  {
+    "path": "subtitles/3/03_027_014015.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_027_014015.vtt",
+    "bytes": 3085,
+    "sha256": "0f1b8b84656e33f28b16ddb2f06de366e11004dbf2b9b368c8740b76bc941dda"
+  },
+  {
+    "path": "subtitles/3/03_028_006LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_028_006LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_029_006A016.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_029_006A016.vtt",
+    "bytes": 859,
+    "sha256": "a14039f5f221bd6298b9eabb3e5eba4690705712eaccb0978456b8bcb7f259c5"
+  },
+  {
+    "path": "subtitles/3/03_030_006B024.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_030_006B024.vtt",
+    "bytes": 2619,
+    "sha256": "ede70a1c4d266f0ab52376354dbfdc4d87d98aad374e17b4307d0422d5cbb330"
+  },
+  {
+    "path": "subtitles/3/03_031_006C025.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_031_006C025.vtt",
+    "bytes": 1754,
+    "sha256": "09953f79b82a09d542f0764ab70f2814fba38c78b772739baeb46e5067e7169f"
+  },
+  {
+    "path": "subtitles/3/03_032_007LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_032_007LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_033_005A_1.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_033_005A_1.vtt",
+    "bytes": 112,
+    "sha256": "bbd46c9ef561fb2b4d1cc4bf5ca8bf2f930045ed986f11ea5cd3b7db89c70bdb"
+  },
+  {
+    "path": "subtitles/3/03_034_007A017018_BE001.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_034_007A017018_BE001.vtt",
+    "bytes": 1600,
+    "sha256": "7b50ef1eb9d29ef9cc4964b869b8978cbdbb2d73694db4a48b4cbff1d16f01da"
+  },
+  {
+    "path": "subtitles/3/03_035_007B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_035_007B.vtt",
+    "bytes": 570,
+    "sha256": "43c36fbf76b5dd437544fca67304b7903792bbb12cc8807eaf6c1526926eb543"
+  },
+  {
+    "path": "subtitles/3/03_036_019020021022023.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_036_019020021022023.vtt",
+    "bytes": 3372,
+    "sha256": "5b2763bcf9492cf8e452c4a38b79ffb25ae0149e4055b281b6cac516aab54dd6"
+  },
+  {
+    "path": "subtitles/3/03_039_026.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_039_026.vtt",
+    "bytes": 992,
+    "sha256": "c18b91819c0f3d80f4046c8acb3c7150ec686ac19384375d940b49891b6de31e"
+  },
+  {
+    "path": "subtitles/3/03_040_027.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_040_027.vtt",
+    "bytes": 1436,
+    "sha256": "a32d8ce2ef6e44211dc5ec339f34c808e063a0a1af9c0746d5b08fa96e236a2d"
+  },
+  {
+    "path": "subtitles/3/03_041_028029030031032.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_041_028029030031032.vtt",
+    "bytes": 853,
+    "sha256": "83db494ffb711076171e8a5c59c8932bed129020234edeb0e063cd5046bb1307"
+  },
+  {
+    "path": "subtitles/3/03_042_008LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_042_008LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_043_008A.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_043_008A.vtt",
+    "bytes": 884,
+    "sha256": "c19c435091f04aad3feabe6f6214efa7361dc2a90aa911eee040dd340fcfaa28"
+  },
+  {
+    "path": "subtitles/3/03_044_008B033.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_044_008B033.vtt",
+    "bytes": 247,
+    "sha256": "7fdd2cdaba99ed2a1b9bf8e0e765db9e111eeef3e2fde1d3ca14e020b3a013d2"
+  },
+  {
+    "path": "subtitles/3/03_045_009LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_045_009LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_046_009A034_BE002.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_046_009A034_BE002.vtt",
+    "bytes": 994,
+    "sha256": "7100c1c444ce024cab5b6c6e45e47f5c84acf9074273721e4c878b409661630f"
+  },
+  {
+    "path": "subtitles/3/03_047_009B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_047_009B.vtt",
+    "bytes": 917,
+    "sha256": "0410e38bf1ec6941c6220d2c20d9f7326e2ffd2356ef100f9334b3e306dff9fc"
+  },
+  {
+    "path": "subtitles/3/03_048_035036037.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_048_035036037.vtt",
+    "bytes": 1236,
+    "sha256": "11f04a5f5cc5d7eacb31c196befb0da31273b2f1d4d4bb1bab765616162a27aa"
+  },
+  {
+    "path": "subtitles/3/03_049_010LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_049_010LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_050_010A038.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_050_010A038.vtt",
+    "bytes": 945,
+    "sha256": "9a714e9b07f7a11697beea1d0167c3fc6382a72e426eee9c14210bc1ffa67764"
+  },
+  {
+    "path": "subtitles/3/03_051_010B038.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_051_010B038.vtt",
+    "bytes": 696,
+    "sha256": "bd56bc0d937bacff026d5aaee48cb4777b9b7612ac9306ae1f9348c45e724711"
+  },
+  {
+    "path": "subtitles/3/03_052_011LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_052_011LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_053_011A039.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_053_011A039.vtt",
+    "bytes": 605,
+    "sha256": "56e906ce5909bf0e5bde8046b2679a4cbc056467cbb135fd933a2307707fe4f4"
+  },
+  {
+    "path": "subtitles/3/03_054_011B042.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_054_011B042.vtt",
+    "bytes": 279,
+    "sha256": "edb0525e957bf3f9088c3fa8aa39da01d4337edaf673476beee6c8bea15e53eb"
+  },
+  {
+    "path": "subtitles/3/03_055_040.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_055_040.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_056_043.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_056_043.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_057_045046_BE005.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_057_045046_BE005.vtt",
+    "bytes": 639,
+    "sha256": "051e87af3fa9cfd76c20164d41624f2c231f272617daa9783444b5f8041276e9"
+  },
+  {
+    "path": "subtitles/3/03_058_047048049050051052053.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_058_047048049050051052053.vtt",
+    "bytes": 3964,
+    "sha256": "2c870e50b65316466ae44b3f56c673b77896491a57f8a888a388e89f8ad1e6de"
+  },
+  {
+    "path": "subtitles/3/03_059_012LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_059_012LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_060_012A054_BE006.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_060_012A054_BE006.vtt",
+    "bytes": 486,
+    "sha256": "48d394dda5465c580e531d31644604768693fc79b2005b68a5003ccbb007a888"
+  },
+  {
+    "path": "subtitles/3/03_062_012B055056.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_062_012B055056.vtt",
+    "bytes": 1033,
+    "sha256": "0fcb184ba281bbc8b46a2759ae0784160dc47b723f9e0904464f18dfe9c73d6b"
+  },
+  {
+    "path": "subtitles/3/03_063_013LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_063_013LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_064_013A_BE007.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_064_013A_BE007.vtt",
+    "bytes": 95,
+    "sha256": "4757ae7942181976ee773376f2e70d47ca07f21edd077b7ed40751e8a4ed0573"
+  },
+  {
+    "path": "subtitles/3/03_065_013B057057_1.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_065_013B057057_1.vtt",
+    "bytes": 918,
+    "sha256": "386db33aa056df90e4856ef217b6a53198786974e3dae61a0c06cccfe5837efa"
+  },
+  {
+    "path": "subtitles/3/03_066_014LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_066_014LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_067_014A.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_067_014A.vtt",
+    "bytes": 144,
+    "sha256": "0e5fac328b1ce48d64e913d0308d32529a38d02ba98fab724ab62aa835c00575"
+  },
+  {
+    "path": "subtitles/3/03_068_014B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_068_014B.vtt",
+    "bytes": 203,
+    "sha256": "a6e8eb440a83fa5f30000b5754b0b374bf18c938c44ddb27dc94134cab01ea8c"
+  },
+  {
+    "path": "subtitles/3/03_069_058059060061062.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_069_058059060061062.vtt",
+    "bytes": 3169,
+    "sha256": "286ee0d5546cc74a94fb760cc6a999e02db63f3ffc5d5d7176eb73b871fab7d0"
+  },
+  {
+    "path": "subtitles/3/03_070_015LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_070_015LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_071_015A.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_071_015A.vtt",
+    "bytes": 341,
+    "sha256": "3666e5ab5482910303817a9a81b96b04da6819b1978da7acb67bee59b4dcb312"
+  },
+  {
+    "path": "subtitles/3/03_072_015B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_072_015B.vtt",
+    "bytes": 520,
+    "sha256": "ea0800d8f6b4af3aadafc689b06201dcadea4c9af59165c428fcad7c4f113cee"
+  },
+  {
+    "path": "subtitles/3/03_073_063.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_073_063.vtt",
+    "bytes": 397,
+    "sha256": "4669fa23fd3c7bcc6ad2e8b9fc8c7fcb2f2abc1a236c3927bca98170d5790548"
+  },
+  {
+    "path": "subtitles/3/03_074_016LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_074_016LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_075_016A064065.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_075_016A064065.vtt",
+    "bytes": 1280,
+    "sha256": "3f114479bfe4cddd2321d8dc14d8bdda44bbee62287e64c89593558a8c6986db"
+  },
+  {
+    "path": "subtitles/3/03_076_016B066.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_076_016B066.vtt",
+    "bytes": 1999,
+    "sha256": "c298e554aaa584d797b00be852c957c684c8a5b7c96f7d7199a7ef8dd8f62b62"
+  },
+  {
+    "path": "subtitles/3/03_077_067068.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_077_067068.vtt",
+    "bytes": 862,
+    "sha256": "e9b0e9b540446b4a11cee1b77c4d8d9c1b016d6f3ae122318f4dcf7c2dae635a"
+  },
+  {
+    "path": "subtitles/3/03_078_017LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_078_017LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_079_017A.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_079_017A.vtt",
+    "bytes": 987,
+    "sha256": "1758b952e5f7e5f6ad33433f1aa44f3b1cc4b574d4950ecd1020594feafbe5e6"
+  },
+  {
+    "path": "subtitles/3/03_080_017B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_080_017B.vtt",
+    "bytes": 1127,
+    "sha256": "71b68704ffc42a44405cf8fe4db9f15211ad129f262f0c88399783a48a04a665"
+  },
+  {
+    "path": "subtitles/3/03_082_069.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_082_069.vtt",
+    "bytes": 705,
+    "sha256": "208e4b0c68e20c8a82e9f8155067afe8f20094dee0b370134902ecdf971cfb92"
+  },
+  {
+    "path": "subtitles/3/03_083_018LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_083_018LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_084_018A.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_084_018A.vtt",
+    "bytes": 276,
+    "sha256": "bbab3e723b3a5939fe0741f7907e5247abf88825ed72e99af820bac9a8aa5db8"
+  },
+  {
+    "path": "subtitles/3/03_085_018B.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_085_018B.vtt",
+    "bytes": 268,
+    "sha256": "dad5a5f58c2b3bcb0170bb4c1f9a584fd8b4acf4265d9d1bef1a9a6b71d93c45"
+  },
+  {
+    "path": "subtitles/3/03_086_018C.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_086_018C.vtt",
+    "bytes": 238,
+    "sha256": "bbeb93efd5243b4e862ed6dab47b00538f60bce11da36c07d0e56d1b6c07dbc9"
+  },
+  {
+    "path": "subtitles/3/03_087_070.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_087_070.vtt",
+    "bytes": 271,
+    "sha256": "1e39039cbb60e55162793895852f72ed56f1235782f154d79d6fa642779bd5d7"
+  },
+  {
+    "path": "subtitles/3/03_088_044_BE004.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_088_044_BE004.vtt",
+    "bytes": 911,
+    "sha256": "3552ea9a135874bdbf2ebeb34912dd6308015cd1febe47f70962a251afb501e5"
+  },
+  {
+    "path": "subtitles/3/03_089_005B_1.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_089_005B_1.vtt",
+    "bytes": 267,
+    "sha256": "b57c4a671e1a7619574ef4152799de35cdb28a994d9d83fe3e60ca1fbc9cef80"
+  },
+  {
+    "path": "subtitles/3/03_090_009C.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_090_009C.vtt",
+    "bytes": 993,
+    "sha256": "93d676a01d7ff2b2c2122a9f05d494be73b54cce71f37aa5ddd72e3811309648"
+  },
+  {
+    "path": "subtitles/3/03_090_QTE3LOOP.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_090_QTE3LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/3/03_091_069_1.vtt",
+    "source": "chapter3_zh_cmn_Hans.pack!/subtitles/03_091_069_1.vtt",
+    "bytes": 124,
+    "sha256": "ac03a8537534735c50def73f1d5e40c9888994299f4601f68210cac3bfd452ca"
+  },
+  {
+    "path": "subtitles/4/04_001_001002.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_001_001002.vtt",
+    "bytes": 2390,
+    "sha256": "b159d96f01779591bf682de6dff7d4e768f70dc3dee50b6cda6061cfb3c3be35"
+  },
+  {
+    "path": "subtitles/4/04_002_001LOOP.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_002_001LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_003_001A003_BE001.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_003_001A003_BE001.vtt",
+    "bytes": 484,
+    "sha256": "f19a660609cf38cb16138f5531804e49057ae761acbfa9a457f45338f7693b2b"
+  },
+  {
+    "path": "subtitles/4/04_005_001B004005006007008009.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_005_001B004005006007008009.vtt",
+    "bytes": 3836,
+    "sha256": "3be04a589e0daafaff40845108b5cdf2c5b2684fc87e16412bcc9f3fdbc46e37"
+  },
+  {
+    "path": "subtitles/4/04_007_002LOOP.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_007_002LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_008_002A010_BE002.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_008_002A010_BE002.vtt",
+    "bytes": 1504,
+    "sha256": "1fdc638d602718c78de9117e62aa730ece51a99abf49c163f272ea494a2832ac"
+  },
+  {
+    "path": "subtitles/4/04_009_002B012013.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_009_002B012013.vtt",
+    "bytes": 1011,
+    "sha256": "9308c4303386e866b9cbbf45836cfbca602cc2b90da11c7b0fb6e2ce6cbd051f"
+  },
+  {
+    "path": "subtitles/4/04_010_002C011_BE003.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_010_002C011_BE003.vtt",
+    "bytes": 668,
+    "sha256": "f2b5eafc673bb77804fc6f1be14f4e0062f176534aabdd04b787adabed1fd79e"
+  },
+  {
+    "path": "subtitles/4/04_011_002D_BE004.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_011_002D_BE004.vtt",
+    "bytes": 194,
+    "sha256": "a95fa0437208f541ca5c92d63b2414e7baa01b39349fa12e7dbe992b6c4edf3b"
+  },
+  {
+    "path": "subtitles/4/04_012_035_1_BE013.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_012_035_1_BE013.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_013_035_2.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_013_035_2.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_015_014015016_BE005.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_015_014015016_BE005.vtt",
+    "bytes": 579,
+    "sha256": "8f626d227a356a708731c82c160d9f2c73611896d600365b69e2188049e5bc66"
+  },
+  {
+    "path": "subtitles/4/04_016_017018019.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_016_017018019.vtt",
+    "bytes": 543,
+    "sha256": "636e7f4cb37e17f87f3ea5116a2c0923a7ec413e498a6fb9149a83cd66ec79fe"
+  },
+  {
+    "path": "subtitles/4/04_017_003LOOP.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_017_003LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_018_003A020021022_BE006.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_018_003A020021022_BE006.vtt",
+    "bytes": 962,
+    "sha256": "50dcee4744f231aba573bf263f268aff0371562706802df362d92359de84a790"
+  },
+  {
+    "path": "subtitles/4/04_020_003B.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_020_003B.vtt",
+    "bytes": 2396,
+    "sha256": "5d8b119cd5e40949dfb863a6769e802cba91fc621e5293471f00d0da44f11ea9"
+  },
+  {
+    "path": "subtitles/4/04_022_005.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_022_005.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_023_005A029030031_BE007.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_023_005A029030031_BE007.vtt",
+    "bytes": 646,
+    "sha256": "3c1dab721d985c988456989ea058073102b91ed72aba64e2fb565e4c4ccf99d4"
+  },
+  {
+    "path": "subtitles/4/04_025_005B032033034035.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_025_005B032033034035.vtt",
+    "bytes": 247,
+    "sha256": "122c8a25e770a3e1c81f2a0e22cfc17149b428d9f3ea929c5d3a76b6e19ddcb2"
+  },
+  {
+    "path": "subtitles/4/04_027_QTE1.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_027_QTE1.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_028_036_BE008.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_028_036_BE008.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_029_037.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_029_037.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_030_QTE2.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_030_QTE2.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_031_038_BE009.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_031_038_BE009.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_032_039.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_032_039.vtt",
+    "bytes": 381,
+    "sha256": "28c837b278d4527c22fcb64b677085e737eff13ab1cdf6da986fb5462922c158"
+  },
+  {
+    "path": "subtitles/4/04_033_QTE3.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_033_QTE3.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_034_040_BE010.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_034_040_BE010.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_035_041.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_035_041.vtt",
+    "bytes": 768,
+    "sha256": "ab12de214aeca0422a87b912b5c53b14c52641eed2bdab57f3b3d4bbeaa0b744"
+  },
+  {
+    "path": "subtitles/4/04_036_006LOOP.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_036_006LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_037_006A042_BE012.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_037_006A042_BE012.vtt",
+    "bytes": 933,
+    "sha256": "6cf59b9b33b2b29874c7e6aa11142f6fea1d3d7ebae35aef24b2ec6fc16638ad"
+  },
+  {
+    "path": "subtitles/4/04_038_006B043044045046047048.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_038_006B043044045046047048.vtt",
+    "bytes": 4015,
+    "sha256": "ca7c9740a8274e8b3bfe4662e87ae26df23e3cb4fb5bf5aa90ab2fae39825784"
+  },
+  {
+    "path": "subtitles/4/04_039_QTE5LOOP.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_039_QTE5LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_040_023024025026027028.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_040_023024025026027028.vtt",
+    "bytes": 2915,
+    "sha256": "a5c64ccf7d9f3695ae519bc90723e299810cf109cee5b131979fa8dc5d51e738"
+  },
+  {
+    "path": "subtitles/4/04_041_QTE3.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_041_QTE3.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_042_040_1BE011.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_042_040_1BE011.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/4/04_043_039_1.vtt",
+    "source": "chapter4_zh_cmn_Hans.pack!/subtitles/04_043_039_1.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_001_001002003004.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_001_001002003004.vtt",
+    "bytes": 3001,
+    "sha256": "092b7429d619edbc950e2a1e85e098ae6c518954f572fa262f8e9d9ba85a9430"
+  },
+  {
+    "path": "subtitles/5/05_002_001LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_002_001LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_003_001A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_003_001A.vtt",
+    "bytes": 255,
+    "sha256": "acac9ec571864927d02bbc7c7f2b5ac68e55ab60c8a805df93c2a9eeefa542b3"
+  },
+  {
+    "path": "subtitles/5/05_004_001B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_004_001B.vtt",
+    "bytes": 136,
+    "sha256": "f9002c63268ddd439b48d171b26096a913fccd54822f1167492109bebf52f657"
+  },
+  {
+    "path": "subtitles/5/05_005_001C.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_005_001C.vtt",
+    "bytes": 156,
+    "sha256": "c2f9bac5a4293ba6f5d9c8e7fb2ac000001955f01d44ca99f8df5fc1fa15974f"
+  },
+  {
+    "path": "subtitles/5/05_006_005006007008.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_006_005006007008.vtt",
+    "bytes": 2695,
+    "sha256": "b419fa34113ab84819ca34936de0c3275f8d3341a818a1127df5625de122302c"
+  },
+  {
+    "path": "subtitles/5/05_007_002LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_007_002LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_008_002A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_008_002A.vtt",
+    "bytes": 326,
+    "sha256": "43e3257551e5093e23209d91b1f9eb8e0f6e8cdcb872efbeb9e6387870e776aa"
+  },
+  {
+    "path": "subtitles/5/05_009_002B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_009_002B.vtt",
+    "bytes": 365,
+    "sha256": "704d531b4d4f801c5a1cc6135bd190d5769c20669a57c46b7307f5b2137c269b"
+  },
+  {
+    "path": "subtitles/5/05_010_009.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_010_009.vtt",
+    "bytes": 229,
+    "sha256": "aa37caf64c5702a9f3c684898db1f8b44f1c90ed3418d58250958295ff170bbb"
+  },
+  {
+    "path": "subtitles/5/05_011_003LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_011_003LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_012_003A010_BE001.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_012_003A010_BE001.vtt",
+    "bytes": 1256,
+    "sha256": "df5fe7831ed54dfb653bc5a40491b80b420712295dd4c87720c1d44ec8894b88"
+  },
+  {
+    "path": "subtitles/5/05_013_003B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_013_003B.vtt",
+    "bytes": 259,
+    "sha256": "47dbc68f8d39875022b85cfde530f91a961eab133d575c5095660913ca9f85c9"
+  },
+  {
+    "path": "subtitles/5/05_013_003B011.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_013_003B011.vtt",
+    "bytes": 259,
+    "sha256": "47dbc68f8d39875022b85cfde530f91a961eab133d575c5095660913ca9f85c9"
+  },
+  {
+    "path": "subtitles/5/05_014_QTE5LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_014_QTE5LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_015_004LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_015_004LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_016_004A012_BE002.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_016_004A012_BE002.vtt",
+    "bytes": 1350,
+    "sha256": "b9927c1e0957fcbc03e986f4f95be9769f00d5ddd3efe3a8804bed436b28e142"
+  },
+  {
+    "path": "subtitles/5/05_017_004B013014.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_017_004B013014.vtt",
+    "bytes": 1896,
+    "sha256": "f5211ce935d3a3c4fa1696e5f1521400f044ea868871234de81e4c45b874da55"
+  },
+  {
+    "path": "subtitles/5/05_018_020021022.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_018_020021022.vtt",
+    "bytes": 1077,
+    "sha256": "9c86e1cd9f01afb77023208257693ea546a5ac31d1a1ce442427563275472952"
+  },
+  {
+    "path": "subtitles/5/05_019_022LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_019_022LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_020_005LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_020_005LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_021_005A015017018019.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_021_005A015017018019.vtt",
+    "bytes": 4554,
+    "sha256": "da8777fdd0dcbab1ef4c0c6d6ed6c99e910b49fd108c0366df36e2fdbf9abeb9"
+  },
+  {
+    "path": "subtitles/5/05_022_005B016_BE003.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_022_005B016_BE003.vtt",
+    "bytes": 1361,
+    "sha256": "ff636e9f830693054fc2dfaf519dd2fb68e04cb5a2e3b909dd10a105e61d4c7d"
+  },
+  {
+    "path": "subtitles/5/05_023_032.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_023_032.vtt",
+    "bytes": 822,
+    "sha256": "8b108453caaff4f82eb1dcb079b35d4794686a811097c692bfff5e1dd9863389"
+  },
+  {
+    "path": "subtitles/5/05_024_006LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_024_006LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_025_006B_BE004.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_025_006B_BE004.vtt",
+    "bytes": 999,
+    "sha256": "6a51a924d42164f08091f97254234d7b74478fa4c29247b8372033ce7589a88e"
+  },
+  {
+    "path": "subtitles/5/05_026_006A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_026_006A.vtt",
+    "bytes": 732,
+    "sha256": "859b21e7ec1d321bd31e5db8cf7ed7cdc663c2b05bcf8f948efb8657de66eb60"
+  },
+  {
+    "path": "subtitles/5/05_027_022A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_027_022A.vtt",
+    "bytes": 702,
+    "sha256": "491952cbdfeedcc2cbb0b5dc85126a1ad9f576fd017adc50adedee1b10896155"
+  },
+  {
+    "path": "subtitles/5/05_028_022B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_028_022B.vtt",
+    "bytes": 399,
+    "sha256": "d7a9c4a3e27fdd320a8d955c2bb0b0feab0d2c13b499d86b7b6f2749526c131d"
+  },
+  {
+    "path": "subtitles/5/05_029_007LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_029_007LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_030_007A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_030_007A.vtt",
+    "bytes": 191,
+    "sha256": "8af8ce951c6981037cc66207eecc436bd8179d83cf441196cbee6add64182613"
+  },
+  {
+    "path": "subtitles/5/05_031_007B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_031_007B.vtt",
+    "bytes": 194,
+    "sha256": "bd414adab8c78eb2fcad3d6e892334cd90097be4acd0a16e2a92eb84db4dab0c"
+  },
+  {
+    "path": "subtitles/5/05_032_023024025.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_032_023024025.vtt",
+    "bytes": 1996,
+    "sha256": "368ff83a384f00c89799cfd717ec3d7f38978f0788cd7f93ab552e06b1a561c5"
+  },
+  {
+    "path": "subtitles/5/05_033_008LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_033_008LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_034_008A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_034_008A.vtt",
+    "bytes": 147,
+    "sha256": "2edb34cc6fee0375859ea9ceda297cd6f1875e61b0b1cd258c87631146790e10"
+  },
+  {
+    "path": "subtitles/5/05_035_008B026.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_035_008B026.vtt",
+    "bytes": 326,
+    "sha256": "a9aa43dddee912795663775e0f09760917276d686d29065593b738979a32010e"
+  },
+  {
+    "path": "subtitles/5/05_036_009LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_036_009LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_037_009A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_037_009A.vtt",
+    "bytes": 115,
+    "sha256": "5a265c49fcbc4aafebff1cbfd3c2eef5b5c1c20ad8b3287649a1073b6847259b"
+  },
+  {
+    "path": "subtitles/5/05_038_009B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_038_009B.vtt",
+    "bytes": 364,
+    "sha256": "ebb5b5a3116cb3911a7ffd4b9b8ba2ec6f3729d73bd5f19c1cd3107b279875f7"
+  },
+  {
+    "path": "subtitles/5/05_039_009C.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_039_009C.vtt",
+    "bytes": 68,
+    "sha256": "de707071e3caa695c24f1754531d6b6cf84179bb290c22a307add6643e14576b"
+  },
+  {
+    "path": "subtitles/5/05_040_027028029030.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_040_027028029030.vtt",
+    "bytes": 1742,
+    "sha256": "bd696352a3a4590df320de75902d0c9e20a06499db183f3c8b18aa2ec5a3bde3"
+  },
+  {
+    "path": "subtitles/5/05_041_010LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_041_010LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_042_010A_BE005.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_042_010A_BE005.vtt",
+    "bytes": 691,
+    "sha256": "eb975ea4e7f6a5dca3d18f6c99ce584f7b78230050b83c41fb4447ace5cbd844"
+  },
+  {
+    "path": "subtitles/5/05_043_010B031.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_043_010B031.vtt",
+    "bytes": 443,
+    "sha256": "4ad6e858981e7c5632e0a57e9301554f8dfa8d165ff40c223dcc8aa3b22117a4"
+  },
+  {
+    "path": "subtitles/5/05_044_011LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_044_011LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_045_011A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_045_011A.vtt",
+    "bytes": 110,
+    "sha256": "96d7fef9cd88d70806ef1a5a620bf03c212fcebe5374b4927c3c2a0568028be7"
+  },
+  {
+    "path": "subtitles/5/05_046_011B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_046_011B.vtt",
+    "bytes": 98,
+    "sha256": "def7fb3ad5f4f6452d037f100cfc6b5ff5beb22fed26bb95ef199db731e9fc6c"
+  },
+  {
+    "path": "subtitles/5/05_047_012LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_047_012LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_048_012A_BE006.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_048_012A_BE006.vtt",
+    "bytes": 1051,
+    "sha256": "f826ebf2ed6cc8d58a6087db4d40b685cd50b5d9f6d6a393b02e3d64a3e0fd9e"
+  },
+  {
+    "path": "subtitles/5/05_049_012B033.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_049_012B033.vtt",
+    "bytes": 584,
+    "sha256": "1c80ebd7c9138c9a93af4df666a594bee4efab84d5dc2167fe0e3ba06c1b6ce4"
+  },
+  {
+    "path": "subtitles/5/05_050_013LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_050_013LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_051_013A_BE007.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_051_013A_BE007.vtt",
+    "bytes": 632,
+    "sha256": "c7c4198f07d6f4daf85b988593bfbcf90a2a1a9fc26e2c124d240e6991734446"
+  },
+  {
+    "path": "subtitles/5/05_052_013B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_052_013B.vtt",
+    "bytes": 821,
+    "sha256": "3f030b72f8cfbecffb88e0011c41cfb6956fe2a1efab77c2931a54774de6d8fa"
+  },
+  {
+    "path": "subtitles/5/05_053_034035.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_053_034035.vtt",
+    "bytes": 894,
+    "sha256": "f9cf54eb7230827388526c02d5cb2de03a92aa32dac523437c9f69044d0f56fa"
+  },
+  {
+    "path": "subtitles/5/05_054_QTE2.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_054_QTE2.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_055_037_BE008.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_055_037_BE008.vtt",
+    "bytes": 141,
+    "sha256": "7a8b76739375daeb961de6cdd728dc02394d3929aeffc16374445285ea99d7e2"
+  },
+  {
+    "path": "subtitles/5/05_056_038039.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_056_038039.vtt",
+    "bytes": 1942,
+    "sha256": "015a9017c9df14fe538d33eec34c6c2b6c799ac3604ff29ffdafccc6e803cacb"
+  },
+  {
+    "path": "subtitles/5/05_057_014LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_057_014LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_058_014A040.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_058_014A040.vtt",
+    "bytes": 699,
+    "sha256": "0aa8bbcd984ee92f3c9fc20f594dc931a45fb5b833b3852f531bdfd16b86a9cf"
+  },
+  {
+    "path": "subtitles/5/05_059_014B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_059_014B.vtt",
+    "bytes": 338,
+    "sha256": "8236141c0416e6c3c94f55fd7c03e45f98a46d6908431246554288cd549276c8"
+  },
+  {
+    "path": "subtitles/5/05_061_042.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_061_042.vtt",
+    "bytes": 855,
+    "sha256": "3480675c81ca751fff81c4eac2aeb8e955be334ac69e87faa2096170aa72ef31"
+  },
+  {
+    "path": "subtitles/5/05_062_043.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_062_043.vtt",
+    "bytes": 651,
+    "sha256": "7585fc8c56157b33a48dfdc67eb269e2a9adc451a1905671fb8d86516ad062f7"
+  },
+  {
+    "path": "subtitles/5/05_063_044.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_063_044.vtt",
+    "bytes": 391,
+    "sha256": "450a63db18f5e223c3ecf7d896cbb4cfa72b272334d85943802000bac7a85e94"
+  },
+  {
+    "path": "subtitles/5/05_064_015LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_064_015LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_065_015A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_065_015A.vtt",
+    "bytes": 381,
+    "sha256": "d1fad9a1516fe48f08bc8310dd6ee8548be55dc09c22de04935998f36866ab86"
+  },
+  {
+    "path": "subtitles/5/05_066_015B045.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_066_015B045.vtt",
+    "bytes": 496,
+    "sha256": "8ffddcdd8b553b9c85d44b853bf284ce6c8e592a594569fcc4cdd7c2c784c9ca"
+  },
+  {
+    "path": "subtitles/5/05_067_036.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_067_036.vtt",
+    "bytes": 206,
+    "sha256": "c73e091a14165b2a2f6f33b165fd2d02a683bc63f1d8c70ed0779cb759941f33"
+  },
+  {
+    "path": "subtitles/5/05_069_046047048049.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_069_046047048049.vtt",
+    "bytes": 2615,
+    "sha256": "815ff9c8511348958f0a91535285bd95fbec53b67e80c942717f801b72e61dd7"
+  },
+  {
+    "path": "subtitles/5/05_070_016LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_070_016LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_071_016A050051052053054.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_071_016A050051052053054.vtt",
+    "bytes": 2320,
+    "sha256": "5737cfd8443dbeda4bd0ef41350d897103216df1bb32f9df1b4f2c0794f89e8d"
+  },
+  {
+    "path": "subtitles/5/05_072_016B055.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_072_016B055.vtt",
+    "bytes": 297,
+    "sha256": "cb17fa44919b1581d228e14d161c1c1313011a3e7d61d72f63f57e30019681df"
+  },
+  {
+    "path": "subtitles/5/05_074_023AQTE4.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_074_023AQTE4.vtt",
+    "bytes": 136,
+    "sha256": "6e118faedc0f7b7e3f34efa128a81e5e800a7abfbee9a25f8bb0edca84c4518c"
+  },
+  {
+    "path": "subtitles/5/05_075_056_BE009.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_075_056_BE009.vtt",
+    "bytes": 1060,
+    "sha256": "d7e3d149efef8e031bf09c53292b0db6f2e6af01363f240a0410bd2a2624fdf8"
+  },
+  {
+    "path": "subtitles/5/05_076_057058059060061.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_076_057058059060061.vtt",
+    "bytes": 3183,
+    "sha256": "dcce42cb22f24adb4338492495aed039f4f2564793d754c815283906894d4a5f"
+  },
+  {
+    "path": "subtitles/5/05_077_017LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_077_017LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_078_017A062.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_078_017A062.vtt",
+    "bytes": 355,
+    "sha256": "2b0a535709dcda45b07e64991abb9e99e2bb999e4c052b45f8ac184a6bf966ce"
+  },
+  {
+    "path": "subtitles/5/05_079_017B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_079_017B.vtt",
+    "bytes": 264,
+    "sha256": "8492342f168cb26971d4dd804213aa913ba7890ee87116a24be63e8e69610941"
+  },
+  {
+    "path": "subtitles/5/05_081_018LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_081_018LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_082_018A_BE010.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_082_018A_BE010.vtt",
+    "bytes": 115,
+    "sha256": "3f7d42f3a2fabe28ffe4b8106ba818bbab9444f0514ea216069ca7745777dd83"
+  },
+  {
+    "path": "subtitles/5/05_083_018B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_083_018B.vtt",
+    "bytes": 156,
+    "sha256": "867d16eed898541e5582d902b1908a44e98d8a7ce36a308f6562a9fd410024e0"
+  },
+  {
+    "path": "subtitles/5/05_084_063064065066067068.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_084_063064065066067068.vtt",
+    "bytes": 3840,
+    "sha256": "f86189695f6afd2e5296b9521862b19a635076c7fdb34abe30021438c8189591"
+  },
+  {
+    "path": "subtitles/5/05_085_019LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_085_019LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_086_019A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_086_019A.vtt",
+    "bytes": 286,
+    "sha256": "e437417d317aa3bcb8bf31ccf13859fbfe00e280758e911de6ee2ddae1435af6"
+  },
+  {
+    "path": "subtitles/5/05_087_019B069.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_087_019B069.vtt",
+    "bytes": 283,
+    "sha256": "3c976a73699347d4d7f8312dc49d670f89e3c051ebe02da7c34a33641998d1d8"
+  },
+  {
+    "path": "subtitles/5/05_088_023LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_088_023LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_089_023B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_089_023B.vtt",
+    "bytes": 136,
+    "sha256": "d32bbd59fc82a0befd13b110e22f8266d826a983dd2301502b1d179c12ad1ff9"
+  },
+  {
+    "path": "subtitles/5/05_090_012LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_090_012LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_091_020A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_091_020A.vtt",
+    "bytes": 124,
+    "sha256": "3e6243ea717db9097c18cfeb179545e965224d8bf5b7238bffaba1a34bedc086"
+  },
+  {
+    "path": "subtitles/5/05_092_020B.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_092_020B.vtt",
+    "bytes": 197,
+    "sha256": "abe102708873bab5105cfac80a6f0bcf0058796a664453f3ec1af5ebbba0d2db"
+  },
+  {
+    "path": "subtitles/5/05_093_070.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_093_070.vtt",
+    "bytes": 2945,
+    "sha256": "26f54fa16af93783993cf6e8150f43e792d89f6d0c3bde790d009b94db743d8f"
+  },
+  {
+    "path": "subtitles/5/05_094_021LOOP.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_094_021LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/5/05_095_021B_BE011.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_095_021B_BE011.vtt",
+    "bytes": 578,
+    "sha256": "5b022418432c2a385930f9d542423e2feea249ebf1bd04d3680a6a6673038bf6"
+  },
+  {
+    "path": "subtitles/5/05_096_021A.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_096_021A.vtt",
+    "bytes": 414,
+    "sha256": "ab47b6cf28b8a3748eda1b35c04f4fde37da979f78c330c793cddcfaa37529f1"
+  },
+  {
+    "path": "subtitles/5/05_097_071.vtt",
+    "source": "chapter5_zh_cmn_Hans.pack!/subtitles/05_097_071.vtt",
+    "bytes": 4144,
+    "sha256": "d71698bae937d82caf34c4b371bc71cea10a6aeb1ef91f9c2b4301a22d73bd34"
+  },
+  {
+    "path": "subtitles/6/06_001_001002003004005.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_001_001002003004005.vtt",
+    "bytes": 3588,
+    "sha256": "5d0ad07c6778bfbfc1b31d8972974ea8e7d10b1e0926bc1c0678d08a3986cef0"
+  },
+  {
+    "path": "subtitles/6/06_002_001LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_002_001LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_003_001A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_003_001A.vtt",
+    "bytes": 414,
+    "sha256": "21ca9a996afbfa9d693e461ccaac799210e619a78e0a59930b83231a33f9839d"
+  },
+  {
+    "path": "subtitles/6/06_004_001B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_004_001B.vtt",
+    "bytes": 549,
+    "sha256": "3b39713f0bca076027e8fbea7af7a68becf8e36b7dffc2357057bdbe579afe97"
+  },
+  {
+    "path": "subtitles/6/06_005_001C.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_005_001C.vtt",
+    "bytes": 416,
+    "sha256": "cf9c706c38784f2562f87e81684dd094be5887ef22369604b97c96bea7285a12"
+  },
+  {
+    "path": "subtitles/6/06_006_006007.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_006_006007.vtt",
+    "bytes": 2095,
+    "sha256": "4687fa0ade365385a1de419384b55222f0f85eab669ae18c3b4942af3be53480"
+  },
+  {
+    "path": "subtitles/6/06_007_002LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_007_002LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_008_002A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_008_002A.vtt",
+    "bytes": 194,
+    "sha256": "01bf9ab9f4d8186569448f8918fd44ef4bf8f2057435a568f053c5ea8517cc4d"
+  },
+  {
+    "path": "subtitles/6/06_009_002B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_009_002B.vtt",
+    "bytes": 157,
+    "sha256": "071e113ff13e2379d447555653cf6800825e4e49bf7abaf72a1051ec15de606b"
+  },
+  {
+    "path": "subtitles/6/06_010_002C.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_010_002C.vtt",
+    "bytes": 159,
+    "sha256": "3471c93fd60740b865378f75cf055765ee5906d10f46cd35cf9c3ba32438e5a3"
+  },
+  {
+    "path": "subtitles/6/06_011_008.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_011_008.vtt",
+    "bytes": 780,
+    "sha256": "b25750ee4302813c10079dcadec3f2fb615b8a4c9525379db6f93d9ab4ac0a20"
+  },
+  {
+    "path": "subtitles/6/06_012_003LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_012_003LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_013_003A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_013_003A.vtt",
+    "bytes": 215,
+    "sha256": "669103f78c8a28b1b14f3d21e68b88a4408f2c9a76d5358ef42dea1258f72ac8"
+  },
+  {
+    "path": "subtitles/6/06_014_003B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_014_003B.vtt",
+    "bytes": 156,
+    "sha256": "e4f1ed7ce8981b0d7113f7e8739afb4cb5932f389a61cdd59cef33f91f70942d"
+  },
+  {
+    "path": "subtitles/6/06_015_009.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_015_009.vtt",
+    "bytes": 1979,
+    "sha256": "c60ead9317545d785b3a271c8a31295f693530d22312e0720fcdb5bba2c3e5b0"
+  },
+  {
+    "path": "subtitles/6/06_016_004LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_016_004LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_017_004A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_017_004A.vtt",
+    "bytes": 610,
+    "sha256": "75ad6835129c8badd4838b89b5efc8fe3380739b0df4166b559b216f9a101a48"
+  },
+  {
+    "path": "subtitles/6/06_018_004B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_018_004B.vtt",
+    "bytes": 660,
+    "sha256": "e1ec9fed64ff4189e0bc1099967fe0ac7e6c64b6d912bb7016fa5c269ed5b4f8"
+  },
+  {
+    "path": "subtitles/6/06_019_010.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_019_010.vtt",
+    "bytes": 1761,
+    "sha256": "c2980203557503e77e9155c749310f11bbb75602cbaf8a70bdb67d52e01fd17e"
+  },
+  {
+    "path": "subtitles/6/06_020_005LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_020_005LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_021_005A011.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_021_005A011.vtt",
+    "bytes": 577,
+    "sha256": "117b9a7f5e0f025232153e854fbe1202ade4ba4f7425d317d4cb3614453fc985"
+  },
+  {
+    "path": "subtitles/6/06_022_005B020.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_022_005B020.vtt",
+    "bytes": 4783,
+    "sha256": "810fa482deec7f90eaddfbd46371ddf7db0a9409d1679df21d9cfc64906766d0"
+  },
+  {
+    "path": "subtitles/6/06_023_015016.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_023_015016.vtt",
+    "bytes": 1163,
+    "sha256": "9786ee8f29663b4d2fad143d08dc48f599379bd14e0a21dcecb0ae96fb149d34"
+  },
+  {
+    "path": "subtitles/6/06_024_006LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_024_006LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_025_006A012.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_025_006A012.vtt",
+    "bytes": 657,
+    "sha256": "9b0b415c6d95711d10c73ef2183a580bcca0aa19076cbd9cf6d36864060a24e4"
+  },
+  {
+    "path": "subtitles/6/06_026_006B013.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_026_006B013.vtt",
+    "bytes": 232,
+    "sha256": "803cccf04cae3f8decce252696c6a1aed8581b3a180e376cabaf51aa6902af83"
+  },
+  {
+    "path": "subtitles/6/06_027_006C014QTE2.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_027_006C014QTE2.vtt",
+    "bytes": 1393,
+    "sha256": "3460c5b823f69092fbc2ec09238cb2900e5d59eb3e3e6dc2a5e6c88b6e0f77b1"
+  },
+  {
+    "path": "subtitles/6/06_028_006D.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_028_006D.vtt",
+    "bytes": 411,
+    "sha256": "1501be604a5ff2b41094abec36ad1835adf8fd2cd5d4732db993c8a67ce0adda"
+  },
+  {
+    "path": "subtitles/6/06_030_018019.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_030_018019.vtt",
+    "bytes": 965,
+    "sha256": "5359b50ed220c0cd1944f71cca12c3564af3e1724561426a6b47e108811178a6"
+  },
+  {
+    "path": "subtitles/6/06_031_007LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_031_007LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_032_007A_BE001.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_032_007A_BE001.vtt",
+    "bytes": 1136,
+    "sha256": "e46d49483c05b6032d53d836d6af21728cb763bb9442449732613c13b4000742"
+  },
+  {
+    "path": "subtitles/6/06_033_007B_BE002.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_033_007B_BE002.vtt",
+    "bytes": 482,
+    "sha256": "a54523a99c2fd72c5965bbfa61de3aeec9c885d6d10e0db22e17560f4e3a4730"
+  },
+  {
+    "path": "subtitles/6/06_034_049_1BE005.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_034_049_1BE005.vtt",
+    "bytes": 691,
+    "sha256": "cb4b1ed1356d432aa8d3e030993a77cac528cf3f1110df0f4879ece05ebc2846"
+  },
+  {
+    "path": "subtitles/6/06_035_050051052.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_035_050051052.vtt",
+    "bytes": 2701,
+    "sha256": "b9d0dafe8c70c2d9d6fc249be40fe663c305ac13443b7f319589087beb58ce4a"
+  },
+  {
+    "path": "subtitles/6/06_036_021.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_036_021.vtt",
+    "bytes": 716,
+    "sha256": "bf0d5f9f3318b1901be4f85e146e379d020d16a0730ff65c91771d4625eb150c"
+  },
+  {
+    "path": "subtitles/6/06_037_QTE1LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_037_QTE1LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_038_013.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_038_013.vtt",
+    "bytes": 270,
+    "sha256": "3e50b3f3d1dc57cfe9a833f9f2679728ac8aab07d92d54ca4a42d5d82e816acb"
+  },
+  {
+    "path": "subtitles/6/06_039_008LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_039_008LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_040_008A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_040_008A.vtt",
+    "bytes": 1148,
+    "sha256": "8f720c3646ae44a69cd7fd15de3bb51032853e3a88c6ae84dcac58e2cc915e95"
+  },
+  {
+    "path": "subtitles/6/06_041_008B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_041_008B.vtt",
+    "bytes": 935,
+    "sha256": "6854d9f22846e2122498d4b682db23f90648a685ff97f0676b53753aec8c70fc"
+  },
+  {
+    "path": "subtitles/6/06_042_009LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_042_009LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_043_009A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_043_009A.vtt",
+    "bytes": 2127,
+    "sha256": "ecf83216e62f26402117b9ca4e65be04653b67c6604ac21490510a15c66fb338"
+  },
+  {
+    "path": "subtitles/6/06_044_009B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_044_009B.vtt",
+    "bytes": 1705,
+    "sha256": "c0a8b8ba193eb690439780b5f490578ad0f1efa84ce64884d06d5a71e7e500b0"
+  },
+  {
+    "path": "subtitles/6/06_045_023024.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_045_023024.vtt",
+    "bytes": 1013,
+    "sha256": "a556d85b7042ea106d84842c15493c8f5d8e08b4882c7af86f69a5981d70a2c7"
+  },
+  {
+    "path": "subtitles/6/06_046_010LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_046_010LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_047_010A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_047_010A.vtt",
+    "bytes": 347,
+    "sha256": "697066789c55a49b1e47297ba819fc7a9825994e3eb2eee00c816be55d2a08a4"
+  },
+  {
+    "path": "subtitles/6/06_048_010B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_048_010B.vtt",
+    "bytes": 547,
+    "sha256": "894783a68626ea54e320caad7201bc9f29877caa9242d47abb39af9e455a9e64"
+  },
+  {
+    "path": "subtitles/6/06_049_025.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_049_025.vtt",
+    "bytes": 473,
+    "sha256": "0a7836ac82833eebdc0cf5ec528684aee291b887c9d1108d77f34509578c0503"
+  },
+  {
+    "path": "subtitles/6/06_050_011LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_050_011LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_051_011A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_051_011A.vtt",
+    "bytes": 109,
+    "sha256": "e0420f4cf54bf997ec39ba6936aaf0a7ec707ea54d2ac4229f5ce85aa1f8850c"
+  },
+  {
+    "path": "subtitles/6/06_052_011B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_052_011B.vtt",
+    "bytes": 230,
+    "sha256": "cd1c0c8be669f290fa6cb85256cfaa93d332b11539249662ca61c81835dd84be"
+  },
+  {
+    "path": "subtitles/6/06_053_026027028.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_053_026027028.vtt",
+    "bytes": 3810,
+    "sha256": "a324116d396a8477f5ce1ac43ffeb9df2a3490ec71192218d24a1a0787d528f4"
+  },
+  {
+    "path": "subtitles/6/06_054_012LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_054_012LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_055_012A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_055_012A.vtt",
+    "bytes": 156,
+    "sha256": "5aa22521ab53f1452e78c387b25dd09a701d595f18fcd081f5e2f36644c53a91"
+  },
+  {
+    "path": "subtitles/6/06_056_012B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_056_012B.vtt",
+    "bytes": 130,
+    "sha256": "bd85a8ca4d39fb3c4fdb2933f0f296028276402bf5ae7b6ab1735351049ba500"
+  },
+  {
+    "path": "subtitles/6/06_057_012C.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_057_012C.vtt",
+    "bytes": 156,
+    "sha256": "443d305382d188f051997c94adc451b61e700e733b12b285c259f03d52eb1527"
+  },
+  {
+    "path": "subtitles/6/06_058_029.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_058_029.vtt",
+    "bytes": 681,
+    "sha256": "0584d7622a1f103695eb2233bd7c7ab347f1d07778fcf9976cdd21592abb01d9"
+  },
+  {
+    "path": "subtitles/6/06_059_013LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_059_013LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_060_013A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_060_013A.vtt",
+    "bytes": 174,
+    "sha256": "edcd3bd2c6e684b7acdb47febca386c6f4d2efad7edf80ea25e19fda0696f725"
+  },
+  {
+    "path": "subtitles/6/06_061_013B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_061_013B.vtt",
+    "bytes": 130,
+    "sha256": "1afcddfcaf0ce16bc455dbb712b1c8785cfce03f520d00d201bce473dd122c37"
+  },
+  {
+    "path": "subtitles/6/06_062_030.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_062_030.vtt",
+    "bytes": 1314,
+    "sha256": "4e43af3595f2ee9293547a5d8795cc122ad3daa1d95d2571e670a3435c0f556c"
+  },
+  {
+    "path": "subtitles/6/06_063_014LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_063_014LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_064_014A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_064_014A.vtt",
+    "bytes": 57,
+    "sha256": "6031f9b7fd24f1f3ca14736e02c6e709da3bfc6284a8ad1a731330f10283350b"
+  },
+  {
+    "path": "subtitles/6/06_065_014B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_065_014B.vtt",
+    "bytes": 393,
+    "sha256": "756fcc631cdc003221bfcd7a07e3ba051929828b7081d7de4d209f610596d131"
+  },
+  {
+    "path": "subtitles/6/06_066_031032033034035.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_066_031032033034035.vtt",
+    "bytes": 4413,
+    "sha256": "98732296e5e28a52a6b693a96b01de317e57d68cbb8b6d0c71c7bb4022662b00"
+  },
+  {
+    "path": "subtitles/6/06_067_015LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_067_015LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_068_015A036037038039042.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_068_015A036037038039042.vtt",
+    "bytes": 537,
+    "sha256": "841f1d4cf3fdf6ea44623ad489dad5bbcffa6c8aff8d67d3edaa316b85a14d6c"
+  },
+  {
+    "path": "subtitles/6/06_069_015B040042.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_069_015B040042.vtt",
+    "bytes": 218,
+    "sha256": "64bf6e379e9cc6e6fafdcec1481493b4af810c83622336e49ca70842a4c92ede"
+  },
+  {
+    "path": "subtitles/6/06_070_015C041042.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_070_015C041042.vtt",
+    "bytes": 717,
+    "sha256": "348454e51bd757bb68d8ae6594ff95f05dd5ca9b8138908d9f81a577bc7831a1"
+  },
+  {
+    "path": "subtitles/6/06_073_043.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_073_043.vtt",
+    "bytes": 382,
+    "sha256": "c86017f48e16a82445daa3f910fe3a339d626ccea4550592886f32aeee90114a"
+  },
+  {
+    "path": "subtitles/6/06_074_016LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_074_016LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_075_016A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_075_016A.vtt",
+    "bytes": 199,
+    "sha256": "06faa01c891c1d3414fb982a7af8b16a7643e3b0d2e6403a9e2a8c109f0bac83"
+  },
+  {
+    "path": "subtitles/6/06_076_016B.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_076_016B.vtt",
+    "bytes": 290,
+    "sha256": "b0d876b5ccd65fe36f1e53fd53e6e4f2641b111d6933f579766bbed93615da15"
+  },
+  {
+    "path": "subtitles/6/06_077_044045046047.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_077_044045046047.vtt",
+    "bytes": 2034,
+    "sha256": "77bac0fd12577ea7bbbf8d41f9b849e4384aabaf0308536512e2ceb9a9853d05"
+  },
+  {
+    "path": "subtitles/6/06_078_017LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_078_017LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_079_017A.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_079_017A.vtt",
+    "bytes": 159,
+    "sha256": "3d838b0fcedac8fe9b327210d3da3907fe944b92e747ec65db1b2dd0f07ffbc7"
+  },
+  {
+    "path": "subtitles/6/06_080_017B048.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_080_017B048.vtt",
+    "bytes": 408,
+    "sha256": "935d8965754bb982c1d73a15f15992a20930559afeef3874b0769b97f888830b"
+  },
+  {
+    "path": "subtitles/6/06_081_049.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_081_049.vtt",
+    "bytes": 501,
+    "sha256": "cd06d2ba89d237410681cbfd4fae810b31041ab1a85c36c732c921e171fb4e04"
+  },
+  {
+    "path": "subtitles/6/06_082_053054.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_082_053054.vtt",
+    "bytes": 697,
+    "sha256": "01e73d797494697aca44bc1eb3458e85a398bc17dc1b0155df9bee7e6e33e7ab"
+  },
+  {
+    "path": "subtitles/6/06_083_055_BE003.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_083_055_BE003.vtt",
+    "bytes": 968,
+    "sha256": "a450f80f763b1ab1a4301b0029a1b9319ddb38eca50e25880fb10bed7deb4842"
+  },
+  {
+    "path": "subtitles/6/06_084_056.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_084_056.vtt",
+    "bytes": 370,
+    "sha256": "ab0c82923ca38538ef66abde6e46b4cca8b70f4a0699979f241567b3ce12c3f3"
+  },
+  {
+    "path": "subtitles/6/06_085_018LOOP.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_085_018LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/6/06_086_018A_BE004.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_086_018A_BE004.vtt",
+    "bytes": 288,
+    "sha256": "c21e9ee7b2365ce524f7d4a09b0a99eb15678a0ae5467fc05bb30001b705cf84"
+  },
+  {
+    "path": "subtitles/6/06_087_018B057058059060.vtt",
+    "source": "chapter6_zh_cmn_Hans.pack!/subtitles/06_087_018B057058059060.vtt",
+    "bytes": 2652,
+    "sha256": "3cb7895932e7609d04168ed1584faa702cd899db9f46a77b7cc1dcbb4fb64665"
+  },
+  {
+    "path": "subtitles/7/07_001_001002003.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_001_001002003.vtt",
+    "bytes": 2084,
+    "sha256": "ea530a61e7aabbd7704debc17f2995a2bdb5a045c15cb274252f5580b57ab359"
+  },
+  {
+    "path": "subtitles/7/07_002_004.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_002_004.vtt",
+    "bytes": 203,
+    "sha256": "ead761f9636bc8dcdb6fd499fb00401580f1ff98d3bf337ff64368facf0e9079"
+  },
+  {
+    "path": "subtitles/7/07_003_001LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_003_001LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_004_001A.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_004_001A.vtt",
+    "bytes": 250,
+    "sha256": "ed5aad5a5e27e2e08f30e5b4ef26e100fc3e246227d7996cbd8b92b8db539803"
+  },
+  {
+    "path": "subtitles/7/07_005_001B.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_005_001B.vtt",
+    "bytes": 297,
+    "sha256": "bc78b58add83e217619728de8ce3be6306cf202a1815dadbc15ad656a499ae7d"
+  },
+  {
+    "path": "subtitles/7/07_006_005006007_BE001.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_006_005006007_BE001.vtt",
+    "bytes": 796,
+    "sha256": "ca4598f24fe14016d6baf8ceac5ff93231f8d36cbb2d79e6b4d2e8b3053ead9d"
+  },
+  {
+    "path": "subtitles/7/07_007_008009010_010_1_BE002.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_007_008009010_010_1_BE002.vtt",
+    "bytes": 2183,
+    "sha256": "0f0c709c3de109e20f32bfa2c964be0337e10acafc36948cf81a1b60d56b9e62"
+  },
+  {
+    "path": "subtitles/7/07_008_011.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_008_011.vtt",
+    "bytes": 77,
+    "sha256": "d73cf18ca3a49374f852e415300fbe1d4cdb810996e944ee49965fcad3fa0575"
+  },
+  {
+    "path": "subtitles/7/07_009_002LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_009_002LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_010_002A.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_010_002A.vtt",
+    "bytes": 796,
+    "sha256": "b0920fd0fac365796459b301f26e356d2ef6191ebb1dd583513672ff01357697"
+  },
+  {
+    "path": "subtitles/7/07_011_002B.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_011_002B.vtt",
+    "bytes": 1223,
+    "sha256": "e1f997953f49616a671b4f83c0f068928573d9b108201eb184e4271922ec2597"
+  },
+  {
+    "path": "subtitles/7/07_012_012013014_BE003.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_012_012013014_BE003.vtt",
+    "bytes": 510,
+    "sha256": "e25af0df16bb56fbfdd9cbc6192788446774fb29fd8bec3e3dd3a660c44cc1fa"
+  },
+  {
+    "path": "subtitles/7/07_013_017.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_013_017.vtt",
+    "bytes": 812,
+    "sha256": "765275ea941f769127972eaf3c0f4bdfa1a09916fa3f20c84a14f840c8051ee5"
+  },
+  {
+    "path": "subtitles/7/07_014_018.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_014_018.vtt",
+    "bytes": 838,
+    "sha256": "905e9b299ec35771ecb1460746bdcaf074d93a637eb0bdeedf691e7eaa53f4f7"
+  },
+  {
+    "path": "subtitles/7/07_015_020024.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_015_020024.vtt",
+    "bytes": 4252,
+    "sha256": "c961d16faebf3ecb3772aa073b536e83d11ddedf16323ea150c92778e63bb229"
+  },
+  {
+    "path": "subtitles/7/07_016_030031.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_016_030031.vtt",
+    "bytes": 1736,
+    "sha256": "ec54cc7646b1e0b18e71fa55b8e61a3302a9d38b2b481e79e204837566a04c24"
+  },
+  {
+    "path": "subtitles/7/07_017_QTE1LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_017_QTE1LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_018_015016.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_018_015016.vtt",
+    "bytes": 737,
+    "sha256": "0c9cbb117ae69b00fa13efa78412e7a1d270241f15144c8dcaa8f3b7cebc3113"
+  },
+  {
+    "path": "subtitles/7/07_019_033034035036037038.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_019_033034035036037038.vtt",
+    "bytes": 1613,
+    "sha256": "cd15412aeb1d244a2a972983576bd77a5db0cf33b506fdd1e4a1386a544e24ba"
+  },
+  {
+    "path": "subtitles/7/07_020_003LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_020_003LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_021_003A039_BE004.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_021_003A039_BE004.vtt",
+    "bytes": 51,
+    "sha256": "198fa99e735b11931aa13f384240fb3aec7b0b5d6c2c30338880c6d38166840f"
+  },
+  {
+    "path": "subtitles/7/07_022_003B.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_022_003B.vtt",
+    "bytes": 74,
+    "sha256": "c2a9e0e382da28fa0aecf3f880694f1a4392068a9da3c969e2e0bfbffb96f4d1"
+  },
+  {
+    "path": "subtitles/7/07_023_008LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_023_008LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_024_008A.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_024_008A.vtt",
+    "bytes": 4113,
+    "sha256": "5f0609a410082ae42128a49c9fbadedf7e2f9f4715b1a2d2d6e4b7cdf2f77ecf"
+  },
+  {
+    "path": "subtitles/7/07_025_004LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_025_004LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_026_004A.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_026_004A.vtt",
+    "bytes": 453,
+    "sha256": "9a025ea9d1128a89ac3101114424c123bd260981f0d5048f9e779fb901ae4fb3"
+  },
+  {
+    "path": "subtitles/7/07_027_004B.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_027_004B.vtt",
+    "bytes": 188,
+    "sha256": "185e2d79b0ff968906f5596753e72c9f33dfbc3ab2abd01ad73ffa6077c9e537"
+  },
+  {
+    "path": "subtitles/7/07_028_047048049.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_028_047048049.vtt",
+    "bytes": 351,
+    "sha256": "db39c8c401363c51254bfa0268c256887b6ca11f7bb8bbc1f2a68f85b2334e18"
+  },
+  {
+    "path": "subtitles/7/07_029_005LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_029_005LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_030_005A.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_030_005A.vtt",
+    "bytes": 221,
+    "sha256": "5f8ded3aa8ea4a027188e95885f5ae64606c11572f3ef4f877bc0bb57a472e9e"
+  },
+  {
+    "path": "subtitles/7/07_031_005B.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_031_005B.vtt",
+    "bytes": 711,
+    "sha256": "20ec1fe402fcf9bc4b55ae0f7588829450f87416c3fe604f291211c09143eb92"
+  },
+  {
+    "path": "subtitles/7/07_032_005C.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_032_005C.vtt",
+    "bytes": 911,
+    "sha256": "743e2cd252555f12ca95777c18ab14f6e31d6416afd46d2b124f4949171a751f"
+  },
+  {
+    "path": "subtitles/7/07_034_008BBE005.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_034_008BBE005.vtt",
+    "bytes": 2162,
+    "sha256": "26e71c9eb623461c3f568ddfec0cb5d498f6e051457e8fecb89b0dccaac27cfa"
+  },
+  {
+    "path": "subtitles/7/07_035_054056.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_035_054056.vtt",
+    "bytes": 726,
+    "sha256": "a520e41cbb87a8e9c3281cc005cf59e731c1dce5e98ea7691472cecd2a363091"
+  },
+  {
+    "path": "subtitles/7/07_036_055056.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_036_055056.vtt",
+    "bytes": 798,
+    "sha256": "49d3f101f77d7b244dfa8b46c268a78886319bb88ed5ea18ee28f08fb53a1a5a"
+  },
+  {
+    "path": "subtitles/7/07_037_QTE2LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_037_QTE2LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_038_006LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_038_006LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_039_006A057.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_039_006A057.vtt",
+    "bytes": 281,
+    "sha256": "4daeecde1d9967533c1b7554fafddfad83bcb7ca6cd051d8cc19f0c77f47b6e5"
+  },
+  {
+    "path": "subtitles/7/07_040_006B062.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_040_006B062.vtt",
+    "bytes": 281,
+    "sha256": "234bf348de5a7caa8753eae2fb574cefff1959a28a4dfa4520bc5ed5bac7c3b6"
+  },
+  {
+    "path": "subtitles/7/07_041_058.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_041_058.vtt",
+    "bytes": 659,
+    "sha256": "207c981cba14d3a9d6ff85b5cc7e567d0380f488b549155f20aa35d9a1d65293"
+  },
+  {
+    "path": "subtitles/7/07_042_061.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_042_061.vtt",
+    "bytes": 2713,
+    "sha256": "ceb5f82e9dc75df5476503035b20183226fadb7081dc62ee225e0c7dbbc790a5"
+  },
+  {
+    "path": "subtitles/7/07_043_007LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_043_007LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_044_007A059.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_044_007A059.vtt",
+    "bytes": 2162,
+    "sha256": "10fe646d48ed45decb8fb0b1f2b3d802901a1279c8a4a432d502c2ab6daee046"
+  },
+  {
+    "path": "subtitles/7/07_045_007B060.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_045_007B060.vtt",
+    "bytes": 1993,
+    "sha256": "bcf0806e5b14fca735177b2d53320cea0ff146dbce64d0e8ba9848a2523f3fbf"
+  },
+  {
+    "path": "subtitles/7/07_046_063.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_046_063.vtt",
+    "bytes": 1478,
+    "sha256": "bafaab21dcce353771e720e55d0316103b1ee103c47684ee2f5725453a0a4e1f"
+  },
+  {
+    "path": "subtitles/7/07_047_064065.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_047_064065.vtt",
+    "bytes": 1692,
+    "sha256": "1a936371f25aec5f01994e048479a0c45f0745387b8fee1d724bf6c2d70c2d9c"
+  },
+  {
+    "path": "subtitles/7/07_048_040041042043044.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_048_040041042043044.vtt",
+    "bytes": 3134,
+    "sha256": "416bf0f63b8e16b973e985af1f14029dd8ddfedf9b32e34ac09f0ebc2dda6f5a"
+  },
+  {
+    "path": "subtitles/7/07_049_009LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_049_009LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_050_066067068.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_050_066067068.vtt",
+    "bytes": 4933,
+    "sha256": "26a9898abcdb7b41d45285eaff90a6336fa0a2949178d9a1cc3ac63def09b3f1"
+  },
+  {
+    "path": "subtitles/7/07_051_009A.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_051_009A.vtt",
+    "bytes": 800,
+    "sha256": "deab72fbce3a78cef83961ca6c6b8464cd92741186b6cccdfccfe75f9bfe213c"
+  },
+  {
+    "path": "subtitles/7/07_052_009B.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_052_009B.vtt",
+    "bytes": 779,
+    "sha256": "9b0e8a0676db9cf79143c495dcc3de3b4e7cd3bfd59d207f4782f3125a36aa66"
+  },
+  {
+    "path": "subtitles/7/07_052_069.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_052_069.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_053_071072073074.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_053_071072073074.vtt",
+    "bytes": 2167,
+    "sha256": "505c03a622e49f7fa00f41a0755d3aedb5fb2aae273823d2193e93b7ea6e5774"
+  },
+  {
+    "path": "subtitles/7/07_054_046.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_054_046.vtt",
+    "bytes": 1582,
+    "sha256": "2385c14a41bb21318a8e1c35ce3f065b74f1bfae831337e1eea3ad6ba2bd9697"
+  },
+  {
+    "path": "subtitles/7/07_054_075075_1075_2075_3075_4075_5075_6.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_054_075075_1075_2075_3075_4075_5075_6.vtt",
+    "bytes": 1583,
+    "sha256": "dc8f197ef837b9f8c58c02cb70862aef12d837e9639278d16521e57cd4640ded"
+  },
+  {
+    "path": "subtitles/7/07_055_076077.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_055_076077.vtt",
+    "bytes": 3253,
+    "sha256": "e49be9f3e814abd56c7de3bd95b467b5992e0225325f710be3b0359a616ef20f"
+  },
+  {
+    "path": "subtitles/7/07_056_010LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_056_010LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_056_078079080081.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_056_078079080081.vtt",
+    "bytes": 1944,
+    "sha256": "8789ec380a987f174b2c56ccc15fda6398587ce2de94dcc702acae5598c86873"
+  },
+  {
+    "path": "subtitles/7/07_057_082083084085.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_057_082083084085.vtt",
+    "bytes": 1788,
+    "sha256": "c4a088f5912222d17b055323bea8b6c1d9eb1551e867d2e2eef637c4cfe33193"
+  },
+  {
+    "path": "subtitles/7/07_058_010A.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_058_010A.vtt",
+    "bytes": 271,
+    "sha256": "0d6617978d02b02fa65d8e0138b5b8a31d2330e3abf1de481e28e61d32342de9"
+  },
+  {
+    "path": "subtitles/7/07_059_010B.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_059_010B.vtt",
+    "bytes": 282,
+    "sha256": "47cc63d1c7427ed70921fa00695d74100541acc495845606c7fb4189bea8dd93"
+  },
+  {
+    "path": "subtitles/7/07_060_050.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_060_050.vtt",
+    "bytes": 327,
+    "sha256": "46bd3f0fc63d9823a5910bb773b0298003c3475e78fb09c4f36f0f8dc1cdb250"
+  },
+  {
+    "path": "subtitles/7/07_061_011LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_061_011LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_062_011A.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_062_011A.vtt",
+    "bytes": 637,
+    "sha256": "7e70642b2e21a77e5787a298bed7500d9965947608de71091224826769a95de1"
+  },
+  {
+    "path": "subtitles/7/07_063_011B.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_063_011B.vtt",
+    "bytes": 203,
+    "sha256": "ddd6d7057150d490f5eb036741828d239b098aba162a9ae4c05a586844db4d32"
+  },
+  {
+    "path": "subtitles/7/07_064_051.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_064_051.vtt",
+    "bytes": 429,
+    "sha256": "1ceccded4975dba8843ce880dc4cc5d5cb1a886871ac24aa83b80b3f053d57a3"
+  },
+  {
+    "path": "subtitles/7/07_065_012LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_065_012LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  },
+  {
+    "path": "subtitles/7/07_066_012A.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_066_012A.vtt",
+    "bytes": 130,
+    "sha256": "35e385e2daae23fd68ba5461c95a1c6636d94e5e3e0b33c0663ee5e21d4026cd"
+  },
+  {
+    "path": "subtitles/7/07_067_012B.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_067_012B.vtt",
+    "bytes": 123,
+    "sha256": "334eea963742d6c5dbb2d047ce58c1057b4d51eb9879e9f136dbb92915304256"
+  },
+  {
+    "path": "subtitles/7/07_068_052.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_068_052.vtt",
+    "bytes": 1019,
+    "sha256": "913367d5e8ec0aac044cda0c28b2bc2441cae13628a9a4224b26d6461a3514d3"
+  },
+  {
+    "path": "subtitles/7/07_070_QTE3LOOP.vtt",
+    "source": "chapter7_zh_cmn_Hans.pack!/subtitles/07_070_QTE3LOOP.vtt",
+    "bytes": 7,
+    "sha256": "73420fdc06730575e08b8a09b5b3824e0f2a9d2dd742640613490ef3abac2bd0"
+  }
+]

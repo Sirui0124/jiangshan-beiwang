@@ -1,0 +1,158 @@
+((function () {
+  try {
+    var e =
+      typeof window < `u`
+        ? window
+        : typeof global < `u`
+          ? global
+          : typeof globalThis < `u`
+            ? globalThis
+            : typeof self < `u`
+              ? self
+              : {};
+    e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+  } catch {}
+})(),
+  (function () {
+    try {
+      var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {};
+      e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+    } catch {}
+  })());
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `0310dca1-ca53-46f9-9125-16fab80d9e6b`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-0310dca1-ca53-46f9-9125-16fab80d9e6b`));
+  })();
+} catch {}
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `1219bc35-584f-4253-97ee-af903c667ee9`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-1219bc35-584f-4253-97ee-af903c667ee9`));
+  })();
+} catch {}
+import "./vendor-CsyOLyP3.js";
+import {
+  E as e,
+  M as t,
+  N as n,
+  T as r,
+  W as i,
+  ht as a,
+  k as o,
+  s,
+  vt as c,
+} from "./vue-B7Je9h0e.js";
+import { t as l } from "./_plugin-vue_export-helper-DVftEge0.js";
+import { t as u } from "./navigation-D0fhxgIL.js";
+import { t as d } from "./BtnWithImg-C29tj1UA.js";
+import { n as f, t as p } from "./关闭高亮-BoZrBZEA.js";
+var m = { class: `about vertical` },
+  h = { class: `nav horizontal` },
+  g = { class: `content-frame` },
+  _ = [`innerHTML`],
+  v = l(
+    n({
+      __name: `License`,
+      emits: [`close`],
+      setup(n, { emit: l }) {
+        let u = l,
+          { t: v } = s(),
+          y = r(
+            () => `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris imperdiet, mauris ut condimentum laoreet, nulla eros fermentum nisi, non hendrerit sapien leo a ligula. Morbi id eros commodo, tincidunt elit sed, viverra magna. Aliquam iaculis nibh quis iaculis molestie. In tincidunt sem mi, at scelerisque augue vulputate viverra. Curabitur nec semper quam. Pellentesque malesuada porttitor magna sit amet varius. Pellentesque lacinia leo eu pellentesque egestas.
+
+Donec sit amet congue odio, eget pharetra nunc. Donec non elit orci. Sed nunc velit, vulputate ac pellentesque at, tempus et nisi. Quisque ut gravida odio. Aenean aliquam dapibus ullamcorper. Pellentesque mollis, lorem ut malesuada venenatis, lacus nulla commodo mi, eget finibus enim enim vitae magna. Etiam ultricies dui ac mi auctor egestas. Sed tortor justo, auctor non nisi vitae, varius lacinia lacus. Donec gravida lectus at urna dapibus tempor. Maecenas laoreet nisi sit amet dolor gravida aliquet. Morbi sit amet ex quis nisl facilisis euismod at ac est. In at lectus at quam interdum blandit eu quis nulla. Aliquam erat volutpat. Aliquam sed nibh urna.
+
+Nulla facilisi. Sed luctus lectus quam, eget consectetur odio dictum porttitor. Nam egestas erat in mattis volutpat. Vivamus efficitur odio ut placerat porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat. Nulla neque ipsum, aliquet eget odio in, egestas egestas magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec tristique vitae justo eget vestibulum.
+
+Etiam mattis eros et purus volutpat blandit. Vestibulum viverra arcu diam, ac hendrerit diam scelerisque faucibus. Suspendisse massa est, iaculis sit amet mollis vel, finibus ac libero. Morbi iaculis elit in auctor tempor. Pellentesque tristique consectetur lorem, nec finibus turpis suscipit in. Cras non sem faucibus, egestas sapien a, mattis justo. Aenean sit amet lectus quis orci suscipit fringilla. Quisque finibus, turpis in dictum vulputate, ex ligula placerat nisi, at iaculis lorem urna quis felis. Donec id sapien placerat, semper ipsum ac, auctor nulla. Etiam sollicitudin tincidunt urna in volutpat.
+
+Vestibulum sit amet interdum ante. Pellentesque convallis tempus neque, eget varius mi convallis ac. Morbi et sapien sed libero ultricies porttitor vitae id nibh. Sed nisl felis, consectetur sed urna eget, maximus dignissim enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum nec posuere leo. Sed non efficitur velit. Nulla feugiat dignissim arcu nec porttitor. Donec pellentesque mi at nisi dapibus convallis. Vestibulum sagittis nisl sed mi efficitur fringilla et eu dui. Proin pellentesque massa sit amet gravida venenatis. Duis congue ipsum at magna maximus, eu condimentum magna eleifend.
+
+Integer ac purus leo. Cras molestie magna sit amet leo suscipit, non viverra neque lacinia. Nam at rhoncus odio, sed ultrices leo. Pellentesque sed justo et dolor luctus congue ac vel lacus. Mauris mattis mauris sit amet purus sagittis elementum. Praesent a dui ultricies, rutrum lectus in, volutpat lacus. Nam fermentum auctor felis, quis vulputate ligula sodales quis. Vestibulum sagittis malesuada purus nec rhoncus. Phasellus vel diam scelerisque, blandit sem sed, aliquam mauris. Proin quis viverra sapien. Proin dapibus urna vitae urna sagittis convallis. Sed lacinia purus vitae eros pulvinar, facilisis semper tellus commodo. Aliquam tempus lorem orci, imperdiet consequat urna tristique dictum. In risus eros, condimentum at rutrum ut, porta ultrices elit.
+
+Proin eu tortor interdum, faucibus ligula non, placerat ex. Morbi sapien risus, sodales non commodo nec, consectetur vitae dolor. Nullam pellentesque justo leo, ut aliquam purus egestas eu. Nunc tempus placerat enim, quis aliquam eros placerat eget. Vivamus ullamcorper velit a sodales imperdiet. Quisque pretium purus arcu, consequat ornare magna molestie at. Sed finibus, leo ut venenatis rutrum, velit justo pretium tellus, in tincidunt leo justo sit amet leo. Vestibulum mollis lacinia pulvinar. Nullam vulputate sem magna, sit amet sollicitudin elit auctor mollis.
+
+Phasellus et malesuada nibh, ut egestas arcu. Cras luctus leo eget pellentesque varius. Nulla pretium nec lorem quis dignissim. Etiam consectetur non metus ut ornare. Sed ornare in ex quis egestas. Quisque tempor, ligula et pharetra pellentesque, ex dui porta neque, quis laoreet mauris sem et sapien. Nulla dignissim lacinia libero eget tempor. Aliquam consequat augue sed congue rutrum. Praesent aliquet iaculis tellus, id pharetra massa dictum nec. Cras vitae auctor diam. Etiam commodo dolor eget nisi elementum elementum.
+
+Nullam turpis tortor, varius ac nibh a, rhoncus viverra turpis. In elementum in ipsum ac dictum. Mauris volutpat urna molestie nulla tempor dictum et et libero. Aliquam et risus velit. Sed vitae elit nec enim hendrerit posuere. Morbi molestie leo ex, eget hendrerit leo ultrices in. Maecenas non ante lorem. Sed accumsan, tortor vitae venenatis ullamcorper, urna orci pulvinar enim, volutpat tristique nulla nibh vitae orci. Nam eleifend, mi nec malesuada commodo, ante diam consectetur sapien, ut sollicitudin ipsum turpis a mauris.
+
+In sit amet volutpat odio. Curabitur arcu nunc, euismod vel leo vitae, fringilla sollicitudin nunc. Sed cursus dignissim justo, vel aliquet massa ornare et. Aliquam tempus leo non nunc consequat, in consequat nunc tempus. In mollis nunc at eleifend posuere. Mauris sit amet sem vitae magna aliquet pulvinar ac at mi. Sed bibendum elit quam, semper pretium odio scelerisque et. Sed vel semper purus. Nulla convallis, sem id suscipit congue, sapien dui blandit odio, quis vestibulum lorem libero at elit.`,
+          );
+        return (n, r) => (
+          i(),
+          o(`div`, m, [
+            e(`div`, h, [
+              e(`h1`, null, c(a(v)(`ui.license`)), 1),
+              (r[1] ||= e(`div`, { class: `separator` }, null, -1)),
+              t(
+                d,
+                {
+                  "normal-src": a(f),
+                  "highlighted-src": a(p),
+                  onClick: (r[0] ||= (e) => u(`close`)),
+                },
+                null,
+                8,
+                [`normal-src`, `highlighted-src`],
+              ),
+            ]),
+            e(`div`, g, [
+              e(`div`, { class: `content`, innerHTML: y.value }, null, 8, _),
+            ]),
+          ])
+        );
+      },
+    }),
+    [[`__scopeId`, `data-v-b3b4901e`]],
+  ),
+  y = { class: `license-view game ui-font` },
+  b = l(
+    n({
+      __name: `LicenseView`,
+      setup(e) {
+        return (e, n) => (
+          i(),
+          o(`div`, y, [t(v, { onClose: a(u) }, null, 8, [`onClose`])])
+        );
+      },
+    }),
+    [[`__scopeId`, `data-v-17ea152d`]],
+  );
+export { b as default };
+//# sourceMappingURL=LicenseView-Biyfq0IW.js.map

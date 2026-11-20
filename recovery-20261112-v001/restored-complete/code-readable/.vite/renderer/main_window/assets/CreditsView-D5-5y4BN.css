@@ -1,0 +1,37 @@
+.about[data-v-d89d27e0] {
+  aspect-ratio: 2762/1440;
+  background-image: url(./Frame92-BNC_mssk.webp);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 100%;
+  margin: auto 0;
+  padding: 5%;
+}
+.about .nav[data-v-d89d27e0] {
+  width: 100%;
+  margin-bottom: 1lh;
+  position: relative;
+}
+.about .nav h1[data-v-d89d27e0] {
+  font-size: 3em;
+}
+.about .nav button[data-v-d89d27e0] {
+  align-self: flex-end;
+}
+.about .content-frame[data-v-d89d27e0] {
+  flex-grow: 1;
+  overflow: hidden;
+  container-type: size;
+}
+.about .content-frame .content[data-v-d89d27e0] {
+  will-change: transform;
+  padding-top: 100cqh;
+  animation: 30s linear infinite scrollingY;
+}
+.credits-view[data-v-e4a61e0f] {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}

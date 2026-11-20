@@ -1,0 +1,71 @@
+((function () {
+  try {
+    var e =
+      typeof window < `u`
+        ? window
+        : typeof global < `u`
+          ? global
+          : typeof globalThis < `u`
+            ? globalThis
+            : typeof self < `u`
+              ? self
+              : {};
+    e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+  } catch {}
+})(),
+  (function () {
+    try {
+      var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {};
+      e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+    } catch {}
+  })());
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `1fa97b51-ce97-4f09-9b5b-782cca0ea8a9`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-1fa97b51-ce97-4f09-9b5b-782cca0ea8a9`));
+  })();
+} catch {}
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `1bd5e90c-8a0a-4a6d-903f-9f4a83c9bf6c`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-1bd5e90c-8a0a-4a6d-903f-9f4a83c9bf6c`));
+  })();
+} catch {}
+var e = `` + new URL(`音效9-ucygo_lK.opus`, import.meta.url).href;
+export { e as default };
+//# sourceMappingURL=音效9-DTg5Es-x.js.map

@@ -1,0 +1,585 @@
+((function () {
+  try {
+    var e =
+      typeof window < `u`
+        ? window
+        : typeof global < `u`
+          ? global
+          : typeof globalThis < `u`
+            ? globalThis
+            : typeof self < `u`
+              ? self
+              : {};
+    e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+  } catch {}
+})(),
+  (function () {
+    try {
+      var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {};
+      e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+    } catch {}
+  })());
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `a672f39e-786b-474f-bd4c-0f77cee3adbb`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-a672f39e-786b-474f-bd4c-0f77cee3adbb`));
+  })();
+} catch {}
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `15aba235-3518-4032-a5ce-141b5f45cc54`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-15aba235-3518-4032-a5ce-141b5f45cc54`));
+  })();
+} catch {}
+import { Vr as e } from "./vendor-CsyOLyP3.js";
+import { X as t, ct as n, lt as r } from "./vue-B7Je9h0e.js";
+import { c as i } from "./navigation-D0fhxgIL.js";
+import { n as a } from "./router-BE9Fjxsm.js";
+var o = class {
+    _p;
+    _resolve = null;
+    _isCancellationRequested = !1;
+    constructor() {
+      this._p = new Promise((e, t) => {
+        this._resolve = e;
+      });
+    }
+    cancel() {
+      ((this._isCancellationRequested = !0), this._resolve?.());
+    }
+    async cancelAfter(e) {
+      (await i(e), this.cancel());
+    }
+    async wait() {
+      await this._p;
+    }
+    get IsCancellationRequested() {
+      return this._isCancellationRequested;
+    }
+  },
+  s = class e {
+    static audioBufferCache = new Map();
+    _src;
+    _context;
+    _audioBufferSourceNode;
+    _offsetSecs;
+    _bufferFulfilled = null;
+    _onEnded = new o();
+    _playing = !1;
+    get playing() {
+      return this._playing;
+    }
+    async play() {
+      this.playing ||
+        (await this._bufferFulfilled,
+        this._audioBufferSourceNode.start(0, this._offsetSecs),
+        (this._playing = !0));
+    }
+    async stop() {
+      this.playing &&
+        (this._audioBufferSourceNode.stop(),
+        (this._playing = !1),
+        this._onEnded.cancel());
+    }
+    async waitEnd() {
+      this.playing && (await this._onEnded.wait(), (this._playing = !1));
+    }
+    _playbackRate = 1;
+    get playbackRate() {
+      return this._playbackRate;
+    }
+    set playbackRate(e) {
+      (this._audioBufferSourceNode.playbackRate.setValueAtTime(
+        e,
+        this._context.currentTime,
+      ),
+        (this._playbackRate = e));
+    }
+    get sourceNode() {
+      return this._audioBufferSourceNode;
+    }
+    constructor(t, n, r = 0, i = !0) {
+      ((this._context = t),
+        (this._offsetSecs = r),
+        (this._src = n),
+        (this._audioBufferSourceNode = t.createBufferSource()),
+        (this._audioBufferSourceNode.loop = i),
+        (this._audioBufferSourceNode.onended = () => {
+          this._onEnded.cancel();
+        }));
+      try {
+        this._audioBufferSourceNode.preservesPitch = !0;
+      } catch (e) {
+        console.warn(`preservesPitch not supported:`, e);
+      }
+      e.audioBufferCache.has(n)
+        ? ((this._audioBufferSourceNode.buffer = e.audioBufferCache.get(n)),
+          (this._bufferFulfilled = Promise.resolve()))
+        : (this._bufferFulfilled = Promise.resolve(fetch(n))
+            .then((e) => e.arrayBuffer())
+            .then((e) => t.decodeAudioData(e))
+            .then((t) => {
+              (e.audioBufferCache.set(n, t),
+                (this._audioBufferSourceNode.buffer = t));
+            }));
+    }
+    async cleanup(t = !1) {
+      try {
+        this.stop();
+      } catch {}
+      (this._audioBufferSourceNode.disconnect(),
+        t && e.audioBufferCache.delete(this._src));
+    }
+  },
+  c = 0.06,
+  l = class {
+    _context;
+    _faderNode;
+    _mute = !1;
+    get mute() {
+      return this._mute;
+    }
+    set mute(e) {
+      ((this._mute = e), this._applyVolume());
+    }
+    _volume = 1;
+    get volume() {
+      return this._volume;
+    }
+    set volume(e) {
+      ((this._volume = e), this._applyVolume());
+    }
+    get _realVolume() {
+      return this.mute ? 0 : this.volume;
+    }
+    _applyVolume() {
+      this._faderNode.gain.linearRampToValueAtTime(
+        this._realVolume,
+        this._context.currentTime + c,
+      );
+    }
+    _inputCount = 0;
+    get inputCount() {
+      return this._inputCount;
+    }
+    set inputCount(e) {
+      this._inputCount = e;
+    }
+    _outputCount = 0;
+    get outputCount() {
+      return this._outputCount;
+    }
+    set outputCount(e) {
+      this._outputCount = e;
+    }
+    constructor(e) {
+      ((this._context = e), (this._faderNode = new GainNode(e)));
+    }
+    chain(e) {
+      this.outputCount += 1;
+      let t = e.addInput(this._faderNode);
+      return () => {
+        (--this.outputCount, t());
+      };
+    }
+    addInput(e) {
+      try {
+        return (
+          e.connect(this._faderNode),
+          (this.inputCount += 1),
+          () => {
+            this.deleteInput(e);
+          }
+        );
+      } catch (e) {
+        return (console.warn(`Error adding input:`, e), () => {});
+      }
+    }
+    deleteInput(e) {
+      try {
+        (e.disconnect(this._faderNode), --this.inputCount);
+      } catch (e) {
+        console.warn(`Error deleting input:`, e);
+      }
+    }
+    addOutput(e) {
+      try {
+        return (
+          this._faderNode.connect(e),
+          (this.outputCount += 1),
+          () => {
+            this.deleteOutput(e);
+          }
+        );
+      } catch (e) {
+        return (console.warn(`Error adding output:`, e), () => {});
+      }
+    }
+    deleteOutput(e) {
+      try {
+        this._faderNode.disconnect(e);
+      } catch (e) {
+        console.warn(`Error deleting output:`, e);
+      }
+      --this.outputCount;
+    }
+    async fadeOut(e = 0, t = c) {
+      (this._faderNode.gain.cancelScheduledValues(this._context.currentTime),
+        this._faderNode.gain.linearRampToValueAtTime(
+          e,
+          this._context.currentTime + t,
+        ),
+        await i(t * 1e3));
+    }
+    async fadeIn(e = c) {
+      (this._faderNode.gain.cancelScheduledValues(this._context.currentTime),
+        this._faderNode.gain.linearRampToValueAtTime(
+          this._realVolume,
+          this._context.currentTime + e,
+        ),
+        await i(e * 1e3));
+    }
+  },
+  u = `` + new URL(`chapter012_bgm-BnsFG9jX.opus`, import.meta.url).href,
+  d = `` + new URL(`chapter345_bgm-CVqRvSPo.opus`, import.meta.url).href,
+  f = `` + new URL(`chapter67_bgm-h12lbNTF.opus`, import.meta.url).href,
+  p = `` + new URL(`chapter_select_bgm-BLI4bI1s.opus`, import.meta.url).href,
+  m = `` + new URL(`main_bgm-DBLvEV7G.opus`, import.meta.url).href,
+  h = `` + new URL(`portfolios_bgm-BnmxMgSU.opus`, import.meta.url).href;
+const g = [1, 1.5, 2];
+var _ = 0.05,
+  v = {
+    be界面音效: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./be界面音效-C2J-Skue.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    esc: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./esc-A6BI7W62.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    音效1: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./音效1-Dd9k5GsH.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    音效2: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./音效2-DnJC9Lcf.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    音效3: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./音效3-DSEtZLTq.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    音效4: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./音效4-HeKtQCb4.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    音效7: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./音效7-DEsmZjfa.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    音效9: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./音效9-DTg5Es-x.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    音效11: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./音效11-DNvwl2fl.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    音效12: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./音效12-CEOC0LWT.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    选项飞入声音: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./选项飞入声音-B6bdbP-4.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    选项飞出声音: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./选项飞出声音-DO1JxwTl.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+    好感度音效: (
+      await a(
+        async () => {
+          let { default: e } = await import(`./好感度音效-CRUjmis2.js`);
+          return { default: e };
+        },
+        [],
+        import.meta.url,
+      )
+    ).default,
+  },
+  y = {
+    "/src/assets/bgm/chapter012_bgm.opus": u,
+    "/src/assets/bgm/chapter345_bgm.opus": d,
+    "/src/assets/bgm/chapter67_bgm.opus": f,
+    "/src/assets/bgm/chapter_select_bgm.opus": p,
+    "/src/assets/bgm/main_bgm.opus": m,
+    "/src/assets/bgm/portfolios_bgm.opus": h,
+  };
+const b = e(
+  `media`,
+  () => {
+    let e = new AudioContext();
+    e.resume();
+    let i = new l(e);
+    i.addOutput(e.destination);
+    let a = n(1);
+    t(
+      a,
+      (e) => {
+        i.volume = e;
+      },
+      { immediate: !0 },
+    );
+    let o = new l(e);
+    o.chain(i);
+    let c = new l(e);
+    c.chain(i);
+    let u = (t) => {
+        let n = e.createMediaElementSource(t);
+        return o.addInput(n);
+      },
+      d = n(1),
+      f = async () => {
+        d.value = g[(g.indexOf(d.value) + 1) % g.length];
+      },
+      p = async () => {
+        await Promise.allSettled([o.fadeIn(), c.fadeIn()]);
+      },
+      m = async () => {
+        await Promise.allSettled([o.fadeOut(), c.fadeOut()]);
+      },
+      h = n(1);
+    t(
+      h,
+      (e) => {
+        ((o.volume = e), (c.volume = e));
+      },
+      { immediate: !0 },
+    );
+    let b = new l(e);
+    b.chain(i);
+    let x = n(1),
+      S = async (t) => {
+        if (!t) return;
+        let n = v[t],
+          r = new s(e, n, 0, !1);
+        (b.addInput(r.sourceNode),
+          await r.play(),
+          await r.waitEnd(),
+          await r.cleanup());
+      },
+      C = new l(e);
+    (C.chain(i),
+      t(
+        x,
+        (e) => {
+          ((b.volume = e), (C.volume = e));
+        },
+        { immediate: !0 },
+      ));
+    let w = async (t) => {
+        if (!t) return;
+        let n = v[t],
+          r = new s(e, n, 0, !1);
+        (C.addInput(r.sourceNode),
+          await r.play(),
+          await r.waitEnd(),
+          await r.cleanup());
+      },
+      T = new l(e);
+    T.chain(i);
+    let E = new l(e);
+    E.chain(i);
+    let D = n(2),
+      O = n(null),
+      k = n(null),
+      A = n(0),
+      j = async (e, t) => {
+        (await e.fadeOut(0, _), await t?.cleanup(), await e.fadeIn());
+      },
+      M = async (e, t) => {
+        (await e.addInput(t.sourceNode), await t?.play(), await e.fadeIn());
+      },
+      N = async (t, n = 0, r = !1) => {
+        let i = t ? y[t] : null;
+        if (!r && k.value === i && A.value == n) return;
+        let a = null;
+        if (O.value) {
+          let e = O.value;
+          a = D.value === 1 ? j(T, e) : j(E, e);
+        }
+        if (((D.value = 3 - D.value), !i)) {
+          ((k.value = null), (A.value = 0), (O.value = null));
+          return;
+        }
+        ((k.value = i),
+          (A.value = n),
+          (O.value = new s(e, i, n)),
+          D.value === 1 ? await M(T, O.value) : await M(E, O.value),
+          a && (await a));
+      },
+      P = (e) => {
+        e &&
+          e.beforeEach((e) => {
+            let t = e.meta.backgroundAudio;
+            t && N(t.id, t.offsetSecs, t.forceRestart);
+          });
+      },
+      F = n(0.5);
+    return (
+      t(
+        F,
+        (e) => {
+          ((T.volume = e), (E.volume = e));
+        },
+        { immediate: !0 },
+      ),
+      {
+        audioContext: e,
+        masterChannel: i,
+        masterVolume: a,
+        playerChannel: o,
+        playerAudioChannel: c,
+        addVideoSourceNode: u,
+        playbackRate: d,
+        nextPlaybackRate: f,
+        fadeInPlayerChannels: p,
+        fadeOutPlayerChannels: m,
+        playerVolume: h,
+        uiEffectChannel1: b,
+        setUiEffectAudio1: S,
+        uiEffectChannel2: C,
+        setUiEffectAudio2: w,
+        uiEffectVolume: x,
+        uiBackgroundMusicChannel1: T,
+        uiBackgroundMusicChannel2: E,
+        setUiBackgroundAudio: N,
+        hookVueRouter: P,
+        uiBackgroundMusicVolume: F,
+        videoPlaybackProgress: r({ videoId: `` }),
+      }
+    );
+  },
+  {
+    persist: {
+      pick: [
+        `masterVolume`,
+        `playerVolume`,
+        `uiEffectVolume`,
+        `uiBackgroundMusicVolume`,
+        `playbackRate`,
+        `videoPlaybackProgress`,
+      ],
+    },
+  },
+);
+export { b as n, s as r, g as t };
+//# sourceMappingURL=media-CGyxac_o.js.map

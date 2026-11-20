@@ -1,0 +1,57 @@
+(function () {
+  try {
+    var e =
+      typeof window < `u`
+        ? window
+        : typeof global < `u`
+          ? global
+          : typeof globalThis < `u`
+            ? globalThis
+            : typeof self < `u`
+              ? self
+              : {};
+    e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+  } catch {}
+})();
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `68083d62-52d6-47ad-b18a-e6358e0696f0`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-68083d62-52d6-47ad-b18a-e6358e0696f0`));
+  })();
+} catch {}
+let e = require(`electron`);
+e.contextBridge.exposeInMainWorld(`ipc`, {
+  captureBrowserWindow: () => e.ipcRenderer.invoke(`captureBrowserWindow`),
+  readEnvironment: () => e.ipcRenderer.invoke(`read-environment`),
+  ui: {
+    getName: () => e.ipcRenderer.invoke(`get-name`),
+    getVersion: () => e.ipcRenderer.invoke(`get-version`),
+    openExternal: (t) => e.ipcRenderer.invoke(`openExternal`, t),
+    closeWindow: () => e.ipcRenderer.invoke(`close-window`),
+    hideWindow: () => e.ipcRenderer.invoke(`hide-window`),
+    signalReady: () => e.ipcRenderer.invoke(`signal-ready`),
+    localeGetPreferences: () => e.ipcRenderer.invoke(`locale-get-preferences`),
+  },
+  steam: {
+    getAuthTicketForWebApi: () =>
+      e.ipcRenderer.invoke(`steam-get-auth-ticket-for-web-api`),
+    achievementIsActivated: (t) =>
+      e.ipcRenderer.invoke(`steam-achievement-is-activated`, t),
+    activateAchievement: (t) =>
+      e.ipcRenderer.invoke(`steam-activate-achievement`, t),
+  },
+});
+//# sourceMappingURL=preload.js.map

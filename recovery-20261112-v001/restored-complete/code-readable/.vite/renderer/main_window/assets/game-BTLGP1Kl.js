@@ -1,0 +1,613 @@
+((function () {
+  try {
+    var e =
+      typeof window < `u`
+        ? window
+        : typeof global < `u`
+          ? global
+          : typeof globalThis < `u`
+            ? globalThis
+            : typeof self < `u`
+              ? self
+              : {};
+    e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+  } catch {}
+})(),
+  (function () {
+    try {
+      var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {};
+      e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+    } catch {}
+  })());
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `a498c5d5-3ec9-4d9f-a37a-313e73164871`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-a498c5d5-3ec9-4d9f-a37a-313e73164871`));
+  })();
+} catch {}
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `fd92fbb7-1b3a-4055-ae52-1f85bf081c0b`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-fd92fbb7-1b3a-4055-ae52-1f85bf081c0b`));
+  })();
+} catch {}
+import { Vr as e, di as t, li as n } from "./vendor-CsyOLyP3.js";
+import {
+  T as r,
+  X as i,
+  ct as a,
+  dt as o,
+  ot as s,
+  ut as c,
+} from "./vue-B7Je9h0e.js";
+import {
+  b as l,
+  f as u,
+  g as d,
+  l as f,
+  m as p,
+  v as m,
+  x as h,
+  y as g,
+} from "./navigation-D0fhxgIL.js";
+import { n as _ } from "./router-BE9Fjxsm.js";
+const v = e(`user`, () => {
+  let e = d(),
+    o = a(null),
+    s = r(() => o.value !== null);
+  i(o, async (e, r) => {
+    e !== r &&
+      (e
+        ? (t({ id: e.track_id }),
+          n(`steam`, e.third_party.steam),
+          f(e.track_id),
+          u(e.track_id, { steam: e.third_party.steam }))
+        : (t(null), p()));
+  });
+  let c = async () => {
+      let t = await e.api.sessions.getCurrentSession();
+      t && (o.value = t);
+    },
+    l = async () => {
+      let t = await e.hal.steamGetAuthTicketForWebApi();
+      if (!t) throw Error(`Failed to get Steam auth ticket`);
+      let n = await e.api.sessions.createBySteam(t);
+      if (!n) throw Error(`Failed to create session by Steam`);
+      o.value = n;
+    };
+  async function m(e = !1) {
+    if (e) {
+      await h();
+      return;
+    }
+    let t = !1;
+    try {
+      c();
+    } catch (e) {
+      e &&
+        typeof e == `object` &&
+        `status` in e &&
+        e.status === 401 &&
+        (t = !0);
+    }
+    ((t ||= !o.value), t && (await h()));
+  }
+  async function h() {
+    if (
+      ((o.value = null),
+      {
+        id: `production`,
+        server: {
+          api_base_url: `https://prod.beifa.shyingyou.cn`,
+          auth: { steam: { identity: `production` } },
+        },
+        sentry: {
+          DSN: `https://cf9f4cb5025dda2786ab5f0f8183473c@o4505193156902912.ingest.us.sentry.io/4509638738313216`,
+          HTTP_REPORT_ENDPOINT: `https://o4505193156902912.ingest.us.sentry.io/api/4509638738313216/security/?sentry_key=cf9f4cb5025dda2786ab5f0f8183473c`,
+          tracePropagationTargets: [`shyingyou.cn`],
+        },
+        mixpanel: { token: `42ba1da4c332834d2313c0c92fa9fc57` },
+      }.server.auth.steam !== void 0)
+    )
+      try {
+        await l();
+      } catch (e) {
+        console.warn(`Steam login failed`, e);
+      }
+    if (!o.value && !o.value) throw Error(`All login methods failed`);
+  }
+  return { user: o, hasValidCredential: s, login: m };
+});
+var y = (
+  await _(
+    async () => {
+      let { default: e } = await import(`./chapter_endings-BM1InKwm.js`);
+      return { default: e };
+    },
+    [],
+    import.meta.url,
+  )
+).default;
+const b = (e) => y.includes(l(e));
+var x = (
+  await _(
+    async () => {
+      let { default: e } = await import(`./endings-89BoC0Bj.js`);
+      return { default: e };
+    },
+    [],
+    import.meta.url,
+  )
+).default;
+const S = (e) => x[l(e)] || null;
+var C = (
+    await _(
+      async () => {
+        let { default: e } = await import(`./videos-CYDeOwst.js`);
+        return { default: e };
+      },
+      [],
+      import.meta.url,
+    )
+  ).default,
+  w = (
+    await _(
+      async () => {
+        let { default: e } = await import(
+          `./videos_with_value_changes-19KMUzpO.js`
+        );
+        return { default: e };
+      },
+      [],
+      import.meta.url,
+    )
+  ).default.map((e) => h(e));
+(C.data.storylets.map((e) => e.id),
+  C.data.storylets.map((e) => e.videos).flat());
+const T = (e) => C.data.storylets.find((t) => t.id === l(e))?.videos,
+  E = (e) => C.data.storylets.find((t) => t.videos.includes(h(e)))?.id,
+  D = [...Array(8).keys()].map((e) =>
+    C.data.storylets.filter((t) => m(t.id) === e).flatMap((e) => e.videos),
+  ),
+  O = [...Array(8).keys()].map((e) =>
+    C.data.storylets.filter((t) => m(t.id) === e).map((e) => e.id),
+  ),
+  k = (e) => w.includes(h(e)),
+  A = (
+    await _(
+      async () => {
+        let { default: e } = await import(
+          `./leisure_mode_playlist-DywO5UEO.js`
+        );
+        return { default: e };
+      },
+      [],
+      import.meta.url,
+    )
+  ).default.map((e) => e.map((e) => h(e)));
+`a01_a077_aqte2loop.a02_a034_aqte1loop.a02_a036_aqte2.a02_a041_a027qte3.a02_a044_a030qte4.a02_a047_aqte5.a03_a002_aqte1loop.a03_a024_aqte2.a03_a090_aqte3loop.a04_a039_a_aqte5loop.a04_a022_a005.a04_a025_a005b032033034035.a04_a027_aqte1.a04_a030_aqte2.a04_a041_aqte3.a04_a033_aqte3.a05_a014_aqte5loop.a05_a054_aqte2.a05_a094_a021loop.a06_a037_aqte1loop.a06_a027_a006c014qte2.a07_a017_aqte1loop.a07_a037_aqte2loop.07_070_QTE3LOOP.a06_a062_a030.a06_a065_a014b`
+  .split(`.`)
+  .map((e) => h(e));
+const j = (e) => Math.random() <= e,
+  M = (e, t, n) => Math.max(t, Math.min(n, e));
+var N = (e, t) => {
+    if (e === t) return !0;
+    if (typeof e != `object` || typeof t != `object`) return !1;
+    let n = Object.keys(e),
+      r = Object.keys(t);
+    if (n.length !== r.length) return !1;
+    for (let i of n) if (!r.includes(i) || !N(e[i], t[i])) return !1;
+    return !0;
+  },
+  P = (e, t) => {
+    if (!e || !t || e.length !== t.length) return !1;
+    for (let n = 0; n < e.length; n++)
+      if (Array.isArray(e[n]) && Array.isArray(t[n])) {
+        if (!P(e[n], t[n])) return !1;
+      } else return N(e[n], t[n]);
+    return !0;
+  };
+const F = e(
+  `game`,
+  () => {
+    let e = (...e) => {
+        console.error(`[BUG]`, ...e);
+      },
+      t = d(),
+      n = v(),
+      i = async () => {
+        ((C.value = null),
+          (w.value = null),
+          (k.length = 0),
+          (A.value = -1),
+          (z.value = []),
+          (H.value = 0));
+      },
+      u = a(!1),
+      f = r(() => u.value),
+      p = (e) => {
+        u.value = e;
+      },
+      g = a(0),
+      _ = r(() => g.value > 0),
+      y = async (t) => (
+        (g.value += 1),
+        t.finally(() => {
+          (--g.value,
+            g.value < 0 &&
+              (e(`Inflight requests count went negative`, g.value),
+              (g.value = 0)));
+        }),
+        await t
+      ),
+      x = r(() => _.value || !f.value || !n.hasValidCredential),
+      C = a(null),
+      w = a(null),
+      k = s([]),
+      A = a(-1),
+      N = r(() => (w.value ? Math.min(m(w.value), 7) : 0)),
+      F = r(() => C.value?.visited_storylets || []),
+      I = r(() => C.value?.selected_actions || []),
+      L = r(() => C.value?.visited_storylets.map((e) => T(e)).flat() || []),
+      R = r(
+        () =>
+          C.value?.timeline.lines
+            .filter((e) => e[0] === `play_video`)
+            .map((e) => e[1]) || [],
+      ),
+      z = c([]),
+      B = (e) => {
+        z.value.includes(e) || (z.value = [...z.value, e]);
+      },
+      V = r(() => z.value),
+      H = a(0),
+      U = r(() =>
+        [...Array(8).keys()].map(
+          (e) => L.value.some((t) => t && m(t) === e) && 7 >= e,
+        ),
+      ),
+      W = r(() =>
+        O.map((e) => {
+          let t = F.value.filter((t) => e.includes(t)).length;
+          return M(t / e.length, 0, 1);
+        }),
+      ),
+      G = r(() => D.map((e) => e.filter((e) => !L.value.includes(e)))),
+      K = r(() =>
+        [...Array(8).keys()].map(
+          (e) =>
+            C.value?.timeline.lines.findLast(
+              (t) => t[0] === `play_video` && m(t[1]) === e,
+            )?.[1] || null,
+        ),
+      ),
+      q = r(() => {
+        let e = [{}, {}, {}, {}, {}, {}, {}, {}],
+          t = -1;
+        for (let n of C.value?.timeline.lines || [])
+          (n[0] === `storylet_start` && (t = m(n[1])),
+            !(n[0] !== `value_changed` || n.length < 3) &&
+              (e[t] === void 0 && (e[t] = {}),
+              e[t][n[1]] === void 0 && (e[t][n[1]] = 0),
+              (e[t][n[1]] += n[2])));
+        return e;
+      }),
+      J = async (t, n = null, r = null) => {
+        let i = C.value;
+        o(i);
+        let a = [],
+          s = [];
+        if (!i) s.push(...t.timeline.lines);
+        else {
+          for (let e = 0; e < i.timeline.lines.length; ++e)
+            if (!P(i.timeline.lines[e], t.timeline.lines[e])) {
+              a.push(...i.timeline.lines.slice(e));
+              break;
+            }
+          for (let e = 0; e < t.timeline.lines.length; ++e)
+            if (!P(i.timeline.lines[e], t.timeline.lines[e])) {
+              s.push(...t.timeline.lines.slice(e));
+              break;
+            }
+        }
+        o(a);
+        let c = !1;
+        n ? (w.value = n) : (c = !0);
+        let l = s.slice();
+        ((a.length > 0 || s.length === 0) &&
+          ((k.length = 0), (l = t.timeline.lines.slice())),
+          w.value);
+        let u = ``;
+        for (let t = 0; t < l.length; ++t)
+          switch (l[t][0]) {
+            case `actions`:
+            case `assigns_badge`:
+            case `assigns_state`:
+            case `value_changed`:
+              break;
+            case `storylet_start`:
+            case `storylet_end`:
+              ((u = l[t][1]), u === w.value && (c = !0));
+              break;
+            case `play_video`:
+              if (!c) break;
+              let n = l[t][1],
+                r = [],
+                i = S(n);
+              if (i)
+                r.push({
+                  type: `ending`,
+                  actions: [{ prompt: i, index: m(n), key: `unknown` }],
+                });
+              else if (b(n)) {
+                let e = m(n);
+                r.push({
+                  type: `animation`,
+                  actions: [
+                    { prompt: `chapter_end`, index: e, key: `unknown` },
+                  ],
+                });
+              }
+              k.push({ storyletId: u, videoId: n, loop: !1, actionGroups: r });
+              break;
+            case `ffi`:
+              if (!c) break;
+              let a = l[t][1];
+              if (!a) {
+                e(`Missing ffiType`, l[t]);
+                break;
+              }
+              switch (a) {
+                case `qte_continue`:
+                  ((k[k.length - 1].loop = !0),
+                    k[k.length - 1].actionGroups.push({
+                      type: `qte`,
+                      id:
+                        l[t][2].filter((e) => e.identifier === `qte_name`)[0]
+                          ?.value_string || ``,
+                      actions: [],
+                    }));
+                  break;
+              }
+              break;
+            default:
+              l[t];
+          }
+        if (
+          (t.timeline.actions,
+          t.timeline.actions.length > 0 && t.timeline.actions[0][0] === `ffi`)
+        )
+          switch (t.timeline.actions[0][1]) {
+            case `possibility_trigger`:
+              (j(0.2)
+                ? Q(`success`, t.timeline.actions)
+                : Q(`failure`, t.timeline.actions),
+                (t.timeline.actions = []));
+              break;
+            case `count_trigger`:
+              ((H.value += 1),
+                H.value >= 3
+                  ? Q(`enough`, t.timeline.actions)
+                  : Q(`not_enough`, t.timeline.actions),
+                (t.timeline.actions = []));
+              break;
+            case `qte_slide`:
+            case `qte_trigger`:
+              let n = k[k.length - 1].videoId;
+              ((k[k.length - 1].loop = n.toLowerCase().includes(`loop`)),
+                k[k.length - 1].actionGroups.push({
+                  type: `qte`,
+                  id: n,
+                  qteType: t.timeline.actions[0][1],
+                  actions: t.timeline.actions.map((e, t) => ({
+                    prompt: e[3],
+                    index: t,
+                    key: e[2],
+                  })),
+                }),
+                (t.timeline.actions = []));
+              break;
+            case `qte_continue`:
+            default:
+              e(`Unknown FFI action`, t.timeline.actions);
+          }
+        if (t.timeline.actions.length > 0) {
+          if (k.length === 0) {
+            (e(`New actions but no new videos, force continuing`, o(t)), Q(0));
+            return;
+          }
+          let n = {
+              type: `ui_button`,
+              actions: t.timeline.actions
+                .filter((e) => e[0] === `ui_button`)
+                .map((e, t) => ({ prompt: e[1], index: t, key: e[2] })),
+            },
+            r = t.timeline.actions.findIndex(
+              (e) => e[0] === `time_limit_choose`,
+            );
+          (r === -1
+            ? (k[k.length - 1].loop = !0)
+            : (n.timeLimitedActionIndex = r),
+            k[k.length - 1].actionGroups.push(n));
+        }
+        if (r) {
+          let t = -1;
+          for (let e = 0; e < k.length; ++e)
+            if (k[e].videoId === r) {
+              t = e;
+              break;
+            }
+          (t > 0 && (o(k), k.splice(0, t)),
+            t === -1 && e(`Video not found in current storylet`, n, r));
+        }
+        for (let e = 0; e < k.length; e++)
+          if (m(k[e].videoId) > 7) {
+            k.splice(e);
+            break;
+          }
+        (o(k), (C.value = t));
+      },
+      Y = async () => {
+        (await Promise.all([y(t.api.saves.create()), i()]), await X());
+      },
+      X = async () => {
+        let e = await y(t.api.saves.list()),
+          n = -1;
+        n = e.length === 0 ? (await y(t.api.saves.create())).id : e[0].id;
+        let r = await y(t.api.saves.load(n));
+        w.value =
+          r.timeline.lines.findLast((e) => e[0].startsWith(`storylet_`))?.[1] ||
+          null;
+        for (let e of r.visited_storylets) {
+          let t = T(e);
+          if (t) for (let e of t) B(e);
+        }
+        await J(r, w.value);
+        let i =
+          r.timeline.lines.findLast((e) =>
+            e[0].startsWith(`play_video`),
+          )?.[1] || null;
+        if (
+          i &&
+          (
+            r.timeline.lines.filter(
+              (e) => e[0].startsWith(`play_video`) && e[1] === i,
+            ) || []
+          ).length > 1
+        ) {
+          (console.warn(
+            `last video is a loop and is found multiple times in the timeline, rewinding`,
+            i,
+          ),
+            await $(i));
+          return;
+        }
+      },
+      Z = async () => {
+        C.value || (await X());
+      },
+      Q = async (n, r) => {
+        if (C.value === null) {
+          e(`commitSaveAction: currentSave is null`, n);
+          return;
+        }
+        if (typeof n == `string` && !r) {
+          e(`commitSaveAction: actions is null`, r, n);
+          return;
+        }
+        (typeof n == `string` &&
+          ((n = r.findIndex((e) => e[3] === n)),
+          n === -1 &&
+            (e(`commitSaveAction: actionId not found`, n, r), (n = 0))),
+          (n < 0 || (r && n >= r.length)) &&
+            (e(`commitSaveAction: actionId out of range`, n, r), (n = 0)),
+          await J(await y(t.api.saves.act(C.value.id, n)), null));
+      },
+      $ = async (e) => {
+        let n = l(e),
+          r = T(e)?.[0];
+        if ((r || ((r = h(e)), (n = E(r))), !n || !r)) {
+          console.error(`Invalid rewind id`, e, n, r);
+          return;
+        }
+        await J(await y(t.api.saves.jump(C.value.id, n)), n, r);
+      };
+    return {
+      connected: f,
+      setConnected: p,
+      inflight: _,
+      loading: x,
+      currentSave: C,
+      visitedStorylets: F,
+      selectedActions: I,
+      rewindableVideos: L,
+      videosOnCurrentTimeline: R,
+      currentChapterId: N,
+      fullyWatchedVideos: z,
+      chapterUnlocked: U,
+      chapterProgress: W,
+      unplayedVideosPerChapter: G,
+      chapterCurrentVideo: K,
+      values: q,
+      setVideoWatched: B,
+      watchedVideos: V,
+      forceNewSave: Y,
+      fullSyncSave: X,
+      speculativeSyncSave: Z,
+      commitSaveAction: Q,
+      rewindSave: $,
+      copySave: async (n) => {
+        let r = await y(t.api.saves.copy(n));
+        (await i(),
+          r.id === n
+            ? (e(`Copy API returning the original game ID`, n), await X())
+            : await J(r, null));
+      },
+      currentStoryletId: w,
+      playerInstructions: k,
+      currentPlayerInstructionId: A,
+      currentVideoId: r(() =>
+        A.value === -1 ? null : k[A.value]?.videoId || null,
+      ),
+      startVideo: async () => {
+        if (k.length === 0) {
+          let e =
+            C.value?.timeline.lines.findLast((e) =>
+              e[0].startsWith(`play_video`),
+            )?.[1] || null;
+          e && (await $(e));
+        }
+        A.value === -1 &&
+          k.length > 0 &&
+          ((A.value = 0), (w.value = k[0]?.storyletId || null));
+      },
+      progressVideo: async () => {
+        (k.length === 0 &&
+          (e(`progressVideo: No more video instructions`), (A.value = -1)),
+          A.value < 0 ? (A.value = 0) : ((A.value = 0), k.shift()),
+          (w.value = k[0]?.storyletId || null),
+          o(k),
+          k.length === 0 && (A.value = -1));
+      },
+      isNewGame: r(() => !C.value || w.value === `a00_a001_a001`),
+    };
+  },
+  { persist: { pick: [`气运之子`] } },
+);
+export { A as a, k as i, E as n, S as o, T as r, v as s, F as t };
+//# sourceMappingURL=game-BTLGP1Kl.js.map

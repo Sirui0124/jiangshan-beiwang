@@ -1,0 +1,31 @@
+.about[data-v-b3b4901e] {
+  aspect-ratio: 2762/1440;
+  background-image: url(./Frame92-BNC_mssk.webp);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 100%;
+  margin: auto 0;
+  padding: 5%;
+}
+.about .nav[data-v-b3b4901e] {
+  width: 100%;
+  margin-bottom: 1lh;
+  position: relative;
+}
+.about .nav h1[data-v-b3b4901e] {
+  font-size: 3em;
+}
+.about .nav button[data-v-b3b4901e] {
+  align-self: flex-end;
+}
+.about .content-frame[data-v-b3b4901e] {
+  flex-grow: 1;
+  overflow-y: scroll;
+}
+.license-view[data-v-17ea152d] {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}

@@ -1,0 +1,28 @@
+{
+  "app_sha256": "ff4ddd3f672f7ff76e98d0f9ea4fb56721778c137534834dd6ad7bcbdb61f7e7",
+  "pack_sha256": {
+    "chapter0_zh_cmn_Hans.pack": "b12b88f695eb6d3f39934ce1b50fc0ecbe62e36a547a53aeca4f9ebd2be7ac3a",
+    "chapter1_zh_cmn_Hans.pack": "904f796675883134776741a2444a83e1f1b846233d5d4f8595bee3adaeb16dd8",
+    "chapter2_zh_cmn_Hans.pack": "8d31d6e1f4ed696736d9ec22a4b86c6f446ca7321f098358b42e9d89084ac8e4",
+    "chapter3_zh_cmn_Hans.pack": "0044adce8db85d067b42a6d38b05f76599c04ce6eb4beb19ae870c5933197551",
+    "chapter4_zh_cmn_Hans.pack": "5cb63abd05758d62e95a69188bcf042221e85ec29cd63500f99c3294c0cd8fa4",
+    "chapter5_zh_cmn_Hans.pack": "e95c5bd7d7963658e91e99dbbe197ebe15153fce4d5309ec001bf8635dd91d9c",
+    "chapter6_zh_cmn_Hans.pack": "5dae3424cb2475d1eb466b37def68d59fe266cc3185616f9e63e74d010caaa24",
+    "chapter7_zh_cmn_Hans.pack": "ae252a672cdec2c8ceaa1b8a88475446369e10fdd4dfcdf91e0202d9843cc7be"
+  },
+  "code_and_diagram_files": 106,
+  "subtitle_files": 615,
+  "subtitle_cues": 9852,
+  "graph_nodes": 615,
+  "edges": 770,
+  "endings": 59,
+  "markdown_nodes": 617,
+  "graph_nodes_without_subtitles": [
+    "01_053_012A_HE",
+    "02_061_010LOOP_2"
+  ],
+  "subtitles_outside_graph": [
+    "02_032_007A021cc",
+    "05_013_003B"
+  ]
+}

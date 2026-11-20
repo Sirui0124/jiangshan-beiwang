@@ -1,0 +1,96 @@
+((function () {
+  try {
+    var e =
+      typeof window < `u`
+        ? window
+        : typeof global < `u`
+          ? global
+          : typeof globalThis < `u`
+            ? globalThis
+            : typeof self < `u`
+              ? self
+              : {};
+    e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+  } catch {}
+})(),
+  (function () {
+    try {
+      var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {};
+      e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+    } catch {}
+  })());
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `e6b4c0c9-6c14-4895-b8ce-142faab0bce8`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-e6b4c0c9-6c14-4895-b8ce-142faab0bce8`));
+  })();
+} catch {}
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `db17d97c-b394-47fc-9d03-824c3718448f`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-db17d97c-b394-47fc-9d03-824c3718448f`));
+  })();
+} catch {}
+import { Vr as e } from "./vendor-CsyOLyP3.js";
+import { T as t, lt as n } from "./vue-B7Je9h0e.js";
+import { g as r } from "./navigation-D0fhxgIL.js";
+const i =
+    `大风起.大争之世.圣心难测.足智多谋.雨打萍.天命所归.硬骨头.勇于直言.蛟入海.礼重情也重.武道高人.潜龙入海.体面.拭锋刀.将计就计.宣舞帝.破山缺.捧哏大师.人心凉薄.奋死.破而后生.问天命.有所为，有所不为.南北之间.宣炀帝.应天受命.太平志.宣幽帝.宣纵帝.疑人不用.宣废帝.宣殇帝.隆武变法.浔阳出塞.雨露均沾.九州同.宣怀帝.宣哀帝.宣康帝.宣庄帝.宣明帝.宣景帝.宣成帝.宣文帝.宣光武帝.宣昭帝.燕难归.千帆过尽`.split(
+      `.`,
+    ),
+  a = e(`achievements`, () => {
+    let e = r(),
+      a = n({});
+    return {
+      achievements: t(() => a),
+      refreshAchievements: async () => {
+        for (let t of i)
+          if (!a[t])
+            try {
+              a[t] = await e.hal.achievementIsActivated(t);
+            } catch (e) {
+              console.error(`Failed to refresh achievement ${t}:`, e);
+            }
+      },
+      activateAchievement: async (t) => {
+        await e.hal.activateAchievement(t);
+      },
+    };
+  });
+export { a as t };
+//# sourceMappingURL=achievements-q4KXDuPO.js.map

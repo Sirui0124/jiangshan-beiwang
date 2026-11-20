@@ -1,0 +1,83 @@
+((function () {
+  try {
+    var e =
+      typeof window < `u`
+        ? window
+        : typeof global < `u`
+          ? global
+          : typeof globalThis < `u`
+            ? globalThis
+            : typeof self < `u`
+              ? self
+              : {};
+    e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+  } catch {}
+})(),
+  (function () {
+    try {
+      var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {};
+      e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+    } catch {}
+  })());
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `d20b2d7f-2076-45a3-a9c8-177fb99a4997`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-d20b2d7f-2076-45a3-a9c8-177fb99a4997`));
+  })();
+} catch {}
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `6c283a3b-390c-4cf1-bc8c-0dde73e55cf9`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-6c283a3b-390c-4cf1-bc8c-0dde73e55cf9`));
+  })();
+} catch {}
+import { M as e, N as t, W as n, k as r } from "./vue-B7Je9h0e.js";
+import { t as i } from "./_plugin-vue_export-helper-DVftEge0.js";
+import { t as a } from "./LoadingAnimation-CDiD_LAm.js";
+var o = { class: `game ui-font loading vertical` },
+  s = i(
+    t({
+      __name: `LoadingView`,
+      setup(t) {
+        return (t, i) => (n(), r(`div`, o, [e(a)]));
+      },
+    }),
+    [[`__scopeId`, `data-v-cdc1a527`]],
+  );
+export { s as t };
+//# sourceMappingURL=LoadingView-BefVSSge.js.map

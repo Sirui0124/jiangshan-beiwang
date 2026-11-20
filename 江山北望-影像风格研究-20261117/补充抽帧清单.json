@@ -1,0 +1,633 @@
+[
+  {
+    "id": "07_052_069",
+    "pack": "D:\\SteamLibrary\\steamapps\\common\\江山北望\\chapter7_neutral.pack",
+    "entry": "videos/07_052_069.mp4",
+    "mp4": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\候选原片\\07_052_069.mp4",
+    "sha256": "fcff04bfaae7859ca2f334b3b5c07865b94ce6582cb1b3a86d5b4716e499c18c",
+    "duration": 15.52,
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_time_base": "1/50",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1088,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 51,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 198656,
+        "duration": "15.520000",
+        "bit_rate": "11866057",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "388",
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "Apple Video Media Handler",
+          "encoder": "Lavc62.11.100 libx264",
+          "timecode": "00:00:00:00"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_time_base": "1/48000",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 744960,
+        "duration": "15.520000",
+        "bit_rate": "306532",
+        "max_bit_rate": "320000",
+        "nb_frames": "729",
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "Apple Sound Media Handler"
+        }
+      },
+      {
+        "index": 2,
+        "codec_type": "data",
+        "codec_tag_string": "tmcd",
+        "codec_tag": "0x64636d74",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 198656,
+        "duration": "15.520000",
+        "bit_rate": "2",
+        "nb_frames": "1",
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "Apple Video Media Handler",
+          "timecode": "00:00:00:00"
+        }
+      }
+    ],
+    "frames": [
+      {
+        "time": 0.339,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0000.339.jpg"
+      },
+      {
+        "time": 1.31,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0001.310.jpg"
+      },
+      {
+        "time": 2.28,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0002.280.jpg"
+      },
+      {
+        "time": 3.249,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0003.249.jpg"
+      },
+      {
+        "time": 4.219,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0004.219.jpg"
+      },
+      {
+        "time": 5.189,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0005.189.jpg"
+      },
+      {
+        "time": 6.159,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0006.159.jpg"
+      },
+      {
+        "time": 7.129,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0007.129.jpg"
+      },
+      {
+        "time": 8.099,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0008.099.jpg"
+      },
+      {
+        "time": 9.069,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0009.069.jpg"
+      },
+      {
+        "time": 10.039,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0010.039.jpg"
+      },
+      {
+        "time": 11.009,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0011.009.jpg"
+      },
+      {
+        "time": 11.979,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0011.979.jpg"
+      },
+      {
+        "time": 12.949,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0012.949.jpg"
+      },
+      {
+        "time": 13.919,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0013.919.jpg"
+      },
+      {
+        "time": 14.889,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_052_069\\0014.889.jpg"
+      }
+    ],
+    "sheet": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\07_052_069-联系表.jpg"
+  },
+  {
+    "id": "07_050_066067068",
+    "pack": "D:\\SteamLibrary\\steamapps\\common\\江山北望\\chapter7_neutral.pack",
+    "entry": "videos/07_050_066067068.mp4",
+    "mp4": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\候选原片\\07_050_066067068.mp4",
+    "sha256": "1774a0e1e601aa146483850b3976a0745a711beef741605ae0662777771ef2a4",
+    "duration": 369.92,
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_time_base": "1/50",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1088,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 51,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4734976,
+        "duration": "369.920000",
+        "bit_rate": "12010113",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "9248",
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "Apple Video Media Handler",
+          "encoder": "Lavc62.11.100 libx264",
+          "timecode": "00:00:00:00"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_time_base": "1/48000",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 17756160,
+        "duration": "369.920000",
+        "bit_rate": "321468",
+        "max_bit_rate": "321468",
+        "nb_frames": "17341",
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "Apple Sound Media Handler"
+        }
+      },
+      {
+        "index": 2,
+        "codec_type": "data",
+        "codec_tag_string": "tmcd",
+        "codec_tag": "0x64636d74",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4734976,
+        "duration": "369.920000",
+        "nb_frames": "1",
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "Apple Video Media Handler",
+          "timecode": "00:00:00:00"
+        }
+      }
+    ],
+    "frames": [
+      {
+        "time": 8.092,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0008.092.jpg"
+      },
+      {
+        "time": 31.212,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0031.212.jpg"
+      },
+      {
+        "time": 54.332,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0054.332.jpg"
+      },
+      {
+        "time": 77.452,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0077.452.jpg"
+      },
+      {
+        "time": 100.572,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0100.572.jpg"
+      },
+      {
+        "time": 123.692,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0123.692.jpg"
+      },
+      {
+        "time": 146.812,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0146.812.jpg"
+      },
+      {
+        "time": 169.932,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0169.932.jpg"
+      },
+      {
+        "time": 193.052,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0193.052.jpg"
+      },
+      {
+        "time": 216.172,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0216.172.jpg"
+      },
+      {
+        "time": 239.292,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0239.292.jpg"
+      },
+      {
+        "time": 262.412,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0262.412.jpg"
+      },
+      {
+        "time": 285.532,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0285.532.jpg"
+      },
+      {
+        "time": 308.652,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0308.652.jpg"
+      },
+      {
+        "time": 331.772,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0331.772.jpg"
+      },
+      {
+        "time": 354.892,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\07_050_066067068\\0354.892.jpg"
+      }
+    ],
+    "sheet": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\07_050_066067068-联系表.jpg"
+  },
+  {
+    "id": "00_075_034",
+    "pack": "D:\\SteamLibrary\\steamapps\\common\\江山北望\\chapter0_neutral.pack",
+    "entry": "videos/00_075_034.mp4",
+    "mp4": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\候选原片\\00_075_034.mp4",
+    "sha256": "d4f363051b9611e0497667e4f30580fd4a7e435d31a00334d7c7264605760904",
+    "duration": 148.4,
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_time_base": "1/50",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1088,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 51,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1899520,
+        "duration": "148.400000",
+        "bit_rate": "11980727",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "3710",
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "Apple Video Media Handler",
+          "encoder": "Lavc62.11.100 libx264",
+          "timecode": "00:00:00:00"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_time_base": "1/48000",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 7123200,
+        "duration": "148.400000",
+        "bit_rate": "306364",
+        "max_bit_rate": "320000",
+        "nb_frames": "6958",
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "Apple Sound Media Handler"
+        }
+      },
+      {
+        "index": 2,
+        "codec_type": "data",
+        "codec_tag_string": "tmcd",
+        "codec_tag": "0x64636d74",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1899520,
+        "duration": "148.400000",
+        "nb_frames": "1",
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "Apple Video Media Handler",
+          "timecode": "00:00:00:00"
+        }
+      }
+    ],
+    "frames": [
+      {
+        "time": 3.246,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0003.246.jpg"
+      },
+      {
+        "time": 12.521,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0012.521.jpg"
+      },
+      {
+        "time": 21.796,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0021.796.jpg"
+      },
+      {
+        "time": 31.071,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0031.071.jpg"
+      },
+      {
+        "time": 40.346,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0040.346.jpg"
+      },
+      {
+        "time": 49.621,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0049.621.jpg"
+      },
+      {
+        "time": 58.896,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0058.896.jpg"
+      },
+      {
+        "time": 68.171,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0068.171.jpg"
+      },
+      {
+        "time": 77.446,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0077.446.jpg"
+      },
+      {
+        "time": 86.721,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0086.721.jpg"
+      },
+      {
+        "time": 95.996,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0095.996.jpg"
+      },
+      {
+        "time": 105.271,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0105.271.jpg"
+      },
+      {
+        "time": 114.546,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0114.546.jpg"
+      },
+      {
+        "time": 123.821,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0123.821.jpg"
+      },
+      {
+        "time": 133.096,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0133.096.jpg"
+      },
+      {
+        "time": 142.371,
+        "path": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\frames\\00_075_034\\0142.371.jpg"
+      }
+    ],
+    "sheet": "D:\\Projects\\Game\\江山北望-影像风格研究-20261117\\00_075_034-联系表.jpg"
+  }
+]

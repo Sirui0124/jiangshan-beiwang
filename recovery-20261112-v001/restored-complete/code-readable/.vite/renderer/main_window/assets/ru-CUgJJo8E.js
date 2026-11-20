@@ -1,0 +1,76 @@
+((function () {
+  try {
+    var e =
+      typeof window < `u`
+        ? window
+        : typeof global < `u`
+          ? global
+          : typeof globalThis < `u`
+            ? globalThis
+            : typeof self < `u`
+              ? self
+              : {};
+    e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+  } catch {}
+})(),
+  (function () {
+    try {
+      var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {};
+      e.SENTRY_RELEASE = { id: `40a167f5927668c5c0cb74f2fa9fea4891d58042` };
+    } catch {}
+  })());
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `41ff8fd7-4c54-47bc-8f47-b8d36f962ac4`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-41ff8fd7-4c54-47bc-8f47-b8d36f962ac4`));
+  })();
+} catch {}
+try {
+  (function () {
+    var e =
+        typeof window < `u`
+          ? window
+          : typeof global < `u`
+            ? global
+            : typeof globalThis < `u`
+              ? globalThis
+              : typeof self < `u`
+                ? self
+                : {},
+      t = new e.Error().stack;
+    t &&
+      ((e._sentryDebugIds = e._sentryDebugIds || {}),
+      (e._sentryDebugIds[t] = `38b21b89-c9f8-4e6d-a252-a3553588395d`),
+      (e._sentryDebugIdIdentifier = `sentry-dbid-38b21b89-c9f8-4e6d-a252-a3553588395d`));
+  })();
+} catch {}
+const e = {
+  server_locale: `ru_RU`,
+  generic_name: `Russian`,
+  localized_name: `Русский (Beta)`,
+};
+var t = { _meta: e };
+export { e as _meta, t as default };
+//# sourceMappingURL=ru-CUgJJo8E.js.map

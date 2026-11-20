@@ -1,0 +1,452 @@
+[
+  {
+    "file": ".vite\\build\\main.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\build\\preload.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\achievements-q4KXDuPO.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\AchievementsView-AwGs5zfd.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\AchievementsView-DDXAt_aF.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\announcements-CUHuWzqR.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\AnnouncementsView-BJJk-0dY.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\AnnouncementsView-EbY4DI39.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\be界面音效-C2J-Skue.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\BtnNavi-4Bk8aExR.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\BtnNavi-CyVOedxu.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\BtnWithImg-BJlsUaS9.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\BtnWithImg-C29tj1UA.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\ChapterView-Bvov20_-.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\ChapterView-C1EaLDhk.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\chapter_endings-BM1InKwm.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\characters-OTaZOmsV.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\CharacterView-3Sy2WR3t.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\CharacterView-D6fQrSIC.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\CreditsView-D5-5y4BN.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\CreditsView-DLjebp1g.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\dialog-BMysXRYZ.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\en-B667Hz_9.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\en-DVZlxFtR.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\endings-89BoC0Bj.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\esc-A6BI7W62.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\game-BTLGP1Kl.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\index-BCH7gmb7.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\index-DqaUc-Mf.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\ja-BBV4BAhf.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\ja-Cqp0sR9O.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\ko-B-7TqOes.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\ko-CQaklz2s.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\LeisureModePlayerView-CLgll3re.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\LeisureModePlayerView-DX8q7g4F.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\leisure_mode_playlist-DywO5UEO.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\LicenseView-BC-_446n.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\LicenseView-Biyfq0IW.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\LoadingAnimation-CDiD_LAm.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\LoadingAnimation-dZANp_9I.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\LoadingView-BefVSSge.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\LoadingView-Bf97xjnq.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\LoadingView-DkTx8jU1.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\lock-KXuPJAyk.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\MainMenuView-45x4hbHi.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\MainMenuView-BRabFu1Q.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\media-CGyxac_o.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\navigation-D0fhxgIL.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\PageNavBar-CQM5miev.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\PageNavBar-CYpsmmTe.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\PlayerView-0K737eBt.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\PlayerView-Df_PpEAP.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\PortfolioView-BRj61Gla.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\PortfolioView-C8GjVWK-.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\preload-BwqIQoQP.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\rolldown-runtime-puNP7PS7.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\router-BE9Fjxsm.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\router-BQNMVyvQ.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\ru-BbV_cZd1.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\ru-CUgJJo8E.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\SettingsView-C-hhC2eS.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\SettingsView-DGxrRzX2.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\StoryletPlayer-ClJzgEbD.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\StoryletPlayer-PwJrfDfZ.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\StorylineView-B7Fzlss6.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\StorylineView-DgjWXAEw.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\ui-DN9zXgzf.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\vendor-CsyOLyP3.js",
+    "format_idempotent": false,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\vendor-uDFgPAft.css",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\videos-CYDeOwst.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\videos_with_value_changes-19KMUzpO.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\vue-B7Je9h0e.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\zh-cmn-Hans-DCjjwtGP.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\zh-CN-DQIDQQWA.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\_plugin-vue_export-helper-DVftEge0.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\关闭高亮-BoZrBZEA.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\好感度音效-CRUjmis2.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\选项飞入声音-B6bdbP-4.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\选项飞出声音-DO1JxwTl.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\音效1-Dd9k5GsH.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\音效11-DNvwl2fl.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\音效12-CEOC0LWT.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\音效2-DnJC9Lcf.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\音效3-DSEtZLTq.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\音效4-HeKtQCb4.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\音效7-DEsmZjfa.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\assets\\音效9-DTg5Es-x.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\index.html",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  },
+  {
+    "file": ".vite\\renderer\\main_window\\needles-worker.js",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": true
+  },
+  {
+    "file": "package.json",
+    "format_idempotent": true,
+    "javascript_ast_equivalent": null
+  }
+]
